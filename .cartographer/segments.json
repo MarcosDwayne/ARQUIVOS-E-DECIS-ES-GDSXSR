@@ -1,0 +1,21 @@
+{
+  "segments": [
+    {
+      "name": "argparse@.claude/skills/cartographer/scripts/scan-codebase.py",
+      "files": [
+        ".claude/skills/cartographer/scripts/scan-codebase.py",
+        ".claude/skills/cartographer/scripts/scan-codebase.py"
+      ],
+      "file_count": 2,
+      "loc": 1118,
+      "symbol_count": 16,
+      "integrations": [
+        "argparse",
+        "filesystem"
+      ],
+      "endpoints": [],
+      "directory_prefix": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "complexity_score": 11
+    }
+  ]
+}

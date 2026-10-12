@@ -1,0 +1,100 @@
+{
+  "pipelines": [
+    {
+      "entry": {
+        "kind": "main",
+        "label": "main() in .claude/skills/cartographer/scripts/scan-codebase.py",
+        "symbol_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+        "framework": ""
+      },
+      "node_count": 8,
+      "edge_count": 7,
+      "external_top": [],
+      "nodes": [
+        {
+          "id": ".claude/skills/cartographer/scripts/scan-codebase.py::count_tokens",
+          "name": "count_tokens",
+          "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+          "line": 186
+        },
+        {
+          "id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+          "name": "format_tree",
+          "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+          "line": 452
+        },
+        {
+          "id": ".claude/skills/cartographer/scripts/scan-codebase.py::is_text_file",
+          "name": "is_text_file",
+          "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+          "line": 195
+        },
+        {
+          "id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+          "name": "main",
+          "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+          "line": 496
+        },
+        {
+          "id": ".claude/skills/cartographer/scripts/scan-codebase.py::matches_pattern",
+          "name": "matches_pattern",
+          "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+          "line": 132
+        },
+        {
+          "id": ".claude/skills/cartographer/scripts/scan-codebase.py::parse_gitignore",
+          "name": "parse_gitignore",
+          "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+          "line": 118
+        },
+        {
+          "id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+          "name": "scan_directory",
+          "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+          "line": 367
+        },
+        {
+          "id": ".claude/skills/cartographer/scripts/scan-codebase.py::should_ignore",
+          "name": "should_ignore",
+          "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+          "line": 164
+        }
+      ],
+      "edges": [
+        [
+          ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+          ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree"
+        ],
+        [
+          ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+          ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory"
+        ],
+        [
+          ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+          ".claude/skills/cartographer/scripts/scan-codebase.py::count_tokens"
+        ],
+        [
+          ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+          ".claude/skills/cartographer/scripts/scan-codebase.py::is_text_file"
+        ],
+        [
+          ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+          ".claude/skills/cartographer/scripts/scan-codebase.py::parse_gitignore"
+        ],
+        [
+          ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+          ".claude/skills/cartographer/scripts/scan-codebase.py::should_ignore"
+        ],
+        [
+          ".claude/skills/cartographer/scripts/scan-codebase.py::should_ignore",
+          ".claude/skills/cartographer/scripts/scan-codebase.py::matches_pattern"
+        ]
+      ]
+    }
+  ],
+  "stats": {
+    "total_pipelines": 1,
+    "max_depth": 6,
+    "max_nodes_per_pipeline": 60
+  }
+}

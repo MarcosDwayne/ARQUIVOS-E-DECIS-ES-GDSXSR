@@ -1,0 +1,9 @@
+{
+  "endpoints": [],
+  "stats": {
+    "total_endpoints": 0,
+    "linked_to_handler": 0,
+    "max_depth": 10,
+    "max_nodes_per_endpoint": 120
+  }
+}

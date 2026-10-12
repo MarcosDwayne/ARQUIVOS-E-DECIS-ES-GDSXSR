@@ -1,0 +1,40 @@
+{
+  "wave_size": 5,
+  "total_segments": 1,
+  "total_waves": 1,
+  "waves": [
+    [
+      "argparse@.claude/skills/cartographer/scripts/scan-codebase.py"
+    ]
+  ],
+  "segment_dependencies": {},
+  "specialist_assignments": {
+    "argparse@.claude/skills/cartographer/scripts/scan-codebase.py": {
+      "assigned_agent": "generalist-reviewer",
+      "score": 0,
+      "runners_up": []
+    }
+  },
+  "specialist_index": {
+    "ai-pipeline-reviewer": "ai-pipeline-reviewer.md",
+    "auth-security-reviewer": "auth-security-reviewer.md",
+    "backend-api-reviewer": "backend-api-reviewer.md",
+    "caching-reviewer": "caching-reviewer.md",
+    "cli-tool-reviewer": "cli-tool-reviewer.md",
+    "data-pipeline-reviewer": "data-pipeline-reviewer.md",
+    "db-schema-reviewer": "db-schema-reviewer.md",
+    "devops-config-reviewer": "devops-config-reviewer.md",
+    "file-storage-reviewer": "file-storage-reviewer.md",
+    "frontend-designer-reviewer": "frontend-designer-reviewer.md",
+    "frontend-ui-reviewer": "frontend-ui-reviewer.md",
+    "generalist-reviewer": "generalist-reviewer.md",
+    "mobile-reviewer": "mobile-reviewer.md",
+    "queue-worker-reviewer": "queue-worker-reviewer.md",
+    "realtime-streaming-reviewer": "realtime-streaming-reviewer.md",
+    "supabase-reviewer": "supabase-reviewer.md",
+    "telegram-bot-reviewer": "telegram-bot-reviewer.md",
+    "test-suite-reviewer": "test-suite-reviewer.md",
+    "webhook-integration-reviewer": "webhook-integration-reviewer.md"
+  },
+  "specialist_gaps": []
+}

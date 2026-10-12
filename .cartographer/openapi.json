@@ -1,0 +1,14 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Synthetic OpenAPI from cartographer",
+    "version": "synth",
+    "description": "Built from statically detected endpoints. Run the server and use --live-url for richer schemas."
+  },
+  "paths": {},
+  "x-cartographer": {
+    "synthetic": true,
+    "endpoint_count": 0,
+    "handler_index": {}
+  }
+}

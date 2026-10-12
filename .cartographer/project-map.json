@@ -1,0 +1,849 @@
+{
+  "root": "/home/claude/ARQUIVOS-E-DECIS-ES-GDSXSR",
+  "files": [
+    {
+      "path": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "lang": "python",
+      "loc": 559,
+      "imports": [
+        "argparse",
+        "json",
+        "sys",
+        "pathlib",
+        "tiktoken",
+        "fnmatch",
+        "fnmatch",
+        "fnmatch"
+      ],
+      "integrations": [
+        "argparse",
+        "filesystem"
+      ],
+      "symbol_count": 8
+    }
+  ],
+  "edges": [],
+  "symbols": [
+    {
+      "id": ".claude/skills/cartographer/scripts/scan-codebase.py::parse_gitignore",
+      "name": "parse_gitignore",
+      "qualname": "parse_gitignore",
+      "kind": "function",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 118,
+      "header": "Parse .gitignore file and return patterns.",
+      "class_of": ""
+    },
+    {
+      "id": ".claude/skills/cartographer/scripts/scan-codebase.py::matches_pattern",
+      "name": "matches_pattern",
+      "qualname": "matches_pattern",
+      "kind": "function",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 132,
+      "header": "Check if a path matches a gitignore-style pattern.",
+      "class_of": ""
+    },
+    {
+      "id": ".claude/skills/cartographer/scripts/scan-codebase.py::should_ignore",
+      "name": "should_ignore",
+      "qualname": "should_ignore",
+      "kind": "function",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 164,
+      "header": "Check if a path should be ignored.",
+      "class_of": ""
+    },
+    {
+      "id": ".claude/skills/cartographer/scripts/scan-codebase.py::count_tokens",
+      "name": "count_tokens",
+      "qualname": "count_tokens",
+      "kind": "function",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 186,
+      "header": "Count tokens in text using tiktoken.",
+      "class_of": ""
+    },
+    {
+      "id": ".claude/skills/cartographer/scripts/scan-codebase.py::is_text_file",
+      "name": "is_text_file",
+      "qualname": "is_text_file",
+      "kind": "function",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 195,
+      "header": "Check if a file is likely a text file.",
+      "class_of": ""
+    },
+    {
+      "id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "name": "scan_directory",
+      "qualname": "scan_directory",
+      "kind": "function",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 367,
+      "header": "Scan a directory and return file information with token counts.",
+      "class_of": ""
+    },
+    {
+      "id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "name": "format_tree",
+      "qualname": "format_tree",
+      "kind": "function",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 452,
+      "header": "Format scan results as a tree structure.",
+      "class_of": ""
+    },
+    {
+      "id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "name": "main",
+      "qualname": "main",
+      "kind": "function",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 496,
+      "header": "",
+      "class_of": ""
+    }
+  ],
+  "classes": [],
+  "calls": [
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::parse_gitignore",
+      "callee_name": "gitignore_path.exists",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 122
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::parse_gitignore",
+      "callee_name": "open",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 123
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::parse_gitignore",
+      "callee_name": "line.strip",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 125
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::parse_gitignore",
+      "callee_name": "patterns.append",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 128
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::parse_gitignore",
+      "callee_name": "line.startswith",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 127
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::matches_pattern",
+      "callee_name": "str",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 134
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::matches_pattern",
+      "callee_name": "pattern.startswith",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 138
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::matches_pattern",
+      "callee_name": "pattern.endswith",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 142
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::matches_pattern",
+      "callee_name": "path.relative_to",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 134
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::matches_pattern",
+      "callee_name": "pattern.startswith",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 150
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::matches_pattern",
+      "callee_name": "fnmatch.fnmatch",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 161
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::matches_pattern",
+      "callee_name": "path.is_dir",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 143
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::matches_pattern",
+      "callee_name": "fnmatch.fnmatch",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 154
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::matches_pattern",
+      "callee_name": "fnmatch.fnmatch",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 154
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::should_ignore",
+      "callee_name": "matches_pattern",
+      "callee_id": ".claude/skills/cartographer/scripts/scan-codebase.py::matches_pattern",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 180
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::should_ignore",
+      "callee_name": "fnmatch.fnmatch",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 173
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::count_tokens",
+      "callee_name": "len",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 189
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::count_tokens",
+      "callee_name": "encoding.encode",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 189
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::count_tokens",
+      "callee_name": "len",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 192
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::is_text_file",
+      "callee_name": "path.suffix.lower",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 322
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::is_text_file",
+      "callee_name": "path.name.lower",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 327
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::is_text_file",
+      "callee_name": "open",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 352
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::is_text_file",
+      "callee_name": "f.read",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 353
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::is_text_file",
+      "callee_name": "chunk.decode",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 359
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "root.resolve",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 382
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "parse_gitignore",
+      "callee_id": ".claude/skills/cartographer/scripts/scan-codebase.py::parse_gitignore",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 383
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "walk",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 440
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "should_ignore",
+      "callee_id": ".claude/skills/cartographer/scripts/scan-codebase.py::should_ignore",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 393
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "current.is_dir",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 396
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "str",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 443
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "len",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 447
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "str",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 397
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "current.is_file",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 408
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "current.relative_to",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 397
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "directories.append",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 399
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "sorted",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 402
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "str",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 409
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "current.iterdir",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 402
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "walk",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 404
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "skipped.append",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 406
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "current.relative_to",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 409
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "current.stat",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 410
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "skipped.append",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 414
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "is_text_file",
+      "callee_id": ".claude/skills/cartographer/scripts/scan-codebase.py::is_text_file",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 417
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "skipped.append",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 418
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "count_tokens",
+      "callee_id": ".claude/skills/cartographer/scripts/scan-codebase.py::count_tokens",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 424
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "files.append",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 430
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "open",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 422
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "f.read",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 423
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "skipped.append",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 427
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "skipped.append",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 438
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "str",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 406
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "p.name.lower",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 402
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "current.relative_to",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 406
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "p.is_dir",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 402
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "callee_name": "str",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 438
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "callee_name": "lines.append",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 456
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "callee_name": "lines.append",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 457
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "callee_name": "lines.append",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 458
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "callee_name": "print_tree",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 492
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "callee_name": "join",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 493
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "callee_name": "Path",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 455
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "callee_name": "sorted",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 473
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "callee_name": "enumerate",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 475
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "callee_name": "Path",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 463
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "callee_name": "node.items",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 473
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "callee_name": "isinstance",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 479
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "callee_name": "lines.append",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 481
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "callee_name": "print_tree",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 483
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "callee_name": "len",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 476
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "callee_name": "value.get",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 487
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "callee_name": "lines.append",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 488
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "callee_name": "lines.append",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 490
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "callee_name": "lower",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 473
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "callee_name": "isinstance",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 473
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "argparse.ArgumentParser",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 497
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "parser.add_argument",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 500
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "parser.add_argument",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 506
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "parser.add_argument",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 512
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "parser.add_argument",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 518
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "parser.parse_args",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 524
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "resolve",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 525
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "scan_directory",
+      "callee_id": ".claude/skills/cartographer/scripts/scan-codebase.py::scan_directory",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 541
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "path.exists",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 527
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "print",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 528
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "sys.exit",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 529
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "path.is_dir",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 531
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "print",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 532
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "sys.exit",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 533
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "tiktoken.get_encoding",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 536
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "print",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 544
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "Path",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 525
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "print",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 538
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "sys.exit",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 539
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "json.dumps",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 544
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "print",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 546
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "format_tree",
+      "callee_id": ".claude/skills/cartographer/scripts/scan-codebase.py::format_tree",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 546
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "sorted",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 549
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "print",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 550
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "print",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 551
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "print",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 552
+    },
+    {
+      "caller_id": ".claude/skills/cartographer/scripts/scan-codebase.py::main",
+      "callee_name": "print",
+      "callee_id": "",
+      "file": ".claude/skills/cartographer/scripts/scan-codebase.py",
+      "line": 554
+    }
+  ],
+  "endpoints": [],
+  "integration_index": {
+    "filesystem": [
+      ".claude/skills/cartographer/scripts/scan-codebase.py"
+    ],
+    "argparse": [
+      ".claude/skills/cartographer/scripts/scan-codebase.py"
+    ]
+  },
+  "ts_path_aliases": {},
+  "parse_errors": [],
+  "stats": {
+    "files": 1,
+    "edges": 0,
+    "symbols": 8,
+    "classes": 0,
+    "calls": 102,
+    "calls_resolved": 7,
+    "endpoints": 0,
+    "integrations": [
+      "filesystem",
+      "argparse"
+    ]
+  }
+}
