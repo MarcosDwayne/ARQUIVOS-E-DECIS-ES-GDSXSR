@@ -1,6 +1,14 @@
 {
   "extraKnownMarketplaces": {
-    "cartographer": { "source": { "source": "github", "repo": "kingbootoshi/cartographer" } }
+    "cartographer": {
+      "source": {
+        "source": "github",
+        "repo": "kingbootoshi/cartographer"
+      }
+    }
   },
-  "enabledPlugins": { "cartographer@cartographer-marketplace": true }
+  "enabledPlugins": {
+    "cartographer@cartographer-marketplace": true,
+    "claude-code-setup@claude-plugins-official": true
+  }
 }
