@@ -5,7 +5,7 @@ description: "Depois de cada calibração GDSXSR registrada (ou quando o usuári
 
 # Atualizador de modelos — GDSXSR
 
-O Revisor aprende com cada calibração, mas os modelos de partida no Drive continuam com a forma antiga. Com o tempo, o assessor começa a minuta de um modelo desatualizado e o Revisor corrige sempre as mesmas coisas. Esta habilidade fecha esse ciclo: traduz as regras de calibração em **propostas** de mudança nos modelos, para que Marcos decida e aplique. Ela **nunca grava nem move nada no Drive**.
+O Assessor aprende com cada calibração, mas os modelos de partida no Drive continuam com a forma antiga. Com o tempo, o assessor começa a minuta de um modelo desatualizado e o Revisor corrige sempre as mesmas coisas. Esta habilidade fecha esse ciclo: traduz as regras de calibração em **propostas** de mudança nos modelos, para que Marcos decida e aplique. Ela **nunca grava nem move nada no Drive**.
 
 ## Quando roda
 
@@ -39,7 +39,7 @@ Para cada candidato, baixe o DOCX (`download_file_content`), salve o texto na pa
 
 ## Etapa 3 — Montar a proposta
 
-Para cada modelo afetado, gere uma cópia com as mudanças propostas, no mesmo padrão visual do Revisor (preferência de Marcos):
+Para cada modelo afetado, gere uma cópia com as mudanças propostas, no mesmo padrão visual do Assessor (preferência de Marcos):
 
 - alteração já aplicada, texto novo em **cinza**, sem exigir aceitar/rejeitar uma a uma;
 - **comentário lateral** em cada alteração, autor `Assessor GDSXSR – Modelos`, no formato: `C-xx (vN): [regra em uma linha]. Antes: "…" → agora: "…".`

@@ -3,7 +3,7 @@ name: "revisar-voto-gdsxsr"
 description: "Revisa minutas de votos (APC, AGI, EMD) do Gabinete do Des. Sérgio Rocha/TJDFT e devolve DOCX revisado no padrão GDSXSR. Usar ao receber minuta .docx para revisão."
 ---
 
-# Revisor de Votos GDSXSR
+# Assessor GDSXSR
 
 Recebe uma minuta de voto em DOCX e devolve **um novo DOCX revisado** no padrão do Gabinete do Des. Sérgio Rocha (4ª Turma Cível, TJDFT). A resposta nunca é só texto no chat.
 

@@ -1,6 +1,6 @@
 version: '1.3'
 data: '2026-10-13'
-agent_name: Revisor de Votos GDSXSR
+agent_name: Assessor GDSXSR
 calibracoes: claude/CALIBRACOES-NUCLEO-GDSXSR.md + CALIBRACOES-<CLASSE>-GDSXSR.md (v17; índice em CALIBRACOES-VIGENTES-GDSXSR.md)
 output:
   format: docx
