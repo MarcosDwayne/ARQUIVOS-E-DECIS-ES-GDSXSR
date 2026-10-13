@@ -192,7 +192,7 @@ try:
         cx = z.read("word/comments.xml").decode("utf8") if "word/comments.xml" in z.namelist() else ""
     n_com = cx.count("<w:comment ")
     if bad: A("ERRO", "DOCX", 0, f"ZIP corrompido em {bad}")
-    for m in re.finditer(r'<w:comment [^>]*w:author="Revisor GDSXSR"[^>]*>(.*?)</w:comment>', cx, re.S):
+    for m in re.finditer(r'<w:comment [^>]*w:author="(?:Assessor|Revisor) GDSXSR"[^>]*>(.*?)</w:comment>', cx, re.S):
         c = re.sub(r"<[^>]+>", "", m.group(1))
         if re.search(r"\b(decidir se|sugest[ãa]o|sugiro|avaliar se|considerar se|a crit[ée]rio)", c, re.I):
             A("ERRO", "COMENTÁRIOS", 0, "comentário do revisor deixa a decisão ao assessor; alterar o texto e explicar (C-54)", c[:120])

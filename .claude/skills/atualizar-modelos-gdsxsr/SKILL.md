@@ -1,6 +1,6 @@
 ---
 name: "atualizar-modelos-gdsxsr"
-description: Depois de cada calibração GDSXSR registrada (ou quando o usuário pedir), verifica quais regras novas ou alteradas devem refletir nos modelos e estruturas prontas do Gabinete do Des. Sérgio Rocha/TJDFT no Drive e devolve, para cada modelo afetado, um DOCX de proposta com as mudanças aplicadas em cinza e comentário explicando cada uma, sem gravar nada no Drive. Usar logo após registrar-calibracao e sempre que o usuário falar em atualizar, ajustar ou revisar modelos, estruturas prontas, manual ou modelos ouro, mesmo sem dizer o nome da habilidade.
+description: "Depois de cada calibração GDSXSR registrada (ou quando o usuário pedir), verifica quais regras novas ou alteradas devem refletir nos modelos e estruturas prontas do Gabinete do Des. Sérgio Rocha/TJDFT no Drive e devolve, para cada modelo afetado, um DOCX de proposta com as mudanças aplicadas em cinza e comentário explicando cada uma, sem gravar nada no Drive. Usar logo após registrar-calibracao e sempre que o usuário falar em atualizar, ajustar ou revisar modelos, estruturas prontas, manual ou modelos ouro, mesmo sem dizer o nome da habilidade."
 ---
 
 # Atualizador de modelos — GDSXSR
@@ -9,12 +9,12 @@ O Revisor aprende com cada calibração, mas os modelos de partida no Drive cont
 
 ## Quando roda
 
-- **Após cada calibração:** ao fim de `registrar-calibracao`, rode esta habilidade sobre as regras novas, alteradas ou substituídas naquela versão.
 - **Sob pedido:** quando Marcos pedir para revisar os modelos. Sem indicação de versão, considere todas as regras ATIVAS e compare com os modelos atuais.
+- **Após uma calibração:** ao fim de `registrar-calibracao`, ofereça rodar esta habilidade sobre as regras novas, alteradas ou substituídas naquela versão; só rode quando Marcos confirmar, para não gastar tokens à toa.
 
 ## Etapa 1 — Separar as regras que tocam os modelos
 
-Use `claude/CALIBRACOES-NUCLEO-GDSXSR.md` e os arquivos de classe; se ele já foi lido nesta conversa (por exemplo, por `registrar-calibracao`), não leia de novo. Após uma calibração, use o **Registro de alterações** (`historico/REGISTRO-ALTERACOES-CALIBRACOES.md`) para pegar só as regras da versão nova (novas, alteradas, substituídas).
+Use `claude/CALIBRACOES-NUCLEO-GDSXSR.md` e os arquivos de classe (`CALIBRACOES-APC/AGI/EMD-GDSXSR.md`); se já foram lidos nesta conversa (por exemplo, por `registrar-calibracao`), não leia de novo. Após uma calibração, use o **Registro de alterações** (`historico/REGISTRO-ALTERACOES-CALIBRACOES.md`) para pegar só as regras da versão nova (novas, alteradas, substituídas).
 
 Uma regra toca os modelos quando muda algo que já aparece pronto no modelo antes de o assessor escrever o caso:
 
@@ -42,7 +42,7 @@ Para cada candidato, baixe o DOCX (`download_file_content`), salve o texto na pa
 Para cada modelo afetado, gere uma cópia com as mudanças propostas, no mesmo padrão visual do Revisor (preferência de Marcos):
 
 - alteração já aplicada, texto novo em **cinza**, sem exigir aceitar/rejeitar uma a uma;
-- **comentário lateral** em cada alteração, autor `Revisor GDSXSR – Modelos`, no formato: `C-xx (vN): [regra em uma linha]. Antes: "…" → agora: "…".`
+- **comentário lateral** em cada alteração, autor `Assessor GDSXSR – Modelos`, no formato: `C-xx (vN): [regra em uma linha]. Antes: "…" → agora: "…".`
 - mude só o que a regra exige; não aproveite para "melhorar" outras partes do modelo, porque Marcos precisa conseguir conferir cada mudança contra uma regra.
 
 Use a ferramenta da revisão, `claude/ferramentas/revisao_tracked.py` (lida do projeto; não a reescreva de memória). Sem ela, avise o usuário e use a habilidade `docx`.

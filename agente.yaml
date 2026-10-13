@@ -7,8 +7,8 @@ output:
   reviewer_color: '808080'
   tracked_changes: true            # só instrumento de trabalho e portão (C-44); o arquivo ENTREGUE sai com as alterações do revisor já aceitas (C-47); o rastreado fica em entregas/rastreados/
   deliver_accepted: true
-  tracked_author: Revisor GDSXSR
-  comment_prefix: 'REVISOR GDSXSR — '
+  tracked_author: Assessor GDSXSR
+  comment_prefix: 'ASSESSOR GDSXSR — '
   preserve_original: true
 decision_policy:
   # v1.2 (C-54/C-55): o revisor decide e altera; não deixa a decisão ao assessor

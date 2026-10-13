@@ -3,7 +3,7 @@ name: "ocr-pdf-gdsxsr"
 description: "Faz OCR de PDFs de processo formados por imagens (sem texto selecionável) e gera .txt com página e ID da peça. Usar quando o PDF não tiver camada de texto."
 ---
 
-# Leitura de PDFs do Revisor GDSXSR (MarkItDown + OCR)
+# Leitura de PDFs do Assessor GDSXSR (MarkItDown + OCR)
 
 ## Regra de escolha
 - **PDF com camada de texto → MarkItDown** (rápido, gera Markdown limpo).

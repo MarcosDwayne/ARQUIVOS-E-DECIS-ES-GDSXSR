@@ -1,4 +1,4 @@
-"""Edição com controle de alterações do Word para o Revisor GDSXSR.
+"""Edição com controle de alterações do Word para o Assessor GDSXSR.
 
 Toda inserção é gravada como alteração rastreada (w:ins) com a fonte já na cor 808080:
 ao aceitar a alteração no Word, o texto novo permanece cinza. Exclusões viram w:del;
@@ -32,7 +32,7 @@ from docx.oxml import OxmlElement
 from docx.shared import RGBColor
 from docx.text.run import Run
 
-AUTOR = "Revisor GDSXSR"
+AUTOR = "Assessor GDSXSR"
 CINZA = RGBColor(0x80, 0x80, 0x80)
 _ANCORAS = {qn("w:commentRangeStart"), qn("w:commentRangeEnd")}
 _PERMITIDOS_P = {qn("w:pPr"), qn("w:r"), qn("w:bookmarkStart"), qn("w:bookmarkEnd"), qn("w:proofErr")} | _ANCORAS

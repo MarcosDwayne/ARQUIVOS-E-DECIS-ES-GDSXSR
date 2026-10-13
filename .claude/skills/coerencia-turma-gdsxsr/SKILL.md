@@ -1,6 +1,6 @@
 ---
 name: "coerencia-turma-gdsxsr"
-description: Confere se a minuta de voto (APC, AGI, EMD) do Gabinete do Des. Sérgio Rocha/TJDFT está alinhada com o que o próprio Desembargador e a 4ª Turma Cível decidiram no último ano e, só quando houver divergência ou Turma dividida, insere comentário lateral no DOCX com os julgados. Usar sempre junto com a revisão de minuta (revisar-voto-gdsxsr) e também quando o usuário pedir para checar coerência, entendimento da Turma, como o Desembargador costuma decidir, ou se a minuta "vai contra" a Turma, mesmo sem dizer o nome da habilidade.
+description: "Confere se a minuta de voto (APC, AGI, EMD) do Gabinete do Des. Sérgio Rocha/TJDFT está alinhada com o que o próprio Desembargador e a 4ª Turma Cível decidiram no último ano e, só quando houver divergência ou Turma dividida, insere comentário lateral no DOCX com os julgados. Usar sempre junto com a revisão de minuta (revisar-voto-gdsxsr) e também quando o usuário pedir para checar coerência, entendimento da Turma, como o Desembargador costuma decidir, ou se a minuta \"vai contra\" a Turma, mesmo sem dizer o nome da habilidade."
 ---
 
 # Coerência com a Turma — GDSXSR
@@ -35,7 +35,7 @@ Foque no que muda o resultado: mérito, preliminares acolhidas ou rejeitadas, va
 
 ## Etapa 2 — Pesquisar
 
-Use o conector **IAJUS** (`mcp__mcp_iajus_com_br__pesquisar_decisoes`, carregada com ToolSearch), com `busca.modo="hibrida"` e `limite` 10 a 15. Para cada questão, faça duas buscas:
+Use o conector **IAJUS**, ferramenta `mcp__mcp_iajus_com_br__pesquisar_decisoes` (carregue com ToolSearch), com `busca.modo="hibrida"`. Para cada questão, faça duas buscas:
 
 1. Votos do Desembargador:
    `filtros.tribunal="TJDFT"`, `filtros.relator="Sérgio Rocha"`, `filtros.data_julgamento_min=<hoje − 12 meses, AAAA-MM-DD>`, `limite=10`
@@ -44,11 +44,11 @@ Use o conector **IAJUS** (`mcp__mcp_iajus_com_br__pesquisar_decisoes`, carregada
 
 Escreva a `consulta` como a questão jurídica em linguagem natural, com os fatos relevantes e **sem nomes de partes, CPF ou número do processo da minuta** (o conector proíbe dados pessoais e eles não melhoram a busca). Ex.: "inscrição em cadastro de inadimplentes sem prova da contratação dano moral valor da indenização".
 
-Leia a ementa devolvida (a ementa devolvida). Quando ela não mostrar a solução da questão, abra o link (`link_primario`, JurisDF) com WebFetch e procure o trecho. Descarte resultados que tratem de outra questão: a busca por sentido traz vizinhos que não servem.
+Leia a ementa devolvida. Quando ela não mostrar a solução da questão, use `ler_documento` ou abra o link oficial devolvido (JurisDF) com WebFetch e procure o trecho. Descarte resultados que tratem de outra questão: a busca por sentido traz vizinhos que não servem.
 
-Se o IAJUS falhar, diga isso no relatório e não conclua por ausência de julgados.
+Se o IAJUS falhar, diga isso no relatório e não conclua por ausência de julgados: a ferramenta avisa que zero resultado não certifica cobertura.
 
-Se a busca avisar que a lista pode estar incompleta (aviso de lista incompleta), não conclua por ausência: varie a redação da consulta uma vez antes de decidir.
+Se a busca avisar que a lista pode estar incompleta, não conclua por ausência: varie a redação da consulta uma vez antes de decidir.
 
 ## Etapa 3 — Classificar cada questão
 
@@ -66,7 +66,7 @@ Antes de marcar divergência, verifique se os julgados contrários não têm fat
 
 ## Etapa 4 — Comentar no DOCX
 
-Ancore o comentário no início do parágrafo em que a minuta resolve a questão. Autor do comentário: `Revisor GDSXSR – Coerência`. Use a mesma ferramenta de comentários da revisão (`claude/ferramentas/revisao_tracked.py`, lida do projeto; não a reescreva de memória). Sem ela, use a habilidade `docx` só para inserir comentários, sem tocar no texto.
+Ancore o comentário no início do parágrafo em que a minuta resolve a questão. Autor do comentário: `Assessor GDSXSR – Coerência`. Use a mesma ferramenta de comentários da revisão (`claude/ferramentas/revisao_tracked.py`, lida do projeto; não a reescreva de memória). Sem ela, use a habilidade `docx` só para inserir comentários, sem tocar no texto.
 
 Formato do comentário (curto, direto, sem opções para o usuário escolher):
 

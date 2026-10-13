@@ -1,10 +1,10 @@
-"""Aceita apenas as alterações rastreadas de um autor (Revisor GDSXSR); preserva as de terceiros e os comentários."""
+"""Aceita apenas as alterações rastreadas de um autor (Assessor GDSXSR); preserva as de terceiros e os comentários."""
 import sys
 from docx import Document
 from docx.oxml.ns import qn
 W = lambda t: qn("w:" + t)
 def meu(e, autor): return e.get(W("author")) == autor
-def aceitar(entrada, saida, autor="Revisor GDSXSR"):
+def aceitar(entrada, saida, autor="Assessor GDSXSR"):
     d = Document(entrada); body = d.element.body
     for x in list(body.iter(W("del"))):
         par = x.getparent()

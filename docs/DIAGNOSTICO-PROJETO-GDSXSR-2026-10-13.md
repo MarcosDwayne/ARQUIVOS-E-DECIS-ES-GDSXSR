@@ -1,4 +1,4 @@
-# Diagnóstico geral do projeto Revisor GDSXSR — 13/10/2026
+# Diagnóstico geral do projeto Assessor GDSXSR — 13/10/2026
 
 Só diagnóstico. **Nada foi apagado, movido ou alterado.** Tudo o que sugiro remover ou mudar depende da sua aprovação, e antes de qualquer mudança faço backup em `historico/backup-AAAA-MM-DD/`, como manda o projeto.
 

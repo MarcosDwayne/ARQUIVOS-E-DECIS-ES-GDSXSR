@@ -1,6 +1,6 @@
 ---
-name: pesquisar-legislacao-gdsxsr
-description: Busca e confere legislação federal, distrital (DF), atos normativos internos do TJDFT e atos normativos do CNJ nas fontes oficiais (Planalto, SINJ-DF, DFLegis, Diário Administrativo do TJDFT e portal de atos normativos do CNJ), devolvendo o nome e a ementa da norma, o texto literal do dispositivo na redação vigente, a situação de vigência e o link. Usar sempre que o Revisor GDSXSR precisar localizar ou conferir lei, decreto, medida provisória, Constituição, lei distrital, lei complementar do DF, resolução (inclusive do CNJ), portaria, provimento, recomendação ou regimento interno citado numa minuta de voto (APC, AGI, EMD), checar se artigo/número/data estão certos, se a norma foi revogada ou alterada, ou transcrever um artigo, mesmo que o usuário não diga "legislação" nem o nome das fontes.
+name: "pesquisar-legislacao-gdsxsr"
+description: "Busca e confere legislação federal, distrital (DF), atos normativos internos do TJDFT e atos normativos do CNJ nas fontes oficiais, devolvendo nome, ementa, texto literal na redação vigente, situação e link."
 ---
 
 # Pesquisar legislação (GDSXSR)

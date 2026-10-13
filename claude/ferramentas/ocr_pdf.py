@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""OCR de PDFs formados por imagens (Revisor GDSXSR).
+"""OCR de PDFs formados por imagens (Assessor GDSXSR).
 
 Gera um .txt com o texto de cada página, marcando o número da página do PDF e,
 quando achar o rodapé do PJe ("Num. 88669555 - Pág. 18"), o ID da peça.

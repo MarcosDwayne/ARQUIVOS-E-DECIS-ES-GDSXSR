@@ -1,6 +1,6 @@
 ---
 name: "pesquisar-jurisprudencia-gdsxsr"
-description: "Plano B de jurisprudência (TJDFT, STJ, STF) do Revisor GDSXSR: usar SOMENTE quando a ferramenta iajus falhar, não abrir ou não localizar o precedente."
+description: "Plano B de jurisprudência (TJDFT, STJ, STF) do Assessor GDSXSR: usar SOMENTE quando a ferramenta iajus falhar, não abrir ou não localizar o precedente."
 ---
 
 # Jurisprudência: plano B quando o iajus falhar (GDSXSR)
@@ -8,12 +8,12 @@ description: "Plano B de jurisprudência (TJDFT, STJ, STF) do Revisor GDSXSR: us
 ## Quando usar
 O caminho principal é sempre a ferramenta iajus (`pesquisar_decisoes` com `busca.modo` `hibrida`, `textual` ou `cnj`; `pesquisar_precedentes` para súmula e tema por número; `ler_documento` para o texto integral; carregar com ToolSearch se estiver diferida). Esta skill só entra se o iajus:
 - der erro, ficar fora do ar ou não estiver conectado;
-- devolver resultado vazio ou sem o precedente procurado, mesmo após refinar a consulta uma vez (conferir `aviso_busca`);
+- devolver resultado vazio ou sem o precedente procurado, mesmo após refinar a consulta uma vez (zero não certifica cobertura);
 - não trouxer ementa, tese ou dado essencial (relator, órgão, data).
 Nesses casos, registrar em uma linha por que o iajus não bastou e seguir abaixo. Se o iajus funcionou, não fazer pesquisa paralela nos sites.
 
 ## Regra-mãe
-Só afirmar o que a fonte devolveu nesta conversa. Número, relator, órgão, data, tese e vigência vêm do site oficial, nunca de memória. O Dizer o Direito serve só para descobrir; nunca é fundamento. Não colocar nomes de partes ou dados pessoais em buscas.
+Só afirmar o que a fonte devolveu nesta conversa. Número, relator, órgão, data, tese e vigência vêm do site oficial, nunca de memória. O Dizer o Direito serve só para descobrir; nunca é fundamento. Não colocar nomes de partes ou dados pessoais em buscas. O registro do iajus pode estar defasado (C-60): tema "pendente" ou "sem tese" não se afirma no voto sem conferir o andamento no site do STJ/STF.
 
 ## Dois usos
 1. Conferir precedente já citado na minuta: localizar pelo número, ler ementa/tese e confirmar se diz o que a minuta afirma.
@@ -31,7 +31,7 @@ Só afirmar o que a fonte devolveu nesta conversa. Número, relator, órgão, da
 - Erro 403: portal.stf.jus.br (repercussão geral e inteiro teor).
 - Não confirmados: scon.stj.jus.br/SCON/ (raiz), /jt/jt.jsp, /pesquisa_pronta/listaPP.jsp, informativos do TJDFT, jurisprudencia.stf.jus.br (súmulas). Tentar uma vez cada; se falhar, seguir adiante.
 - curl direto falhou em todos (rede do ambiente); não insistir.
-- Outras ferramentas: o conector Precedentes só serve se expuser ferramentas de jurisprudência e `verificar_citacoes` (hoje apareceu só com ferramentas de peças e licitação). Copiar `link_oficial` sem alterar.
+- Outras ferramentas: o conector Precedentes só serve se expuser ferramentas de jurisprudência e `verificar_citacoes` (em 13/10/2026 apareceu só com ferramentas de peças e licitação). Se servir, copiar `link_oficial` sem alterar.
 
 ## Se nem o plano B achar
 Tratar o precedente como não localizado. Nunca completar ementa, relator ou data de memória, nem citar julgado que só apareceu em modelo antigo ou blog. Se for o caso, pedir ao usuário que abra o link oficial no navegador dele e traga o texto.
