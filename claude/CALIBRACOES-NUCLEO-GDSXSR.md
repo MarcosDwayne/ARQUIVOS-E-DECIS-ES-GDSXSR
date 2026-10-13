@@ -1,4 +1,4 @@
-# CALIBRAÇÕES — NÚCLEO (todas as classes) — REVISOR DE VOTOS GDSXSR
+# CALIBRAÇÕES — NÚCLEO (todas as classes) — ASSESSOR GDSXSR
 
 **Versão:** v17 · **Data-base:** 13/10/2026 · divisão do arquivo único v16 em núcleo + classe + registro (aprovada por Marcos em 13/10/2026; nenhuma regra foi apagada).
 **Onde está o quê:** este arquivo traz as regras que valem para APC, AGI e EMD. Regras de uma só classe estão em `CALIBRACOES-APC-GDSXSR.md`, `CALIBRACOES-AGI-GDSXSR.md` e `CALIBRACOES-EMD-GDSXSR.md` (ler só a da classe da minuta). Registro de alterações por versão: `historico/REGISTRO-ALTERACOES-CALIBRACOES.md`. Texto integral anterior, com todas as "Origem:" (processo, data, quem corrigiu): `historico/CALIBRACOES-VIGENTES-GDSXSR-v16-completo.md` (consultar só para auditoria).

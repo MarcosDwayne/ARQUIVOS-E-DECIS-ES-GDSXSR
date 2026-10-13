@@ -1,4 +1,4 @@
-# CALIBRAÇÕES — EMD — REVISOR DE VOTOS GDSXSR
+# CALIBRAÇÕES — EMD — ASSESSOR GDSXSR
 
 Soma-se ao núcleo. Versão v17, 13/10/2026. As fórmulas fixas de confronto do EMD estão em C-15 (núcleo) e no perfil EMD.
 

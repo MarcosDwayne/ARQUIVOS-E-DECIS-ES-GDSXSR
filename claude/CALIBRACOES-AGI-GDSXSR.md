@@ -1,4 +1,4 @@
-# CALIBRAÇÕES — AGI — REVISOR DE VOTOS GDSXSR
+# CALIBRAÇÕES — AGI — ASSESSOR GDSXSR
 
 Soma-se ao núcleo (`CALIBRACOES-NUCLEO-GDSXSR.md`). Versão v17, 13/10/2026. Inclui regras de AGI e as compartilhadas com APC (C-3B) e EMD (C-3D).
 

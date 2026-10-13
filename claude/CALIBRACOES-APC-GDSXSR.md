@@ -1,4 +1,4 @@
-# CALIBRAÇÕES — APC — REVISOR DE VOTOS GDSXSR
+# CALIBRAÇÕES — APC — ASSESSOR GDSXSR
 
 Soma-se ao núcleo. Versão v17, 13/10/2026. A APC mantém a linha de dados no voto ("Ação ajuizada em… Sentença proferida em… Apelo interposto em… Valor da causa: R$ …").
 

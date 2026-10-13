@@ -22,7 +22,7 @@ wb = Workbook()
 # ---------- Como usar
 ws = wb.active; ws.title = 'Como usar'
 txt = [
-    ('ÍNDICE DE MODELOS — REVISOR DE VOTOS GDSXSR', Font(name=F, bold=True, size=14, color='1F3864')),
+    ('ÍNDICE DE MODELOS — ASSESSOR GDSXSR', Font(name=F, bold=True, size=14, color='1F3864')),
     (f'Gerado em {HOJE} a partir das pastas 01 — MODELOS OURO e 02 — MODELOS GERAIS (APC, AGI, EMD) do Drive: {len(L)} arquivos.', N),
     ('', N),
     ('Para que serve', Font(name=F, bold=True, size=11)),
