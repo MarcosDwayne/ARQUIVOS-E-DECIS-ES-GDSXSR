@@ -24,8 +24,8 @@ from docx.shared import Pt, Cm, RGBColor
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 MODELO_PADRAO = os.path.join(AQUI, "..", "assets", "modelo-base-apc.docx")
-AUTOR_COMENTARIO = "Minuta GDSXSR"
-PREFIXO_COMENTARIO = "MINUTA GDSXSR — "
+AUTOR_COMENTARIO = "ASSESSOR GDSXSR"
+PREFIXO_COMENTARIO = "ASSESSOR GDSXSR — "
 VERMELHO, VERDE = "EE0000", "00B050"
 
 J, C, L = WD_ALIGN_PARAGRAPH.JUSTIFY, WD_ALIGN_PARAGRAPH.CENTER, WD_ALIGN_PARAGRAPH.LEFT
@@ -52,10 +52,12 @@ ESTILOS = {
     "titulo_recurso":     E(al=C, neg=True),
     "subtitulo":          E(al=C, realce=True),
     "dispositivo":        E(rec1=4.0),
+    "contraria_titulo":   E(al=C, neg=True, cor="800080"),
+    "contraria":          E(tam=13, cor="800080", recE=4.0),
     "anexo_par":          E(tam=13.5, cor=VERDE, vazio=False),
 }
 TRANSCRICOES = ("transcricao", "transcricao_ementa")
-TOKEN = re.compile(r"(\*\*.+?\*\*|==.+?==|__.+?__)")
+TOKEN = re.compile(r"(\*\*.+?\*\*|==.+?==|(?<!_)__[^_].*?__(?!_))")
 ROTULOS_ITALICO = ("Dispositivos relevantes citados:", "Jurisprudência relevante citada:")
 
 
@@ -159,7 +161,7 @@ def montar(spec, saida, modelo):
             continue
         if tipo == "resumo_titulo" and i > 0:
             vazio(doc); vazio(doc)
-        quebra = tipo == "secao" and b["texto"].strip().upper() in ("RELATÓRIO", "VOTO")
+        quebra = tipo == "contraria_titulo" or (tipo == "secao" and b["texto"].strip().upper() in ("RELATÓRIO", "VOTO"))
         p, runs = novo_par(doc, tipo, b["texto"], quebra_antes=quebra)
         if b.get("comentario") and runs:
             pendentes.append((runs, b["comentario"]))
@@ -175,7 +177,7 @@ def montar(spec, saida, modelo):
         if sep and prox is not None:
             vazio(doc)
     for runs, texto in pendentes:
-        doc.add_comment(runs, text=PREFIXO_COMENTARIO + texto, author=AUTOR_COMENTARIO, initials="MG")
+        doc.add_comment(runs, text=PREFIXO_COMENTARIO + texto, author=AUTOR_COMENTARIO, initials="AG")
     doc.save(saida)
     return len(doc.paragraphs), len(pendentes)
 
