@@ -1,0 +1,6 @@
+Nível,Classe,Processo,Resultado,Assessor,Marcadores,Tipo,Matéria,Ramo (ementa),Temas,Assunto (título),Pasta,ID
+1,APC,0000000-00,NP,Assessor A,,voto,Bancário e consumidor,Direito do Consumidor e Direito Bancário,,exemplo fictício: empréstimo consignado regularidade da contratação,OURO/APC,ID-FICTICIO-001
+1,APC,0000000-01,DP,Assessor B,,voto,Processual civil,Direito Processual Civil,,exemplo fictício: indeferimento da inicial e emenda,OURO/APC,ID-FICTICIO-002
+1,AGI,0000000-02,NP,Assessor A,,voto,Execução,Direito Processual Civil,,exemplo fictício: reiteração de pesquisa patrimonial,OURO/AGI,ID-FICTICIO-003
+1,AGI,0000000-03,DP,Assessor B,,voto,Gratuidade de justiça,Direito Processual Civil,,exemplo fictício: gratuidade pessoa física,OURO/AGI,ID-FICTICIO-004
+1,EMD,0000000-04,NP,Assessor A,,voto,Embargos de declaração,Direito Processual Civil,,exemplo fictício: omissão inexistente rediscussão,OURO/EMD,ID-FICTICIO-005
