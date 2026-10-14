@@ -47,7 +47,7 @@ Nos EMD, o Gabinete usa **fórmulas fixas de confronto** que se repetem em quase
 9. "Na verdade, ao alegar omissão, o embargante pretende o reexame do apelo, o que é vedado em sede de embargos de declaração."
 10. Mini-dispositivo, se houver mais de um capítulo: "Nego provimento aos embargos de declaração, nesse ponto."
 
-**Vício reconhecido:** "Com razão o embargante." → "Com efeito, o v. acórdão embargado … não fez constar …" → norma transcrita quando decisiva → consequência e alcance ("sem que disso resulte modificação do resultado" ou "com efeitos infringentes") → "Assim, dou parcial provimento aos embargos de declaração, nesse ponto, sem efeitos infringentes."
+**Vício reconhecido:** "Com razão o embargante." → "Com efeito, o v. acórdão embargado … não fez constar …" → norma transcrita literalmente (CPC 1.022 e a norma do vício, C-66) → consequência e alcance ("sem que disso resulte modificação do resultado" ou "com efeitos infringentes") → "Assim, dou parcial provimento aos embargos de declaração, nesse ponto, sem efeitos infringentes."
 
 **Prequestionamento:** capítulo próprio, curto: suscitada a matéria nos embargos, considera-se prequestionada (CPC 1.025), dispensada menção expressa a dispositivos.
 
@@ -73,6 +73,6 @@ Base: 62 processos (NP 56; DP 3; DPP 3). Assessoras: Larissa (≈40) e Cecília 
 ## 6. Pontos de atenção para o revisor
 
 - O relatório não repete as alegações dos embargos; elas aparecem, numeradas, no início de cada capítulo do voto.
-- Cada capítulo de "vício inexistente" precisa do **trecho do acórdão** que enfrentou a questão. Fórmula sem transcrição não demonstra o enfrentamento.
+- Cada capítulo de "vício inexistente" precisa do **trecho do acórdão** que enfrentou a questão. Fórmula sem transcrição não demonstra o enfrentamento. **v18 (C-66):** cláusula contratual, documento ou norma em que se apoie o capítulo também vem transcrito.
 - Conferir se o acórdão embargado (anexado em "DECISÃO RECORRIDA") de fato trata o ponto; se não tratar, o caso é de acolhimento, ainda que parcial, e a minuta deve dizê-lo.
 - Em acolhimento, explicitar se há ou não efeitos infringentes e harmonizar ementa (IV) e dispositivo.
