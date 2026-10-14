@@ -1,11 +1,11 @@
 ---
 name: "minutar-voto-pje-gdsxsr"
-description: "Abre o PJe 2º grau do TJDFT no Chrome do usuário, pega as apelações cíveis (APC) com a etiqueta \"distribuição pendente\", lê as peças principais de cada processo e redige a minuta de voto em DOCX no padrão do Gabinete do Des. Sérgio Rocha (GDSXSR), um processo por vez e no máximo 5 por sessão, sem alterar nada no PJe. Use sempre que o usuário pedir para minutar, redigir ou preparar votos a partir do PJe, da fila/etiqueta \"distribuição pendente\" ou do painel do Gabinete, mesmo sem dizer \"skill\" ou \"PJe\"."
+description: "Abre o PJe 2º grau do TJDFT no Chrome do usuário, lê as APC com a etiqueta \"distribuição pendente\" e redige a minuta de voto em DOCX no padrão do Gabinete do Des. Sérgio Rocha, sem alterar nada no PJe."
 ---
 
 # Minutar voto a partir do PJe (GDSXSR)
 
-Esta skill transforma um processo da fila do Gabinete em uma **minuta de voto de APC pronta para conferência**: lê os autos no PJe, monta a ficha do caso, define o resultado pela linha decisória do Gabinete e grava um DOCX no padrão GDSXSR — **calibração v6 (06/10/2026)**, MANUAL ATUALIZADO e estrutura pronta APC.
+Esta skill transforma um processo da fila do Gabinete em uma **minuta de voto de APC pronta para conferência**: lê os autos no PJe, monta a ficha do caso, define o resultado pela linha decisória do Gabinete e grava um DOCX no padrão GDSXSR — **calibração v17 (13/10/2026)**, MANUAL ATUALIZADO e estrutura pronta APC.
 
 Quem usa é um assessor do Gabinete; o Desembargador decide. A minuta já sai **decidida**: a skill escolhe a solução, redige-a e explica em comentário lateral as escolhas sensíveis (linha do Gabinete, precedente contrário, prova decisiva). Comentário não é pergunta ao assessor: nada de "decidir se", "avaliar se", "sugiro" (C-54). Pendência só para o que não se pode conferir nos autos lidos (C-52).
 
@@ -29,7 +29,7 @@ Cada processo consome muito contexto (autos, modelos, manual), e a sessão vai a
 ## Etapa 0 — Preparação da sessão
 
 1. **Assessor.** O primeiro nome de quem usa a skill entra no nome do arquivo (Marcos, Ramon, Fatinha, Larissa, Renan). Use o nome já informado na conversa ou na memória; se não houver, pergunte uma vez: "Qual nome devo colocar como assessor no arquivo?". Quando quem usa é o Marcos, o nome é só "Marcos".
-2. **Padrão GDSXSR.** Leia a skill `revisar-voto-gdsxsr` (uma vez por conversa) (localize com `find / -path "*revisar-voto-gdsxsr/SKILL.md" 2>/dev/null | head -1`). Ela é a fonte das regras de estrutura, formatação, voz, cadência, referências, dispositivo, honorários e comentários; esta skill não as repete, salvo o resumo da seção "Regras v6 para minuta nova", abaixo. No projeto "Assessor GDSXSR", leia também `claude/CALIBRACOES-VIGENTES-GDSXSR.md` (v6 ou posterior), o perfil de estilo de APC e os perfis decisórios. Fora do projeto, diga no relatório que as calibrações mais recentes não foram consultadas.
+2. **Padrão GDSXSR.** Leia a skill `revisar-voto-gdsxsr` (uma vez por conversa) (localize com `find / -path "*revisar-voto-gdsxsr/SKILL.md" 2>/dev/null | head -1`). Ela é a fonte das regras de estrutura, formatação, voz, cadência, referências, dispositivo, honorários e comentários; esta skill não as repete, salvo o resumo da seção "Regras vigentes para minuta nova", abaixo. No projeto "Assessor GDSXSR", leia também `claude/CALIBRACOES-NUCLEO-GDSXSR.md` e `claude/CALIBRACOES-APC-GDSXSR.md` (v17 ou posterior; `CALIBRACOES-VIGENTES-GDSXSR.md` é só índice), o perfil de estilo de APC e os perfis decisórios. Fora do projeto, diga no relatório que as calibrações mais recentes não foram consultadas.
 3. **Manual e estrutura pronta.** Na pasta de estruturas do Drive (id `1aEgy58IgkjNOvu0zAYhREeOXViIZeUHI`), baixe uma vez por conversa o "MANUAL ATUALIZADO" e a estrutura "X APC 0000000-00 nome DP DPP NP assunto", salve-os em texto na pasta de trabalho e leia a estrutura inteira uma vez; do manual, consulte com `grep` só o ponto em dúvida (as regras de formatação já estão resumidas nesta skill e na de revisão). Em conflito com esta skill sobre formatação, vale o que estiver nas calibrações vigentes; depois, manual e estrutura.
 4. **Ferramentas.** No projeto, grave na pasta de trabalho, com `project_read`: `claude/ferramentas/montar_voto.py` (v6), `claude/ferramentas/checar_voto.py` (v6) e `claude/ferramentas/revisao_tracked.py`. Fora do projeto, use `scripts/montar_voto.py` desta skill (cópia do montador v6) e passe o modelo-base com `--modelo=<skill>/assets/modelo-base-apc.docx`; sem o portão, diga no relatório que ele não rodou.
 5. **Navegador.** Leia a skill `chrome-browser` antes do primeiro passo no Chrome. Carregue as ferramentas do Claude in Chrome em uma só chamada (inclua `get_page_text`, `find` e `javascript_tool`). Se já houver aba do PJe logada, trabalhe a partir dela, abrindo os autos em abas novas.
@@ -68,28 +68,29 @@ Monte `ficha-<processo>.md` na área de trabalho (não é entregue): autuação;
 
 1. **Modelos.** 3 a 8 votos-modelo pelo índice `INDICE-MODELOS-GDSXSR.csv` (ou busca na pasta `ASSESSOR GDSXSR`), priorizando mesma classe, mesma matéria e Nível 1–2. Comece pelos 3 melhores; vá além (até 8) só se eles não cobrirem a matéria, a preliminar ou a estrutura do caso. De cada modelo, extraia o texto para arquivo e leia só a ementa e o VOTO (de "O Senhor Desembargador" a "É como voto"); o relatório transcrito e a sentença anexada não ensinam nada da forma. Extraia arquitetura e fórmulas, não frases. Registre quais leu.
 2. **Linha do Gabinete.** O resultado segue a linha decisória para a matéria (perfis decisórios e modelos). Se o caso tiver fato que justifique solução diferente, adote a solução que entender correta e explique em comentário a linha do Gabinete, o modelo de referência (nº do processo) e o fato que pesou — sem deixar a escolha em aberto.
-3. **Jurisprudência.** Use o Precedentes (`sumulas_e_temas`, `precedentes_qualificados`, `lei`, `buscar_decisoes` com preferência para a 4ª Turma Cível e o STJ, `mudancas_de_entendimento`, `decisao`). Cite só o que a ferramenta devolveu, com link oficial no comentário. **Tema vinculante:** transcreva a tese literal com o leading case no formato oficial (C-61). **Precedentes da parte:** enfrente-os em bloco no voto quando distinguíveis; contrário não distinguível vai ao final em violeta (C-46), com comentário no início. Antes de montar, passe todo o texto com jurisprudência em `verificar_citacoes`; citação não confirmada sai.
+3. **Jurisprudência.** Use o MCP **iajus** (carregue com ToolSearch): `pesquisar_precedentes` (súmula, tema, IRDR, IAC por número), `pesquisar_decisoes` (modos `hibrida`, `textual`, `cnj`; preferência para a 4ª Turma Cível e o STJ), `pesquisar_normas` e `consultar_fonte_oficial` (operação `alteracoes`), `ler_documento`. Cite só o que a ferramenta devolveu, com link oficial no comentário, e confira o que decidir o resultado nas fontes oficiais (C-60). **Tema vinculante:** transcreva a tese literal com o leading case no formato oficial (C-61). **Precedentes da parte:** enfrente-os em bloco no voto quando distinguíveis; contrário não distinguível vai ao final em violeta (C-46), com comentário no início. Antes de montar, monte a lista de todas as citações do texto (lei, súmula, tema, acórdão) e confira cada uma pela ferramenta (se o conector Precedentes expuser `verificar_citacoes`, passe o texto por ele); citação não confirmada sai.
 4. **Consectários e honorários.** Fórmulas do dispositivo da skill de revisão; índice e taxa vigentes; os dois comentários de honorários (valor da causa e capítulo literal da sentença).
 
 ## Etapa 5 — Redação
 
 Estrutura e voz da skill de revisão. Pontos que pesam numa minuta feita do zero:
 
-- **Concisão efetiva (C-02):** escreva já enxuto — um período por parágrafo no voto (20 a 45 palavras); nada de repetir em texto próprio o que a sentença transcrita já diz; um parágrafo para enfrentar os precedentes da parte, não um por acórdão.
+- **Concisão efetiva (C-02, grau 8 a 8,5):** escreva já enxuto — um período por parágrafo no voto (20 a 45 palavras); nada de repetir em texto próprio o que a sentença transcrita já diz; um parágrafo para enfrentar os precedentes da parte, não um por acórdão.
 - **Fatos só dos autos**, cada um com o ID ao final; "ID" sempre no singular (`(ID 90523912 e 90523913)`).
 - **Transcrições literais** (relatório da sentença, trechos acolhidos, tese, ementas), copiadas do PJe sem reescrever (corrija só quebras de linha e hifenização), com "(...)" nos cortes; ementa de precedente **sem o cabeçalho**, começando por "“(...) " no primeiro item aproveitado (C-62).
 - **Nome do(a) juiz(a)** exatamente como na assinatura da sentença.
 - **Encadeamento natural (C-16):** "Decerto,", "Por outro lado,", "No mais," na passagem entre fundamentos; sem fórmulas de IA ("cumpre destacar", "nesse contexto", "é importante ressaltar").
 - **Ementa por último**, espelhando o voto.
 
-### Regras v6 para minuta nova (resumo; detalhes nas calibrações)
+### Regras vigentes para minuta nova (resumo; detalhes nas calibrações)
 
 - Ementa: todos os itens numerados, **inclusive o 3** (C-36); III com um fundamento por item; IV "Rejeitou-se a preliminar … e, no mérito, negou-se provimento …" (C-38); **sem "Tese de julgamento"** salvo tese nova (C-37); rótulos "Dispositivos relevantes citados:" e "Jurisprudência relevante citada:" em itálico.
 - **Resumo da apelação em sentido contrário ao voto (C-39)** entre a ementa e o RELATÓRIO, em vermelho: título, "I. RAZÕES RECURSAIS", um subtítulo e um parágrafo numerado por tese do apelante (na voz dele), "II. PEDIDO".
 - Relatório: números da enumeração em negrito; nome da parte sem negrito; sem "Requer o não provimento".
-- Voto: linha de dados "Ação ajuizada em … Sentença proferida em … Apelo interposto em … Valor da causa: R$ …"; subtítulos de capítulo e vereditos realçados em amarelo; mini-dispositivo sublinhado e realçado em cada capítulo **exceto o último** (C-3A).
+- Voto: linha de dados "Ação ajuizada em … Sentença proferida em … Apelo interposto em … Valor da causa: R$ …" (só na APC); subtítulos de capítulo e vereditos realçados em amarelo; mini-dispositivo sublinhado e realçado em cada capítulo **exceto o último** (C-3A).
 - Dispositivo: **rejeito**, **nego provimento**/**dou provimento** e **Condeno** em negrito.
 - Formatação: recuo de 1ª linha 4 cm; transcrições Arial 13 itálico com recuo 4 cm e 1ª linha 6 cm; ementas e lei com recuo 4 cm sem 1ª linha; sentença anexada em verde 00B050.
+- Entrega com as alterações já aceitas; a cópia rastreada fica em `entregas/rastreados/` (C-47).
 
 ## Etapa 6 — Montagem do DOCX
 
@@ -139,7 +140,7 @@ Marcação inline: `**negrito**` (números 1) 2) das alegações, comandos do di
 
 Sem sufixos como `_minuta` ou `_v1`.
 
-**Entrega de cada processo:** envie o DOCX na conversa (não grave no computador nem no Drive sem pedido). Relatório de **até 8 linhas**, uma por item: processo e partes; peças faltantes (IDs), se houver; resultado proposto e fundamento central em uma frase; modelos consultados (só os números); `verificar_citacoes` (ok ou o que saiu); escolhas sensíveis comentadas no DOCX (só quantas e sobre o quê, sem repetir o comentário); portão (ok ou avisos justificados). Depois, o próximo da fila, até 5.
+**Entrega de cada processo:** envie o DOCX na conversa (não grave no computador nem no Drive sem pedido). Relatório de **até 8 linhas**, uma por item: processo e partes; peças faltantes (IDs), se houver; resultado proposto e fundamento central em uma frase; modelos consultados (só os números); lista de citações conferidas (ok ou o que saiu); escolhas sensíveis comentadas no DOCX (só quantas e sobre o quê, sem repetir o comentário); portão (ok ou avisos justificados). Depois, o próximo da fila, até 5.
 
 **Fim da sessão:** minutas entregues, processos pulados (classe diversa, já minutados, autos incompletos) e os que ficaram na fila. Nada foi alterado no PJe; a etiqueta continua.
 
