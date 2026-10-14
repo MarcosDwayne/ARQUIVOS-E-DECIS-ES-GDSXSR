@@ -50,7 +50,7 @@
 1. "O autor/apelante, NOME, alega, em síntese, que: 1) …; 2) … ." Nos modelos de 2024 as alegações vêm entre aspas, copiadas do apelo; nos de 2026 vêm parafraseadas e enxutas. As duas formas coexistem; não converter uma na outra sem necessidade.
 2. "Requer …" / "Pede …".
 3. Veredito isolado: "Sem razão." / "Com razão." / "Com parcial razão o autor/apelante." / "Sem razão o autor/apelante."
-4. Premissa normativa curta, com transcrição da lei ou tese quando decisiva (Tema 1.109, Tema 1.118, LC distrital, Res. ANAC 400).
+4. Premissa normativa curta, com transcrição literal da lei, da norma e da tese de repetitivo ou repercussão geral que fundamentam o capítulo (Tema 1.109, Tema 1.118, LC distrital, Res. ANAC 400), e das cláusulas e dos documentos de que dependa a conclusão (C-66, v18).
 5. Fundamentos da sentença, quando acolhidos: "A r. sentença, cujos argumentos acolho, está bem fundamentada e rebate as alegações do apelo (ID …):" ou "No ponto, adoto os fundamentos da r. sentença, que rebate pontualmente os argumentos do apelo (ID …):" + transcrição com "– Grifei".
 6. Parágrafos próprios de aplicação ao caso (datas, IDs, valores), que dialogam com a transcrição: "Em que pesem as alegações…", "Ao contrário do alegado…", "Com efeito, na linha do que foi consignado na r. sentença…", "Assim sendo, ratifico a valoração do d. Juízo de origem…".
 7. Jurisprudência: "Nesse sentido:", "No mesmo sentido, confiram-se julgados deste eg. TJDFT:", "Confiram-se julgados do c. STJ:". Ementa recortada com "(...)", referência no formato "(Acórdão 1237043, 0700491-15.2019.8.07.0006, Relator(a): NOME, 4ª TURMA CÍVEL, data de julgamento: …, publicado no DJe: ….) – Grifei".

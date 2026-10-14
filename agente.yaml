@@ -1,7 +1,7 @@
-version: '1.3'
-data: '2026-10-13'
+version: '1.4'
+data: '2026-10-14'
 agent_name: Assessor GDSXSR
-calibracoes: claude/CALIBRACOES-NUCLEO-GDSXSR.md + CALIBRACOES-<CLASSE>-GDSXSR.md (v17; índice em CALIBRACOES-VIGENTES-GDSXSR.md)
+calibracoes: claude/CALIBRACOES-NUCLEO-GDSXSR.md + CALIBRACOES-<CLASSE>-GDSXSR.md (v18; índice em CALIBRACOES-VIGENTES-GDSXSR.md)
 output:
   format: docx
   reviewer_color: '808080'
@@ -104,7 +104,14 @@ style:
     prefer_parenthetical_clean_form: true
     combined_reference_example: '... conforme demonstrado nos autos (CPC 300; ID 84771203).'
     protected_transcriptions_exempt: true
-    tema_thesis_literal_with_leading_case: true   # C-61
+    tema_thesis_literal_with_leading_case: true   # C-61 (repetitivo e repercussão geral, C-66)
+    literal_quotation_in_body:                    # C-66 (v18): orientação do Des. Sérgio Rocha
+      norms: true                  # artigo de lei e outras normas que fundamentam o capítulo
+      contract_clauses: true       # cláusulas em que o julgamento se apoia
+      relevant_documents: true     # laudo, relatório, auditoria, extrato etc., com o ID
+      thesis_repetitive_or_repercussao_geral: true
+      once_per_item: true          # mesma norma/cláusula/tese transcrita uma vez; sem enchimento
+      exempt: [ementa, dispositivo, fórmulas_fixas, citação_dentro_de_transcrição]
 sources:
   style:
   - instrução expressa do usuário
