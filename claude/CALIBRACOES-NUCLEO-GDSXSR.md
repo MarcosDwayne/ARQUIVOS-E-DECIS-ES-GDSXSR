@@ -8,6 +8,13 @@
 
 ---
 
+## Sumário (leia só a seção de que precisar)
+
+- A. Princípios (C-01 a C-10) · B. Parágrafo e cadência · C. Referências e voz · D. Estrutura
+- E. Formatação · F. Comentários laterais · G. Jurisprudência e legislação · H. Arquivo e entrega
+
+---
+
 ## A. Princípios
 
 **C-01 · Objetivo de estilo** — ATIVA · todas · v1.1

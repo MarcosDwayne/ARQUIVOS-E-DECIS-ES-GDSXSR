@@ -1,6 +1,6 @@
 ---
 name: "minutar-voto-pje-gdsxsr"
-description: "Abre o PJe 2º grau do TJDFT no Chrome do usuário, lê as APC com a etiqueta \"distribuição pendente\" e redige a minuta de voto em DOCX no padrão do Gabinete do Des. Sérgio Rocha, sem alterar nada no PJe."
+description: "Abre o PJe 2º grau do TJDFT no Chrome do usuário, lê as APC com a etiqueta \"distribuição pendente\" e redige a minuta de voto em DOCX no padrão do Gabinete do Des. Sérgio Rocha, sem alterar nada no PJe. Usar quando o usuário pedir para minutar, redigir ou preparar voto de APC a partir do PJe, ou para trabalhar a fila de distribuição pendente."
 ---
 
 # Minutar voto a partir do PJe (GDSXSR)
