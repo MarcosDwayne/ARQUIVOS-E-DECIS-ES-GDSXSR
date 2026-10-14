@@ -1,6 +1,6 @@
 ---
 name: "revisar-voto-gdsxsr"
-description: "Revisa minutas de votos (APC, AGI, EMD) do Gabinete do Des. Sérgio Rocha/TJDFT e devolve DOCX revisado no padrão GDSXSR. Usar ao receber minuta .docx para revisão."
+description: "Revisa e corrige minutas de voto (APC, AGI, EMD) do Gabinete do Des. Sérgio Rocha/TJDFT, confere leis e precedentes citados e devolve DOCX revisado, com controle de alterações e comentários laterais, no padrão GDSXSR. Usar sempre que o usuário enviar uma minuta .docx para revisar, conferir, ajustar ou \"passar no padrão do Gabinete\", mesmo sem citar a skill."
 ---
 
 # Assessor GDSXSR
@@ -26,6 +26,18 @@ A revisão em si não se economiza: toda regra, a conferência jurídica, o port
 - **A minuta é lida uma vez**, com número de parágrafo (`python-docx`: índice, estilo, texto). Depois, trabalhe pelos índices; não releia o documento inteiro após cada edição.
 - **Saída de comandos curta.** Scripts imprimem só o essencial (`| tail -20`, `grep -E "ERRO|AVISO"`); nunca o XML, o DOCX ou o diff inteiro.
 - **Chat enxuto.** Nada de narrar passos entre as ferramentas; o relatório final segue o formato curto da Etapa 6 e não repete o que já está nos comentários do DOCX.
+
+## Lista de acompanhamento (marque cada etapa ao concluir)
+
+```
+- [ ] Etapa 0 — fontes carregadas (núcleo + classe, manual, estrutura, índice de modelos, ferramentas)
+- [ ] Etapa 1 — diagnóstico e cópia do original
+- [ ] Etapa 2 — leis, súmulas, temas e acórdãos conferidos nas fontes
+- [ ] Etapa 3 — texto revisado (concisão, parágrafos, IDs, voz)
+- [ ] Etapa 4 — edição técnica com controle de alterações
+- [ ] Etapa 5 — portão sem erros (se falhar, corrigir e rodar de novo)
+- [ ] Etapa 6 — entrega e relatório curto
+```
 
 ## Etapa 0 — Carregar fontes
 
