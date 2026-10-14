@@ -111,6 +111,8 @@ style:
       relevant_documents: true     # laudo, relatório, auditoria, extrato etc., com o ID
       thesis_repetitive_or_repercussao_geral: true
       once_per_item: true          # mesma norma/cláusula/tese transcrita uma vez; sem enchimento
+      judgement: bom_senso         # só o necessário e relevante; evitar redundância e poluição visual
+      untranscribed_goes_to_lateral_comment: true   # C-63: o que ficar fora do corpo tem o texto literal em comentário
       exempt: [ementa, dispositivo, fórmulas_fixas, citação_dentro_de_transcrição]
 sources:
   style:
