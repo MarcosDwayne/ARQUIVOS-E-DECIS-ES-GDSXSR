@@ -72,6 +72,7 @@
 - **Cumprimento de sentença coletiva:** NP por ilegitimidade ativa de quem não integra a categoria [título]. Há DP para prosseguir no cumprimento da 25ª hora, que é compatível com o regime de subsídio [título].
 - **Medicamento pelo SUS:** aplicação dos Temas 6 e 1.234/STF. Há NP e DP conforme o preenchimento dos requisitos [título].
 - **Honorários contra a Fazenda e por equidade:** atenção ao Tema 1.076/STJ (equidade inaplicável fora das exceções) [título; 0733296-02 corrigido].
+- **Honorários na extinção sem resolução do mérito (Tema 1.076/STJ):** sem condenação, a base é o valor atualizado da causa (CPC 85 § 2º), e a equidade (§ 8º) fica para proveito inestimável ou irrisório ou valor da causa muito baixo; baixa complexidade e atuação reduzida do patrono não bastam (APC 0711095-23). Na apelação do autor contra indeferimento da inicial antes da citação, contrarrazões de advogado constituído geram honorários originários em grau recursal de 10% sobre o valor da causa, e não valor fixo por equidade (APC 0741335-06, Marcos, 14/10/2026; observado em dois casos).
 - **Gratuidade:** deferida pela renda líquida (ver item 1.6). Revoga-se quando há elementos contrários [título].
 
 ## 6. O que o revisor deve fazer com este perfil
