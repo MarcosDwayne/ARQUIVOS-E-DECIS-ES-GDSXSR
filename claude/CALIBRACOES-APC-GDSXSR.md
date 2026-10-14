@@ -1,6 +1,9 @@
 # CALIBRAÇÕES — APC — ASSESSOR GDSXSR
 
-Soma-se ao núcleo. Versão v17, 13/10/2026. A APC mantém a linha de dados no voto ("Ação ajuizada em… Sentença proferida em… Apelo interposto em… Valor da causa: R$ …").
+Soma-se ao núcleo. Versão v19, 14/10/2026. A APC mantém a linha de dados no voto ("Ação ajuizada em… Sentença proferida em… Apelo interposto em… Valor da causa: R$ …").
+
+**C-3G · Ementa de APC com dois ou mais apelos** — ATIVA · APC com apelos de partes distintas · v19
+Título no plural ("APELAÇÕES CÍVEIS … RECURSOS PARCIALMENTE PROVIDOS", conforme o resultado). Item 1 detalha o caso; item 3 resume os apelos, na ordem dos capítulos do voto. Questões em discussão e razões de decidir seguem a ordem dos capítulos, com **um item por tese**, inclusive a prova decisiva (p. ex. e-mail de confirmação). Dispositivo e resultado: **um item por apelo**. "Dispositivos relevantes citados" reúne os artigos do voto, em ordem numérica por diploma; "Jurisprudência relevante citada" lista **todos** os precedentes do voto na ordem de aparição.
 
 **C-3B · Remessa necessária: fórmula curta no conhecimento, na ementa e no dispositivo** — ATIVA · APC e AGI com remessa necessária (MS, Fazenda Pública) · v13
 O recurso e a remessa necessária formam um só objeto: "conheço do apelo interposto pelo Distrito Federal e da remessa necessária" (sem citar o artigo legal da remessa na admissibilidade); na ementa e no dispositivo, "nego provimento ao apelo do Distrito Federal e à remessa necessária" (em MS, a parte é o "impetrado", não o "réu"), sem repetir "confirmo a r. sentença que concedeu a segurança" (o resultado já consta do verbo e do capítulo). Se o dispositivo legal sai do texto, a transcrição (C-66) ou o comentário C-63 que o trazia sai junto. O título da ementa também acompanha: "APELO NÃO PROVIDO" → "APELO E REMESSA NECESSÁRIA NÃO PROVIDOS". Exemplo: "…bem como da remessa necessária (art. 14, § 1º, da Lei nº 12.016/2009)" → "…e da remessa necessária"; "…e, em remessa necessária, confirmo a r. sentença que concedeu a segurança" → "…e à remessa necessária". Observada em um caso; confirmar na próxima APC com remessa.

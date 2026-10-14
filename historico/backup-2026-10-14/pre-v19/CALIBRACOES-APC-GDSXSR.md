@@ -1,0 +1,8 @@
+# CALIBRAÇÕES — APC — ASSESSOR GDSXSR
+
+Soma-se ao núcleo. Versão v17, 13/10/2026. A APC mantém a linha de dados no voto ("Ação ajuizada em… Sentença proferida em… Apelo interposto em… Valor da causa: R$ …").
+
+**C-3B · Remessa necessária: fórmula curta no conhecimento, na ementa e no dispositivo** — ATIVA · APC e AGI com remessa necessária (MS, Fazenda Pública) · v13
+O recurso e a remessa necessária formam um só objeto: "conheço do apelo interposto pelo Distrito Federal e da remessa necessária" (sem citar o artigo legal da remessa na admissibilidade); na ementa e no dispositivo, "nego provimento ao apelo do Distrito Federal e à remessa necessária" (em MS, a parte é o "impetrado", não o "réu"), sem repetir "confirmo a r. sentença que concedeu a segurança" (o resultado já consta do verbo e do capítulo). Se o dispositivo legal sai do texto, a transcrição (C-66) ou o comentário C-63 que o trazia sai junto. O título da ementa também acompanha: "APELO NÃO PROVIDO" → "APELO E REMESSA NECESSÁRIA NÃO PROVIDOS". Exemplo: "…bem como da remessa necessária (art. 14, § 1º, da Lei nº 12.016/2009)" → "…e da remessa necessária"; "…e, em remessa necessária, confirmo a r. sentença que concedeu a segurança" → "…e à remessa necessária". Observada em um caso; confirmar na próxima APC com remessa.
+
+**Observações (ainda não são regra):** (i) Marcos colocou "EMENTA" em negrito nesta minuta (nos modelos de votos-revisados o título aparece em negrito em cerca de metade); **reapareceu em 11/10/2026 (AGI 0735279-29, 0738560-90, 0739080-50) e virou regra em C-42 (v15).** (ii) trocas isoladas "c. STF" → "e. STF" e "No julgamento" → "Já no julgamento" (variação de voz, sem padrão).
