@@ -1,36 +1,11 @@
 {
-  "extraKnownMarketplaces": {
-    "cartographer": {
-      "source": {
-        "source": "github",
-        "repo": "kingbootoshi/cartographer"
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          { "type": "command", "command": "python3 \"$CLAUDE_PROJECT_DIR/claude/ferramentas/portao_hook.py\"", "timeout": 120 }
+        ]
       }
-    },
-    "thedotmack": {
-      "source": {
-        "source": "github",
-        "repo": "thedotmack/claude-mem"
-      }
-    },
-    "headroom-marketplace": {
-      "source": {
-        "source": "github",
-        "repo": "headroomlabs-ai/headroom"
-      }
-    }
-  },
-  "enabledPlugins": {
-    "cartographer@cartographer-marketplace": true,
-    "claude-code-setup@claude-plugins-official": true,
-    "claude-mem@thedotmack": true,
-    "headroom@headroom-marketplace": true
-  },
-  "env": {
-    "DO_NOT_TRACK": "1",
-    "CLAUDE_MEM_ONLINE_OPTIN": "false",
-    "CLAUDE_MEM_CLOUD_SYNC_HUB_URL": "",
-    "HEADROOM_BEACON": "off",
-    "HEADROOM_TELEMETRY": "off",
-    "HEADROOM_OFFLINE": "1"
+    ]
   }
 }
