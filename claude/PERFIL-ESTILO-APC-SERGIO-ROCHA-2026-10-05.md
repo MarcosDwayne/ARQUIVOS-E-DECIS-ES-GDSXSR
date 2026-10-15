@@ -88,7 +88,7 @@
 
 ## 8. Ementa estruturada (padrão de 2026)
 
-- Item 1: "Ação … proposta por pessoa natural contra …", com dado concreto (data, trecho, valor).
+- Item 1: "Ação … proposta por pessoa natural contra …", com as partes nomeadas e os elementos que esclarecem a ementa (idade, doença ou deficiência, papel processual; C-34A).
 - Item 2: "A sentença julgou …".
 - Item 3: "3. O(A) apelante sustenta …" (numerado, como os demais; C-36).
 - Item 4: "A questão em discussão consiste em saber se: (i) …; e (ii) …" ou "Há duas questões em discussão: …".

@@ -20,7 +20,7 @@
 1. **Cabeçalho**: há dois modelos em uso — tabela do Gabinete ("Classe: Agravo de Instrumento", "Agravante(s)/Agravado(a)(s)", "Relator(a): Des. Sérgio Rocha") ou cabeçalho "TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS" com "Classe: Agravo de instrumento". Preservar o que a minuta trouxer.
 2. **EMENTA** (I a IV), traço, "Dispositivos relevantes citados" (forma extensa: "CPC, arts. 805, 833, IV e X") e "Jurisprudência relevante citada".
    - Cabeçalho da ementa em caixa alta, terminando com o resultado: "… DEU-SE PROVIMENTO." / "RECURSO NÃO PROVIDO." / "PROVIMENTO."
-   - Item 1: "Ação de execução de título extrajudicial proposta por [exequente] em face de [executado], visando à satisfação de crédito de R$ …" / "Cumprimento de sentença …" / "Ação de divórcio proposta por pessoa natural (esposa) contra pessoa natural (marido) …".
+   - Item 1: "Ação de execução de título extrajudicial proposta por [exequente] em face de [executado] (partes nomeadas, com idade, doença ou deficiência e papel processual quando constar dos autos, C-34A), visando à satisfação de crédito de R$ …" / "Cumprimento de sentença …" / "Ação de divórcio proposta por pessoa natural (esposa) contra pessoa natural (marido) …".
    - Item 2: "A decisão agravada [conteúdo]."
    - Item 3: "O executado agravou/agrava requerendo …".
    - IV: "Deu-se provimento ao agravo de instrumento do executado para …" / "Negou-se provimento ao agravo de instrumento do autor, com adequação, de ofício, da decisão para …" / "Conheceu-se, em parte, … e, nessa extensão, julgou-se prejudicado … e deu-se-lhe provimento para …".
