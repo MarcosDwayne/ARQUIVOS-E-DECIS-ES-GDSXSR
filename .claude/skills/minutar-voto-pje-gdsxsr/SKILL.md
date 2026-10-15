@@ -85,7 +85,7 @@ Estrutura e voz da skill de revisão. Pontos que pesam numa minuta feita do zero
 
 ### Regras vigentes para minuta nova (resumo; detalhes nas calibrações)
 
-- Ementa: todos os itens numerados, **inclusive o 3** (C-36); III com um fundamento por item; IV "Rejeitou-se a preliminar … e, no mérito, negou-se provimento …" (C-38); **sem "Tese de julgamento"** salvo tese nova (C-37); rótulos "Dispositivos relevantes citados:" e "Jurisprudência relevante citada:" em itálico.
+- Ementa, item 1: nomear as partes (pessoa jurídica pelo nome literal; pessoa física como pessoa natural, com idade, doença ou deficiência e papel processual quando constar dos autos; exemplos ilustrativos, não exaustivos) (C-34A). Ementa: todos os itens numerados, **inclusive o 3** (C-36); III com um fundamento por item; IV "Rejeitou-se a preliminar … e, no mérito, negou-se provimento …" (C-38); **sem "Tese de julgamento"** salvo tese nova (C-37); rótulos "Dispositivos relevantes citados:" e "Jurisprudência relevante citada:" em itálico.
 - **Resumo da apelação em sentido contrário ao voto (C-39)** entre a ementa e o RELATÓRIO, em vermelho: título, "I. RAZÕES RECURSAIS", um subtítulo e um parágrafo numerado por tese do apelante (na voz dele), "II. PEDIDO".
 - Relatório: números da enumeração em negrito; nome da parte sem negrito; sem "Requer o não provimento".
 - Voto: linha de dados "Ação ajuizada em … Sentença proferida em … Apelo interposto em … Valor da causa: R$ …" (só na APC); subtítulos de capítulo e vereditos realçados em amarelo; mini-dispositivo sublinhado e realçado em cada capítulo **exceto o último** (C-3A).

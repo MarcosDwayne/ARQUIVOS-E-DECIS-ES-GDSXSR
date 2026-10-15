@@ -20,7 +20,7 @@ Nos EMD, o Gabinete usa **fórmulas fixas de confronto** que se repetem em quase
 1. **Cabeçalho** do Gabinete: "Classe: Embargos de Declaração", "Embargante(s)/Embargado(a)(s)".
 2. **EMENTA**:
    - Cabeçalho: "EMBARGOS DE DECLARAÇÃO. DIREITO PROCESSUAL CIVIL. ALEGADA OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. REDISCUSSÃO DO MÉRITO. [PREQUESTIONAMENTO.] EMBARGOS NÃO PROVIDOS. (v20, C-3I: sem "NÃO CABIMENTO")" / "… OMISSÃO PARCIAL. … ACOLHIMENTO PARCIAL SEM EFEITOS INFRINGENTES."
-   - I. Item 1: "Embargos de declaração opostos [por NOME] contra acórdão que [resultado do acórdão]." Pode trazer, em 2 e 3, o que o acórdão concluiu e o que a embargante sustenta, sem enumeração.
+   - I. Item 1: "Embargos de declaração opostos [por NOME] (partes nomeadas e elementos que esclarecem, C-34A) contra acórdão que [resultado do acórdão]." Pode trazer, em 2 e 3, o que o acórdão concluiu e o que a embargante sustenta, sem enumeração.
    - II: "Há duas/três questões em discussão: (i) saber se o acórdão incorreu em omissão quanto a …; (ii) saber se há contradição …".
    - III: um critério por item ("Inexiste omissão quando o acórdão enfrenta, de modo suficiente e fundamentado, …"; "Contradição apta a ensejar embargos é apenas interna …"; "O erro de fato … pressupõe a admissão de fato inexistente ou a desconsideração de fato efetivamente comprovado"; "Os embargos de declaração não se prestam à rediscussão do mérito (CPC 1.022)").
    - IV: "Negou-se provimento aos embargos de declaração do apelado." / "Deu-se parcial provimento aos embargos de declaração, sem efeitos infringentes, apenas para …" / "… com efeitos infringentes, (i) …; e (ii) …".
