@@ -19,7 +19,7 @@ Nos EMD, o Gabinete usa **fórmulas fixas de confronto** que se repetem em quase
 
 1. **Cabeçalho** do Gabinete: "Classe: Embargos de Declaração", "Embargante(s)/Embargado(a)(s)".
 2. **EMENTA**:
-   - Cabeçalho: "EMBARGOS DE DECLARAÇÃO. DIREITO PROCESSUAL CIVIL. ALEGADA OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. REDISCUSSÃO DO MÉRITO. NÃO CABIMENTO. EMBARGOS NÃO PROVIDOS." / "… OMISSÃO PARCIAL. … ACOLHIMENTO PARCIAL SEM EFEITOS INFRINGENTES."
+   - Cabeçalho: "EMBARGOS DE DECLARAÇÃO. DIREITO PROCESSUAL CIVIL. ALEGADA OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. REDISCUSSÃO DO MÉRITO. [PREQUESTIONAMENTO.] EMBARGOS NÃO PROVIDOS. (v20, C-3I: sem "NÃO CABIMENTO")" / "… OMISSÃO PARCIAL. … ACOLHIMENTO PARCIAL SEM EFEITOS INFRINGENTES."
    - I. Item 1: "Embargos de declaração opostos [por NOME] contra acórdão que [resultado do acórdão]." Pode trazer, em 2 e 3, o que o acórdão concluiu e o que a embargante sustenta, sem enumeração.
    - II: "Há duas/três questões em discussão: (i) saber se o acórdão incorreu em omissão quanto a …; (ii) saber se há contradição …".
    - III: um critério por item ("Inexiste omissão quando o acórdão enfrenta, de modo suficiente e fundamentado, …"; "Contradição apta a ensejar embargos é apenas interna …"; "O erro de fato … pressupõe a admissão de fato inexistente ou a desconsideração de fato efetivamente comprovado"; "Os embargos de declaração não se prestam à rediscussão do mérito (CPC 1.022)").
@@ -40,14 +40,14 @@ Nos EMD, o Gabinete usa **fórmulas fixas de confronto** que se repetem em quase
 2. "Requer o provimento dos embargos de declaração para que seja sanada a omissão apontada."
 3. "Sem razão o embargante."
 4. "A alegação de omissão não merece prosperar, pois a matéria foi devidamente analisada no r. acórdão, que assim se manifestou:" + trecho do acórdão entre aspas com "(...)".
-5. "Dessa forma, conforme mencionado no v. acórdão embargado, a matéria relativa a [tema] foi suficientemente abordada, não havendo omissão a ser sanada, mas apenas mero inconformismo meritório do embargante com a conclusão adotada pelo Colegiado."
+5. (**obrigatório em todo capítulo de vício inexistente, C-3H, v20**) "Dessa forma, conforme mencionado no v. acórdão embargado, a matéria relativa a [tema] foi suficientemente abordada, não havendo omissão a ser sanada, mas apenas mero inconformismo meritório do embargante com a conclusão adotada pelo Colegiado."
 6. Se alegada contradição: "Registro que a contradição passível de ser alegada em embargos de declaração é a interna, ou seja, entre as premissas utilizadas e a conclusão do julgamento, o que não se verifica na hipótese, uma vez que a fundamentação e o dispositivo ostentam coerência lógica entre si."
 7. Se alegado erro de fato: "O erro de fato que autoriza o acolhimento de embargos de declaração é aquele em que o julgado admite fato inexistente ou considera inexistente fato efetivamente ocorrido nos autos, o que não se confunde com a discordância da parte com a valoração fática adotada pelo Colegiado."
 8. "O v. acórdão embargado, portanto, cumpriu sua finalidade, na medida em que analisou as teses jurídicas sustentadas e decidiu-as fundamentadamente, emitindo juízo de valor sobre as questões relevantes para o julgamento da matéria devolvida."
 9. "Na verdade, ao alegar omissão, o embargante pretende o reexame do apelo, o que é vedado em sede de embargos de declaração."
 10. Mini-dispositivo, se houver mais de um capítulo: "Nego provimento aos embargos de declaração, nesse ponto."
 
-**Vício reconhecido:** "Com razão o embargante." → "Com efeito, o v. acórdão embargado … não fez constar …" → norma transcrita literalmente (CPC 1.022 e a norma do vício, C-66) → consequência e alcance ("sem que disso resulte modificação do resultado" ou "com efeitos infringentes") → "Assim, dou parcial provimento aos embargos de declaração, nesse ponto, sem efeitos infringentes."
+**Vício reconhecido:** "Com razão o embargante." → "Com efeito, o v. acórdão embargado … não fez constar …" → norma do vício apenas citada (v20, C-3K: o CPC 1.022 não se transcreve nas EMD; só a norma que decide além da fórmula) → consequência e alcance ("sem que disso resulte modificação do resultado" ou "com efeitos infringentes") → "Assim, dou parcial provimento aos embargos de declaração, nesse ponto, sem efeitos infringentes."
 
 **Prequestionamento:** capítulo próprio, curto: suscitada a matéria nos embargos, considera-se prequestionada (CPC 1.025), dispensada menção expressa a dispositivos.
 
@@ -64,6 +64,7 @@ Base: 62 processos (NP 56; DP 3; DPP 3). Assessoras: Larissa (≈40) e Cecília 
 
 1. **Regra: não provimento.** Os embargos que só reabrem a valoração da prova ou o mérito são desprovidos com as fórmulas do item 3.
 2. **Acolhimento ocorre em pontos objetivos**, quase sempre ligados à sucumbência:
+   - base de cálculo dos honorários recursais que não acompanha a da sentença ("valor da condenação" em ação improcedente): retifica-se para o valor atualizado da causa, sem efeitos infringentes (EMD 0734022-52, Marcos, 14/10/2026; C-3M);
    - suspensão da exigibilidade por gratuidade não consignada (CPC 98 § 3º): acolhimento sem efeitos infringentes, só para constar (0754342-08);
    - omissão na redistribuição da sucumbência ou na fixação de honorários após rescisória ou reforma parcial: acolhimento com efeitos infringentes, aplicando o CPC 86 parágrafo único e o CPC 85 § 2º (0716686-83);
    - honorários por equidade × Tema 1.076/STJ e rejulgamentos por tema vinculante (Tema 1.313): há DP de Larissa (conferir na leitura).
