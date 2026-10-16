@@ -10,7 +10,7 @@
 - 6 APC 0740573-30 Corrigido Fatinha Marcos DPP (cancelamento de voo, dano moral)
 - 6 APC 0748312-54 Corrigido Fatinha Marcos DPP (veículo, Tema 1.118/STJ, CTB 134)
 
-**Uso:** soma-se às calibrações vigentes (núcleo e classe) e ao perfil PASEP. Se houver conflito, prevalece a calibração mais recente (v4). O modelo não comprova fatos do processo revisado, e precedente citado em modelo deve ser conferido na fonte oficial.
+**Uso:** soma-se às calibrações vigentes (núcleo e classe) e ao perfil PASEP. Se houver conflito, prevalece a calibração mais recente (v4). O modelo não comprova fatos do processo revisado, e precedente citado em modelo deve ser conferido na fonte oficial. Se a conferência não for possível pelo iajus e pelo plano B, aplica-se o escalonamento de C-72 (web e Chrome) antes de deixar pendência.
 
 ---
 

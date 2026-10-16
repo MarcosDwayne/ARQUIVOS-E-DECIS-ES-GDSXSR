@@ -135,6 +135,7 @@ sources:
     secondary_discovery: https://www.dizerodireito.com.br/
     rule: Dizer o Direito é fonte auxiliar de descoberta/contexto; precedente, tese,
       súmula ou tema usado no voto deve ser confirmado no repositório oficial correspondente.
+    escalation: 'C-72: se iajus e skills de plano B não conferirem, buscar na web (Google ou Bing) e depois abrir o portal oficial pela extensão Claude no Chrome (quando disponível na thread); só então registrar pendência, dizendo o que foi tentado e o que falhou, sem completar dado de memória.'
 gates:
   require_model_evidence: true
   require_manual_and_template: true
