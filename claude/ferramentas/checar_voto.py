@@ -56,7 +56,7 @@ anexo_nao_verde = 0
 for i, p in enumerate(ps):
     t = p.text.strip()
     s = secao_de(t)
-    if t.upper().startswith("RESUMO DA APELAÇÃO") or t.upper().startswith("RESUMO DO AGRAVO") or t.upper().startswith("RESUMO DA DECISÃO") or t.upper().startswith("RESUMO DOS EMBARGOS"):
+    if t.upper().startswith("RESUMO DA APELAÇÃO") or t.upper().startswith("RESUMO DO AGRAVO") or t.upper().startswith("RESUMO DA DECISÃO") or t.upper().startswith("RESUMO DOS EMBARGOS") or t.upper().startswith("RESUMO DA SENTENÇA"):
         resumo = True; tem_resumo = True; continue
     if s:
         resumo = False
