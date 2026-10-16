@@ -11,7 +11,7 @@
 - 3 AGI 0709618-48 corrigido Fernando Marcos (reiteração INFOJUD/RENAJUD; DP)
 - 4 ajustado AGI 0711923-05 Fernando Marcos (competência territorial; DP → NP com adequação de ofício)
 
-**Uso:** soma-se a `claude/CALIBRACOES-NUCLEO-GDSXSR.md e o arquivo da classe` (prevalece em conflito) e substitui, para AGI, o perfil genérico de setembro. Itens de resultado são tendência, não regra: divergência vai para comentário lateral (C-53). Teses e precedentes devem ser conferidos na fonte oficial.
+**Uso:** soma-se a `claude/CALIBRACOES-NUCLEO-GDSXSR.md e o arquivo da classe` (prevalece em conflito) e substitui, para AGI, o perfil genérico de setembro. Itens de resultado são tendência, não regra: divergência vai para comentário lateral (C-53). Teses e precedentes devem ser conferidos na fonte oficial. Se a conferência não for possível pelo iajus e pelo plano B, aplica-se o escalonamento de C-72 (web e Chrome) antes de deixar pendência.
 
 ---
 

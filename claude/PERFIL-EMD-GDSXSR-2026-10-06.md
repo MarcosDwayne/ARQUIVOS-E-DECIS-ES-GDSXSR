@@ -7,7 +7,7 @@
 - 6 EMD 0754342-08 Cecília Marcos (DPP sem efeitos infringentes; suspensão da exigibilidade por gratuidade)
 - 5 EMD ARC 0716686-83 Larissa Marcos (DPP com efeitos infringentes; redistribuição da sucumbência e honorários na rescisória)
 
-**Uso:** soma-se a `claude/CALIBRACOES-NUCLEO-GDSXSR.md e o arquivo da classe` (prevalece em conflito) e substitui, para EMD, o perfil genérico de setembro. Teses e precedentes devem ser conferidos na fonte oficial.
+**Uso:** soma-se a `claude/CALIBRACOES-NUCLEO-GDSXSR.md e o arquivo da classe` (prevalece em conflito) e substitui, para EMD, o perfil genérico de setembro. Teses e precedentes devem ser conferidos na fonte oficial. Se a conferência não for possível pelo iajus e pelo plano B, aplica-se o escalonamento de C-72 (web e Chrome) antes de deixar pendência.
 
 ---
 
