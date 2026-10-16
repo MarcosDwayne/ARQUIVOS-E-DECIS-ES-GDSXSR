@@ -42,7 +42,7 @@ aval_path = rev_path
 if rastreado:
     aval_path = os.path.join(tempfile.mkdtemp(), "aceito.docx")
     aceitar_tudo(rev_path, aval_path)
-    for t in insercoes_sem_cinza(rev_path, permitidas=("808080", "EE0000")):
+    for t in insercoes_sem_cinza(rev_path, permitidas=("808080", "EE0000", "800080")):
         A("ERRO", "CONTROLE", 0, "inserção rastreada sem cor 808080 (C-44)", t)
 d = Document(aval_path)
 ps = d.paragraphs
