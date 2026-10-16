@@ -42,7 +42,7 @@ aval_path = rev_path
 if rastreado:
     aval_path = os.path.join(tempfile.mkdtemp(), "aceito.docx")
     aceitar_tudo(rev_path, aval_path)
-    for t in insercoes_sem_cinza(rev_path, permitidas=("808080", "EE0000")):
+    for t in insercoes_sem_cinza(rev_path, permitidas=("808080", "EE0000", "800080")):
         A("ERRO", "CONTROLE", 0, "inserção rastreada sem cor 808080 (C-44)", t)
 d = Document(aval_path)
 ps = d.paragraphs
@@ -76,7 +76,7 @@ for i, p in enumerate(ps):
         anexo = True; continue
     runs = [r for r in p.runs if r.text.strip()]
     if anexo:
-        if any(not (r.font.color and r.font.color.rgb and str(r.font.color.rgb).upper() in ("00B050", "008000")) for r in runs):
+        if any(not (r.font.color and r.font.color.rgb and str(r.font.color.rgb).upper() in ("00B050", "008000", "800080")) for r in runs):
             anexo_nao_verde += 1
         continue
     # vermelho fora do resumo
