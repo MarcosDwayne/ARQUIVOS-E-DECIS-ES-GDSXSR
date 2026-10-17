@@ -1,7 +1,7 @@
 version: '1.4'
 data: '2026-10-14'
 agent_name: Assessor GDSXSR
-calibracoes: claude/CALIBRACOES-NUCLEO-GDSXSR.md + CALIBRACOES-<CLASSE>-GDSXSR.md (v18; índice em CALIBRACOES-VIGENTES-GDSXSR.md)
+calibracoes: claude/CALIBRACOES-NUCLEO-GDSXSR.md + CALIBRACOES-<CLASSE>-GDSXSR.md (v28; índice em CALIBRACOES-VIGENTES-GDSXSR.md)
 output:
   format: docx
   reviewer_color: '808080'
@@ -10,6 +10,11 @@ output:
   tracked_author: Assessor GDSXSR
   comment_prefix: 'ASSESSOR GDSXSR — '
   preserve_original: true
+model_guidance:   # C-73: orientação, sem troca automática de modelo
+  lighter_model_ok: [EMD sem tese nova, AGI sem tese nova]
+  stronger_model: [APC, matéria controvertida, tese nova, divergência na Turma, conferência difícil]
+  default_when_in_doubt: mais forte
+  auto_switch: false
 decision_policy:
   # v1.2 (C-54/C-55): o revisor decide e altera; não deixa a decisão ao assessor
   mode: alterar_e_comentar
