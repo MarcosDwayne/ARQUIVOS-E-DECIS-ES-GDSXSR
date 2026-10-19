@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Portão automático GDSXSR (v6, 06/10/2026): python3 checar_voto.py REVISADO.docx [ORIGINAL.docx] [--classe=APC|AGI|EMD]
+"""Portão automático GDSXSR (v7, 19/10/2026): python3 checar_voto.py REVISADO.docx [ORIGINAL.docx] [--classe=APC|AGI|EMD] [--nova]
+v7: confere entrelinha 1,5 e 0 pt antes/depois em cada parágrafo editorial (C-41, C-48) e, com --nova (minuta feita do zero), cinza 808080 em todo o texto do projeto, salvo rótulos fixos (C-49).
 Analisa a versão ACEITA do documento (controle de alterações) e exige revisao_tracked.py na mesma pasta.
 v6: formatação do manual e da estrutura pronta (recuo 4 cm; transcrições Arial 13 itálico, recuo 4/6;
 ementas sem recuo de 1ª linha; enumeração em negrito; ID no singular; mini-dispositivo sublinhado e ausente
@@ -13,6 +14,8 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 args = [a for a in sys.argv[1:] if not a.startswith("--")]
 classe = next((a.split("=")[1] for a in sys.argv[1:] if a.startswith("--classe=")), "APC").upper()
 rev_path = args[0]; orig_path = args[1] if len(args) > 1 else None
+nova = "--nova" in sys.argv
+ESPACO = {"ent": [], "dep": [], "antes": []}; SEM_CINZA = []
 
 FIXAS = {"com razão.", "sem razão.", "com parcial razão.", "com razão em parte.", "é o relatório.",
          "é como voto.", "ementa", "relatório", "voto", "dispositivo"}
@@ -23,6 +26,22 @@ def A(nivel, sec, i, msg, txt=""):
     _vist.add((sec, i, msg)); alertas.append(f"[{nivel}] {sec} §{i}: {msg}" + (f" → «{txt[:90]}»" if txt else ""))
 
 def cm(v): return round(v.cm, 1) if v is not None else None
+
+def confere_formato(p, t, sec, i):
+    """C-41/C-48: entrelinha 1,5 e 0 pt depois explícitos; C-49 (--nova): texto em cinza 808080."""
+    pf = p.paragraph_format
+    ls = pf.line_spacing
+    if not (isinstance(ls, float) and abs(ls - 1.5) < 0.01):
+        ESPACO["ent"].append((sec, i, t))
+    if pf.space_after is None or pf.space_after.pt != 0:
+        ESPACO["dep"].append((sec, i, t))
+    if pf.space_before is not None and pf.space_before.pt != 0:
+        ESPACO["antes"].append((sec, i, t))
+    if nova and not t.startswith("O Senhor Desembargador"):
+        rs = [r for r in p.runs if r.text.strip()]
+        if any(not (r.font.color and r.font.color.type is not None and r.font.color.rgb is not None
+                    and str(r.font.color.rgb).upper() == "808080") for r in rs):
+            SEM_CINZA.append((sec, i, t))
 
 def transcricao(p):
     t = p.text.strip()
@@ -73,6 +92,7 @@ for i, p in enumerate(ps):
     if not t or sec == "CABEÇALHO":
         continue
     if t == "É como voto.":
+        if not anexo: confere_formato(p, t, sec, i)
         anexo = True; continue
     runs = [r for r in p.runs if r.text.strip()]
     if anexo:
@@ -85,6 +105,7 @@ for i, p in enumerate(ps):
         A("ERRO", sec, i, "vermelho fora do resumo (cor exclusiva do Desembargador, manual 2.3.9)", t)
     if resumo:
         continue
+    confere_formato(p, t, sec, i)
     trans = transcricao(p)
     pf = p.paragraph_format
     # fontes
@@ -215,6 +236,15 @@ if orig_path:
     perdidas = [t for t in ot if norm(t) not in dt and not t[:40].isupper()]
     for t in perdidas[:10]: A("AVISO", "TRANSCRIÇÃO", 0, "transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa)", t)
 
+for chave, msg in (("ent", "entrelinha diferente de 1,5 (C-41, C-48)"), ("dep", "espaçamento depois diferente de 0 pt (C-41, C-48)"),
+                   ("antes", "espaçamento antes diferente de 0 pt (C-41, C-48)")):
+    L = ESPACO[chave]
+    if L:
+        sec0, i0, t0 = L[0]
+        A("AVISO", "FORMATAÇÃO", 0, f"{len(L)} parágrafo(s) com {msg}; 1º: {sec0} §{i0}", t0)
+if SEM_CINZA:
+    sec0, i0, t0 = SEM_CINZA[0]
+    A("AVISO", "COR", 0, f"{len(SEM_CINZA)} parágrafo(s) da minuta nova fora do cinza 808080 (C-49); 1º: {sec0} §{i0}", t0)
 print(f"Classe {classe} | parágrafos (versão aceita) {len(ps)} | comentários {n_com} | alterações rastreadas {cont}")
 for a in alertas: print(a)
 erros = sum(a.startswith("[ERRO]") for a in alertas)

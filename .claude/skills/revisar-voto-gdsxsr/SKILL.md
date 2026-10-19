@@ -152,7 +152,7 @@ Rode `python3 checar_voto.py REVISADO.docx ORIGINAL.docx --classe=APC > portao.t
 
 ## Etapa 6 — Entrega
 
-- **Nome do arquivo:** o mesmo da minuta, com "Marcos" após o identificador do assessor (`8 APC 0701708-20 ACA DPP ….docx` → `8 APC 0701708-20 ACA Marcos DPP ….docx`), sem "_revisado"; a sigla de resultado só muda se o sentido mudou e isso foi comunicado (C-70).
+- **Nome do arquivo:** o mesmo da minuta, com "Marcelo" após o identificador do assessor (`8 APC 0701708-20 ACA DPP ….docx` → `8 APC 0701708-20 ACA Marcelo DPP ….docx`; C-70 v29: nunca "Marcos"), sem "_revisado"; a sigla de resultado só muda se o sentido mudou e isso foi comunicado (C-70).
 - Entregue o DOCX com as alterações já aceitas, em `entregas/` (a cópia rastreada vai para `entregas/rastreados/`), e um relatório de **até 8 linhas**, uma por item: modelos consultados (só os números dos processos); as 3 a 5 alterações mais relevantes com os códigos C-xx; pendências, se houver, em uma linha cada; portão (ok ou avisos justificados); limitações. Os detalhes estão nos comentários do DOCX e não se repetem no chat. Não reexplique como aceitar alterações no Word, salvo se o usuário perguntar.
 - Em lote, termine e passe no portão cada minuta antes da seguinte.
 - Quando o usuário trouxer a versão final do Desembargador ou de Marcos, use a skill `registrar-calibracao`.
