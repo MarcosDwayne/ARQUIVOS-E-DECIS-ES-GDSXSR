@@ -1,6 +1,6 @@
 # CALIBRAÇÕES — AGI — ASSESSOR GDSXSR
 
-Soma-se ao núcleo (`CALIBRACOES-NUCLEO-GDSXSR.md`). Versão v17, 13/10/2026. Inclui regras de AGI e as compartilhadas com APC (C-3B) e EMD (C-3D).
+Soma-se ao núcleo (`CALIBRACOES-NUCLEO-GDSXSR.md`). Versão v27, 23/10/2026. Inclui regras de AGI e as compartilhadas com APC (C-3B) e EMD (C-3D).
 
 **C-17 · AGI aderente à liminar: só o que responde ao agravo** — ATIVA · AGI · v9
 Quando o voto mantém a liminar (NP), o capítulo traz a transcrição das razões da liminar, no máximo dois ou três parágrafos que respondam ao que a agravante alegou e o fecho ("Desse modo, ausente elemento novo…"). Suprimir o parágrafo que apenas delimita o efeito devolutivo, o que repete a decisão agravada ou a liminar, a resposta desdobrada a cada alegação (natureza da atividade, ausência de contrato, proporcionalidade, inexistência de bloqueio) quando a liminar já a cobre, e a ressalva sobre crédito não questionado. Na fórmula "Mantenho as razões… na decisão liminar que indeferiu a antecipação da tutela recursal (ID …):", não acrescentar "embora… já reconheceu a probabilidade do direito" quando o voto é NP. Motivo inferido do padrão de cortes; a regra de resultado não muda.
@@ -25,3 +25,5 @@ O item do dispositivo da ementa identifica o recorrente: "Negou-se provimento ao
 
 **C-3E · Cabeçalho da ementa fecha com o resultado em fórmula curta** — ATIVA · AGI · v15
 A última frase do cabeçalho em caixa alta é "RECURSO PROVIDO." ou "RECURSO NÃO PROVIDO." (ou "AGRAVO DE INSTRUMENTO NÃO PROVIDO."), sem "CONHECIDO E" e sem "REFORMA DA DECISÃO AGRAVADA. PROVIMENTO.". Exemplos: "…REFORMA DA DECISÃO AGRAVADA. PROVIMENTO." → "…RECURSO PROVIDO." (AGI 0738060-24); "AGRAVO DE INSTRUMENTO CONHECIDO E NÃO PROVIDO." → "AGRAVO DE INSTRUMENTO NÃO PROVIDO." (AGI 0738560-90).
+
+**Observações da AGI 0729901-92 (NP, impugnação ao cumprimento, acordo posterior ao título, CPC 525 § 1º VII; ainda não são regra) — 23/10/2026:** voto do zero aproveitado em substância (resultado, transcrição da liminar, CPC 525/373, precedente, CPC 854 § 3º e dispositivo mantidos). Ajustes de Marcos: (i) ementa: fundiu os itens de ônus da prova (CPC 373 II) e de documentos do agravo em um só (11→10 itens), exceção isolada a C-35; (ii) realce amarelo estendido ao parágrafo "No caso, os agravantes situam o suposto acordo em…", além de "Nenhum deles demonstra…" (coerente com C-43); (iii) apagou o comentário do agente sobre admissibilidade/pendências (gratuidade, prioridade) e manteve os demais (C-52). Nota de ferramenta: o divisor "______" da ementa_nota sai como "__" no montador (o regex de sublinhado `__.+?__` o consome); Marcos o refez à mão com 7 sublinhados. Corrigir o montador, sem mudar a regra.
