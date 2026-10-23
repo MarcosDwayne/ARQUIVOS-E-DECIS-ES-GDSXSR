@@ -1,4 +1,4 @@
-# CALIBRAÇÕES VIGENTES — ÍNDICE (v29, 23/10/2026)
+# CALIBRAÇÕES VIGENTES — ÍNDICE (v34, 23/10/2026)
 
 Este arquivo deixou de conter as regras. Elas foram divididas para economizar tokens; leia **só estes**:
 
