@@ -1,13 +1,14 @@
 # CALIBRAÇÕES — AGI — ASSESSOR GDSXSR
 
-Soma-se ao núcleo (`CALIBRACOES-NUCLEO-GDSXSR.md`). Versão v29, 23/10/2026 (v29 refina C-17; v27 foi poda de tamanho, nenhuma regra mudou de sentido). Inclui regras de AGI e as compartilhadas com APC (C-3B) e EMD (C-3D).
+Soma-se ao núcleo (`CALIBRACOES-NUCLEO-GDSXSR.md`). Versão v30, 23/10/2026 (v30 refina C-17 para DP e acrescenta C-3H; v29 refina C-17; v27 foi poda de tamanho, nenhuma regra mudou de sentido). Inclui regras de AGI e as compartilhadas com APC (C-3B) e EMD (C-3D).
 
-**C-17 · AGI aderente à liminar: só o que responde ao agravo** — ATIVA · v9, v10, v11, v29
+**C-17 · AGI aderente à liminar: só o que responde ao agravo** — ATIVA · v9, v10, v11, v29, v30
 Quando o voto mantém a liminar (NP), o capítulo traz a transcrição das razões da liminar, no máximo dois ou três parágrafos que respondam ao que o agravante alegou, e o fecho ("Desse modo, ausente elemento novo…" ou "Esse o quadro, deve ser mantida a r. decisão agravada que rejeitou a impugnação…, homologou os cálculos e determinou o prosseguimento da execução."). Suprimir o parágrafo que apenas delimita o efeito devolutivo, o que repete a decisão agravada ou a liminar, a resposta desdobrada a cada alegação quando a liminar já a cobre e a ressalva sobre crédito não questionado.
 - Fórmula "Mantenho as razões… na decisão liminar que indeferiu a antecipação da tutela recursal (ID …):" indica só o ato, sem listar o que a liminar rejeitou ou reconheceu e, no voto NP, sem acrescentar "embora… já reconheceu a probabilidade do direito".
 - Vale também para o enfrentamento adicional escrito pelo assessor depois da liminar (acórdãos de outras Turmas invocados pelo agravante, normas, súmulas, emendas): quando a liminar e a decisão agravada já respondem ao agravo, o bloco é cortado e o fecho resume a decisão agravada.
 - Precedente de outro tribunal invocado só no agravo, cujo teor não está nos autos recebidos nem foi lido pelo revisor, não é enfrentado no voto, ainda que com a ressalva "segundo o recurso"; saem também o item correspondente da ementa e os comentários do revisor que apontavam a pendência.
 - **v29 (AGI 0737081-62, minuta do zero, NP):** Marcos cortou o parágrafo que introduzia o CPC 300 e a transcrição do caput, e fundiu em um só os dois parágrafos finais de enfrentamento, suprimindo o do REsp invocado só no agravo ("segundo o próprio agravo"), em linha com a regra anterior. Na minuta NP, depois da liminar transcrita, não reabrir o requisito genérico do CPC 300 por transcrição (a liminar já o aplicou; fica a citação compacta "(CPC 300)") nem enfrentar precedente conhecido só pela descrição do agravo; ficam as respostas ao que a liminar não cobriu (aqui: Tema 376, IN e "fundada dúvida", TCDF). Motivo inferido, não declarado por Marcos; o corte do CPC 300 foi observado uma vez.
+- **v30 (AGI 0747273-54, DP, Tema 1.230/STJ):** vale também no voto que dá provimento. Cortar a vinculação pelo CPC 927, III, as respostas ponto a ponto e a nota interna sobre o que a parte deveria ter provado, e qualquer menção a matéria "prejudicada" (nulidade da decisão, revogação do efeito suspensivo). Ficam a tese transcrita (C-66), a aplicação ao caso e o fecho; o dispositivo usa "para, confirmando a liminar,". Motivo inferido. O rodapé da ementa acompanha o corte (o CPC 927, III permaneceu na versão final; dúvida levada a Marcos).
 - O título do capítulo nomeia a matéria ("DA LEGITIMIDADE ATIVA E DA REGULARIDADE DOS CÁLCULOS"), não "DA MANUTENÇÃO DA DECISÃO AGRAVADA".
 - A ementa acompanha o corte (C-33): saem os itens e os rodapés de normas e acórdãos que o voto não cita mais, e o dispositivo é renumerado; os rodapés usam a forma por extenso ("CF/1988, art. 8º, III; EC nº 113/2021, art. 3º"; "Acórdão nº …, Processo nº …, Rel. Des. …"; STF com "(Tema 823)" ao final).
 
@@ -25,3 +26,6 @@ O item do dispositivo da ementa identifica o recorrente: "Negou-se provimento ao
 
 **C-3E · Cabeçalho da ementa fecha com o resultado em fórmula curta** — ATIVA · AGI · v15
 A última frase do cabeçalho em caixa alta é "RECURSO PROVIDO." ou "RECURSO NÃO PROVIDO." (ou "AGRAVO DE INSTRUMENTO NÃO PROVIDO."), sem "CONHECIDO E" e sem "REFORMA DA DECISÃO AGRAVADA. PROVIMENTO.".
+
+**C-3H · AGI: ementa com o valor do crédito e renda aproximada** — ATIVA · AGI · v30
+No item 1 da ementa de AGI em cumprimento/execução, depois das partes (C-34A), entra o valor do crédito entre parênteses, sem data nem vara: "…cumprimento de sentença (R$ 154.351,18)…". Se o enquadramento depende de faixa de renda (ex.: líquido inferior a cinco salários mínimos), ementa e parágrafo de aplicação trazem o valor aproximado: "R$ 5.300,00 em média". Observada em um caso; motivo inferido.
