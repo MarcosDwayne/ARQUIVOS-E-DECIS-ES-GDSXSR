@@ -9,7 +9,7 @@ Fecha o ciclo de aprendizado do Assessor GDSXSR: **versão do agente → versão
 
 ## Onde ficam as regras (v17, 13/10/2026)
 
-- `claude/CALIBRACOES-NUCLEO-GDSXSR.md`: regras de todas as classes.
+- `claude/CALIBRACOES-NUCLEO-GDSXSR.md`: regras de todas as classes; `claude/CALIBRACOES-FORMATACAO-GDSXSR.md`: regras de formatação e entrega do DOCX (C-40 a C-47; nova regra de formatação entra aqui).
 - `claude/CALIBRACOES-APC-GDSXSR.md`, `CALIBRACOES-AGI-GDSXSR.md`, `CALIBRACOES-EMD-GDSXSR.md`: regras de uma só classe.
 - `claude/CALIBRACOES-VIGENTES-GDSXSR.md`: apenas índice.
 - `historico/REGISTRO-ALTERACOES-CALIBRACOES.md`: tabela de versões e "Origem" de cada regra.

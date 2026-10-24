@@ -1,7 +1,7 @@
 # CALIBRAÇÕES — NÚCLEO (todas as classes) — ASSESSOR GDSXSR
 
 **Versão:** v36 · **Data-base:** 24/10/2026. Origem de cada regra (quem corrigiu, em qual processo), versões v27 a v36 e texto integral anterior: `historico/REGISTRO-ALTERACOES-CALIBRACOES.md` e `historico/backup-*/` (não ler em revisão).
-**Onde está o quê:** este arquivo traz as regras de APC, AGI e EMD. Regras de uma só classe estão em `CALIBRACOES-APC-GDSXSR.md`, `-AGI-` e `-EMD-` (ler só a da classe da minuta). Observações ainda não promovidas a regra: `historico/OBSERVACOES-NAO-REGRA-ate-v26.md` (não ler em revisão comum).
+**Onde está o quê:** este arquivo traz as regras de APC, AGI e EMD, exceto as de formatação e entrega do DOCX (C-40 a C-47), que estão em `CALIBRACOES-FORMATACAO-GDSXSR.md` (ler na Etapa 4 e antes do portão). Regras de uma só classe estão em `CALIBRACOES-APC-GDSXSR.md`, `-AGI-` e `-EMD-` (ler só a da classe da minuta). Observações ainda não promovidas a regra: `historico/OBSERVACOES-NAO-REGRA-ate-v26.md` (não ler em revisão comum).
 **Novas calibrações** entram pela skill `registrar-calibracao`: regra geral aqui, regra de classe no arquivo da classe, "Origem" e linha da versão no registro. Escrever a regra enxuta (enunciado, exemplo mínimo, exceção); o caso que a originou vai ao registro, não aqui.
 **Hierarquia em conflito:** instrução do usuário para a minuta atual → regra mais recente e específica → MANUAL ATUALIZADO e estruturas prontas do Drive (formatação) → perfis de estilo → modelos do Drive.
 **Status:** ATIVA · SUBSTITUÍDA (só no histórico) · ESPECÍFICA (só para a matéria indicada).
@@ -10,7 +10,7 @@
 
 ## Sumário
 
-A. Princípios · B. Parágrafo e cadência · C. Referências e voz · D. Estrutura · E. Formatação · F. Comentários laterais · G. Jurisprudência e legislação (inclui C-66, citação literal, e C-72, conferência) · H. Arquivo e entrega
+A. Princípios · B. Parágrafo e cadência · C. Referências e voz · D. Estrutura · E. Formatação (arquivo próprio) · F. Comentários laterais · G. Jurisprudência e legislação (inclui C-66, citação literal, e C-72, conferência) · H. Arquivo e entrega
 
 ---
 
@@ -128,18 +128,6 @@ Cada capítulo, exceto o último, termina com a conclusão sublinhada e realçad
 **C-3F · Dispositivo em parágrafo único** — ATIVA · todas
 O DISPOSITIVO é um parágrafo; a determinação consequente entra na mesma frase por "a fim de que", e não em segundo parágrafo iniciado por "Determino" ("…dou provimento ao agravo de instrumento das exequentes, … para confirmar a liminar, a fim de que o novo edital de leilão, com as retificações já definidas na origem, seja expedido…"). Decisão distinta e autônoma — gratuidade de justiça recursal, fixação ou redistribuição de honorários e ônus — vai em parágrafo próprio, nesta ordem: resultado do recurso; gratuidade; honorários e ônus ("Sem honorários recursais (CPC 85 § 11)."). Ver C-3Q (APC).
 
-## E. Formatação
-
-**C-40 · Fontes** — ATIVA · todas
-Arial 14 no texto editorial (ementa, relatório, voto, títulos, dispositivo). Transcrições (sentença, documentos, alegações, ementas, lei, tese) em **Arial 13 e itálico**, entre aspas; aspas internas viram simples. Na ementa, os rótulos "Dispositivos relevantes citados:" e "Jurisprudência relevante citada:" em itálico (só o rótulo). Não aplicar Arial 13 nem itálico aos anexos.
-
-**C-41 · Página, espaçamento e recuos** — ATIVA · todas
-- Página A4; margens superior e inferior 2,5 cm, esquerda e direita 3 cm.
-- Texto normal: justificado, entrelinha 1,5, 0 pt antes e depois, **recuo de primeira linha 4 cm** (não 2,54), um parágrafo vazio entre parágrafos normais.
-- Transcrição de sentença, documento ou alegação: **recuo esquerdo 4 cm e primeira linha em 6 cm**, sem parágrafo vazio interno. Citação dentro de transcrição: recuo 6 cm, inclusive a primeira linha.
-- Ementa transcrita e texto de lei: recuo esquerdo 4 cm, **sem** recuo de primeira linha. Tese de tema transcrita: como trecho (4 cm / 6 cm).
-- Títulos e subtítulos sem recuo de primeira linha; "O Senhor Desembargador SÉRGIO ROCHA – Relator." sem recuo.
-
 **C-3W · Capítulo por pedido, não por tese; título que diz o que se decide; alegações enumeradas no capítulo** — ATIVA · todas (revisão e minuta do zero) · v34
 Orientação do Des. Sérgio Rocha, via Marcos (23/10/2026). Julgam-se **pedidos**, não teses nem assuntos.
 (a) Cada capítulo do voto trata de **um pedido do recorrente** (o núcleo do pedido) e das alegações que o sustentam. Assunto que, sozinho, não leva a provimento nem a parcial provimento (aplicabilidade do CDC, valoração da prova, ônus da prova, existência de vício, legitimidade) **não ganha capítulo próprio**: é examinado dentro do pedido a que se refere. Ex.: não se "dá provimento" para reconhecer o CDC; decide-se o pedido de rescisão, de ressarcimento ou de reforma da condenação.
@@ -147,28 +135,9 @@ Orientação do Des. Sérgio Rocha, via Marcos (23/10/2026). Julgam-se **pedidos
 (c) **Todo capítulo abre com as alegações do recorrente sobre aquele pedido**, enumeradas em um só parágrafo, com o ID ao final (C-30), antes do veredito ("Sem razão."). Fórmula do modelo do Gabinete, sem lead-in: "A ré/apelante, NOME EM CAIXA ALTA, alega que 1) …; 2) … (ID …)." (apelada: "Em contrarrazões, a ré/apelada, NOME, suscita …"). Não inventar fórmula de abertura.
 (d) **Ementa:** o item 1 nomeia as partes literalmente (C-34A: pessoa jurídica pelo nome da autuação, nunca "revendedora" ou "banco"); as questões em discussão e as razões de decidir seguem os pedidos, não as teses.
 
-**C-42 · Títulos** — ATIVA · todas
-Títulos e subtítulos da ementa sempre à esquerda (EMENTA, I a IV); "EMENTA" em negrito. Entre RELATÓRIO e DISPOSITIVO, títulos e subtítulos de fundamentação centralizados. Título do recurso em negrito; subtítulo de capítulo sem negrito, antecipando o resultado ("DA REJEIÇÃO DA PRELIMINAR DE…") e **realçado em amarelo**; DISPOSITIVO em negrito. O veredito isolado ("Sem razão.", "Com razão.") também em amarelo.
+## E. Formatação e entrega do DOCX
 
-**C-43 · Ênfases** — ATIVA · todas
-- Relatório e voto: números da enumeração das alegações — 1), 2), 3)… — em **negrito** (manual 2.3.5); o nome da parte no "Apelo da autora, NOME (ID …)" **sem** negrito.
-- Mini-dispositivo de capítulo sublinhado e em amarelo (C-3A).
-- Dispositivo: negrito no núcleo decisório (**rejeito**, **nego provimento**, **dou parcial provimento**) e no verbo de honorários (**Condeno**, **Majoro**).
-- Realce amarelo com parcimônia, nunca em transcrições inteiras. Além de subtítulos, vereditos e mini-dispositivos, realçar em cada capítulo os 2 a 4 períodos que decidem a questão — a premissa jurídica decisiva, o fato provado (ou não provado) que a resolve e a conclusão ("Essa possibilidade não equivale à prova do nexo causal…"); em EMD, o fundamento do acórdão, o ponto não enfrentado, o fato central com ID. Realça-se a frase que fixa a premissa e a que enuncia a conclusão, não o parágrafo todo. Não realçar alegações, relatório, transcrições inteiras nem parágrafos de passagem.
-- Dois parágrafos curtos seguidos que se completam são fundidos em um (C-11/C-13).
-- A cor das alterações do revisor segue C-44.
-
-**C-44 · Controle de alterações com texto em cinza** — ATIVA · todas (instrumento interno; a entrega é C-47)
-Toda alteração do revisor é rastreada (autor "Assessor GDSXSR"): inserções em w:ins, exclusões em w:del, cisões com a marca de parágrafo inserida, recuos e alinhamento em w:pPrChange, negrito/itálico/tamanho/realce/sublinhado em w:rPrChange. O texto inserido vai em 808080, de modo que, **aceita a alteração, permanece cinza**; o excluído some. Texto original não alterado conserva a cor própria. Parágrafo com comentário também é reescrito (as âncoras são preservadas pela ferramenta); só parágrafo com campo, hiperlink, nota ou imagem fica protegido. Única exceção de cor: o resumo em vermelho (C-39).
-
-**C-47 · Entrega com alterações já aplicadas, em cinza, só com comentários** — ATIVA · todas
-Confirmada por Marcos em 13/10/2026. O assessor não aceita nem rejeita alteração por alteração. O revisor edita com `revisao_tracked.Revisor` (para o portão `checar_voto.py` conferir) e **entrega o DOCX com todas as alterações do autor "Assessor GDSXSR" já aceitas** (`aceitar_autor.py`, que aceita só as marcas do revisor): texto novo em cinza 808080 (resumo em vermelho, C-39), excluído desaparece, cada alteração relevante explicada em comentário lateral (C-54/C-55). A cópia rastreada fica só em `entregas/rastreados/`. Alterações rastreadas de terceiros já existentes na minuta são preservadas, e o portão acusa inserção "sem cinza" apenas por elas — justificar no relatório.
-
-**C-45 · Decisão recorrida anexada em verde** — ATIVA · todas
-A sentença (ou decisão agravada, ou acórdão embargado) vai ao final, depois de "É como voto.", inteira em **verde 00B050**; as partes principais podem ser realçadas (manual: "realçando em marrom as partes principais").
-
-**C-46 · Cores reservadas e blocos finais** — ATIVA · todas
-Azul e vermelho são do Desembargador (azul: o que vai ler na sessão; vermelho: o que discorda); o revisor não os usa, salvo o resumo de C-39. Jurisprudência em sentido contrário ao voto vai **ao final, em violeta 800080**, sinalizada em comentário no início do documento; parecer da Procuradoria em sentido contrário, ao final, em laranja C45911. O bloco violeta se intitula "PRECEDENTES CONTRÁRIOS AO VOTO" e traz, de cada acórdão, a ementa íntegra e a linha de identificação ("Acórdão n., processo, Relator(a), Turma, data de julgamento, publicado no DJe"), de preferência os mais recentes das Turmas que divergem. **v32 (observada, AGI 0740064-34):** com a decisão recorrida em verde (C-45) e a jurisprudência contrária em violeta, o bloco violeta vem **depois** da decisão recorrida, como último bloco do documento (a minuta vinha com o violeta antes; Marcos inverteu). Observada uma vez, motivo não declarado.
+**Regras C-40 a C-47 (fontes, página e recuos, títulos, ênfases, controle de alterações em cinza, entrega com alterações aceitas, decisão recorrida em verde, cores reservadas e blocos finais) estão em `claude/CALIBRACOES-FORMATACAO-GDSXSR.md`. Ler esse arquivo ao iniciar a Etapa 4 (edição do DOCX) e antes do portão; não é necessário para analisar e redigir o texto. Continuam ATIVAS e com o mesmo número.**
 
 ## F. Comentários laterais
 
