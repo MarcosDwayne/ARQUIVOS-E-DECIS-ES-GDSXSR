@@ -1,3 +1,4 @@
+# ESPELHO de parâmetros. NÃO ler em revisão nem em minuta: a fonte única são as calibrações (claude/CALIBRACOES-*.md). Nenhuma ferramenta lê este arquivo.
 version: '1.4'
 data: '2026-10-14'
 agent_name: Assessor GDSXSR

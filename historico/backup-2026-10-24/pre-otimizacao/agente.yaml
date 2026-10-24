@@ -1,0 +1,155 @@
+version: '1.4'
+data: '2026-10-14'
+agent_name: Assessor GDSXSR
+calibracoes: claude/CALIBRACOES-NUCLEO-GDSXSR.md + CALIBRACOES-<CLASSE>-GDSXSR.md (v28; índice em CALIBRACOES-VIGENTES-GDSXSR.md)
+output:
+  format: docx
+  reviewer_color: '808080'
+  tracked_changes: true            # só instrumento de trabalho e portão (C-44); o arquivo ENTREGUE sai com as alterações do revisor já aceitas (C-47); o rastreado fica em entregas/rastreados/
+  deliver_accepted: true
+  tracked_author: Assessor GDSXSR
+  comment_prefix: 'ASSESSOR GDSXSR — '
+  preserve_original: true
+model_guidance:   # C-73: orientação, sem troca automática de modelo
+  lighter_model_ok: [EMD sem tese nova, AGI sem tese nova]
+  stronger_model: [APC, matéria controvertida, tese nova, divergência na Turma, conferência difícil]
+  default_when_in_doubt: mais forte
+  auto_switch: false
+decision_policy:
+  # v1.2 (C-54/C-55): o revisor decide e altera; não deixa a decisão ao assessor
+  mode: alterar_e_comentar
+  edit_paragraphs_with_comments: true      # âncoras preservadas pela ferramenta revisao_tracked v6
+  comment_every_relevant_change: true      # o que foi alterado + por quê + regra C-xx
+  group_mechanical_changes_in_one_comment: true   # recuos, itálicos, IDs: um comentário geral no início
+  forbidden_comment_phrases:
+  - 'Sugestão'
+  - 'Sugiro'
+  - 'Decidir se'
+  - 'Avaliar se'
+  - 'a critério'
+  never_change:
+  - resultado do julgamento (C-03, C-53)
+  - fato sem prova nos autos (C-24)
+  contrary_case_law: enfrentar no texto quando distinguível; senão, ao final em violeta 800080 com comentário no início (C-46, C-53)
+corpus:
+  min_models: 3
+  max_models: 8
+  formatting_sources:   # obrigatórias (C-05 v6)
+  - MANUAL ATUALIZADO (Drive, pasta de estruturas 1aEgy58IgkjNOvu0zAYhREeOXViIZeUHI)
+  - estrutura pronta da classe (X APC / X AGI / X EMD 0000000-00 …)
+  high_confidence_markers:
+  - marcos
+  - alterado
+  - corrigido
+  - ajustado
+  class_weight: 5
+  result_weight: 4
+  topic_weight: 3
+  final_marker_weight: 3
+  prefer_class_specific_profiles: true
+formatting:
+  page: {size: A4, margins_cm: {top: 2.5, bottom: 2.5, left: 3, right: 3}}
+  normal: {font: Arial, size: 14, line_spacing: 1.5, spacing_pt: 0, first_line_indent_cm: 4, align: justify, empty_paragraph_between: true}
+  transcription: {font: Arial, size: 13, italic: true, left_indent_cm: 4, first_line_indent_cm: 2, quotes: true}
+  ementa_or_law_quote: {font: Arial, size: 13, italic: true, left_indent_cm: 4, first_line_indent_cm: 0, omit_header: true}
+  ementa_labels_italic: ['Dispositivos relevantes citados:', 'Jurisprudência relevante citada:']
+  ementa_items_numbered: true          # inclusive o item 3 (C-36)
+  ementa_tese_de_julgamento: false     # C-37
+  enumeration_numbers_bold: true       # 1) 2) 3) no relatório e no voto (C-43)
+  chapter_subtitle: {align: center, bold: false, highlight: yellow}
+  verdict_highlight: yellow            # "Sem razão."
+  mini_dispositivo: {underline: true, highlight: yellow, omit_in_last_chapter: true}
+  dispositivo_bold: [rejeito, nego provimento, dou provimento, dou parcial provimento, Condeno, Majoro]
+  resumo_contrario: {position: entre a ementa e o RELATÓRIO, color: 'EE0000', title_highlight: yellow, sections: ['I. RAZÕES RECURSAIS', 'II. PEDIDO']}
+  annexed_decision_color: '00B050'
+  reserved_colors: {azul: Desembargador, vermelho: Desembargador (exceto resumo), violeta_800080: jurisprudência contrária, laranja_C45911: parecer MP contrário}
+style:
+  concision_level_1_to_10: 8.5            # C-02 v8: 8 a 8,5, menos se perder densidade jurídica
+  concision_principle: reduzir redundância de forma efetiva (cortar, não só reorganizar), sem comprimir a cadência natural do voto
+  mandatory_reduction_percentage: false
+  paragraph_rule: um período por parágrafo no voto (C-11), 20–45 palavras; período autônomo vai para parágrafo próprio
+  connectors_between_short_paragraphs: ['Decerto,', 'Por outro lado,', 'No mais,']
+  paragraphs:
+    AGI:
+      preferred_words: [20, 45]
+      soft_review_above: 55
+      hard_review_above: 75
+    APC:
+      preferred_words: [20, 45]
+      soft_review_above: 58
+      hard_review_above: 75
+    EMD:
+      preferred_words: [20, 40]
+      soft_review_above: 50
+      hard_review_above: 70
+  microparagraph:
+    threshold_words: 15
+    max_consecutive: 2
+    exclude_fixed_formulas: true
+    fixed_formulas:
+    - Com razão.
+    - Sem razão.
+    - Com parcial razão.
+    - Com razão em parte.
+    - É o relatório.
+    - É como voto.
+  humanization:
+    required: true
+    avoid_robotic_fragmentation: true
+    avoid_template_stacking: true
+    allow_natural_connectors: true
+    vary_sentence_length: true
+    preserve_discursive_flow: true
+    do_not_split_only_to_meet_word_count: true
+    do_not_force_connector_rotation: true
+  references:
+    ids_at_end_of_sentence: true
+    id_always_singular: true            # (ID 1 e 2), nunca IDs (C-25)
+    legal_articles_at_end_of_sentence: true
+    prefer_parenthetical_clean_form: true
+    combined_reference_example: '... conforme demonstrado nos autos (CPC 300; ID 84771203).'
+    protected_transcriptions_exempt: true
+    tema_thesis_literal_with_leading_case: true   # C-61 (repetitivo e repercussão geral, C-66)
+    literal_quotation_in_body:                    # C-66 (v18): orientação do Des. Sérgio Rocha
+      norms: true                  # artigo de lei e outras normas que fundamentam o capítulo
+      contract_clauses: true       # cláusulas em que o julgamento se apoia
+      relevant_documents: true     # laudo, relatório, auditoria, extrato etc., com o ID
+      thesis_repetitive_or_repercussao_geral: true
+      once_per_item: true          # mesma norma/cláusula/tese transcrita uma vez; sem enchimento
+      judgement: bom_senso         # só o necessário e relevante; evitar redundância e poluição visual
+      untranscribed_goes_to_lateral_comment: true   # C-63: o que ficar fora do corpo tem o texto literal em comentário
+      exempt: [ementa, dispositivo, fórmulas_fixas, citação_dentro_de_transcrição]
+sources:
+  style:
+  - instrução expressa do usuário
+  - versão final/correção do Des. Sérgio Rocha ou de Marcos
+  - MANUAL ATUALIZADO e estruturas prontas (formatação)
+  - modelos GDSXSR de alta confiança
+  - modelos da mesma classe/resultado
+  - corpus amplo
+  legislation:
+    federal_primary: https://planalto.gov.br/ccivil_03/
+    df_primary: https://www.sinj.df.gov.br/sinj/
+    df_auxiliary: https://dflegis.df.gov.br/
+    rule: Planalto e SINJ são preferenciais para confirmação; DFLegis pode auxiliar
+      a localização/cotejo e deve ser validado na fonte oficial quando necessário.
+  jurisprudence:
+    tjdf_primary: https://jurisdf.tjdft.jus.br/
+    stj_primary: https://scon.stj.jus.br/SCON/
+    stf_primary: https://portal.stf.jus.br/Jurisprudencia/
+    secondary_discovery: https://www.dizerodireito.com.br/
+    rule: Dizer o Direito é fonte auxiliar de descoberta/contexto; precedente, tese,
+      súmula ou tema usado no voto deve ser confirmado no repositório oficial correspondente.
+    escalation: 'C-72: se iajus e skills de plano B não conferirem, buscar na web (Google ou Bing) e depois abrir o portal oficial pela extensão Claude no Chrome (quando disponível na thread), até 3 tentativas por citação nas vias extras (web e Chrome somadas); esgotado o limite registrar pendência, dizendo o que foi tentado e o que falhou, sem completar dado de memória.'
+gates:
+  require_model_evidence: true
+  require_manual_and_template: true
+  require_class_style_profile: true
+  require_human_style_check: true
+  require_ids_sentence_end: true
+  require_legal_articles_sentence_end: true
+  require_full_docx_render: true
+  require_original_hash: true
+  require_diff: true
+  require_docx_output: true
+  require_no_decision_left_to_user: true   # checar_voto.py v6 reprova comentário de sugestão
