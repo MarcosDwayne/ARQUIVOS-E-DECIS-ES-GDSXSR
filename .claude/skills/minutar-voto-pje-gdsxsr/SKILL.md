@@ -123,7 +123,7 @@ Estrutura e voz da skill de revisão. Pontos que pesam numa minuta feita do zero
 | `transcricao_ementa` | ementa de precedente (sem cabeçalho) e lei | 13 pt itálico, recuo 4 cm, sem 1ª linha |
 | `relator` | "O Senhor Desembargador SÉRGIO ROCHA – Relator." | negrito |
 | `titulo_recurso` | "APELO DA AUTORA, NOME" (sem ponto) | negrito, centralizado |
-| `subtitulo` | "DA REJEIÇÃO DA PRELIMINAR…", "DA MANUTENÇÃO…" | centralizado, sem negrito, realce amarelo |
+| `subtitulo` | um capítulo por pedido, com título que diz a decisão ("DA VERIFICAÇÃO DO VÍCIO OCULTO PREEXISTENTE PARA A MANUTENÇÃO DA RESCISÃO", "DA REDISTRIBUIÇÃO DA SUCUMBÊNCIA"); alegações do recorrente enumeradas no 1º parágrafo (C-3W) | centralizado, sem negrito, realce amarelo |
 | `dispositivo` | parágrafos do dispositivo | como `paragrafo`; `**…**` nos comandos |
 | `anexo` | sentença ao fim (`"titulo"`, `"paragrafos": [...]`) | nova página, verde 00B050 |
 
