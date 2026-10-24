@@ -5,7 +5,7 @@ description: "Abre o PJe 2º grau do TJDFT no Chrome do usuário, lê as APC com
 
 # Minutar voto a partir do PJe (GDSXSR)
 
-Esta skill transforma um processo da fila do Gabinete em uma **minuta de voto de APC pronta para conferência**: lê os autos no PJe, monta a ficha do caso, define o resultado pela linha decisória do Gabinete e grava um DOCX no padrão GDSXSR — **calibração v17 (13/10/2026)**, MANUAL ATUALIZADO e estrutura pronta APC.
+Esta skill transforma um processo da fila do Gabinete em uma **minuta de voto de APC pronta para conferência**: lê os autos no PJe, monta a ficha do caso, define o resultado pela linha decisória do Gabinete e grava um DOCX no padrão GDSXSR, conforme as calibrações vigentes, o MANUAL ATUALIZADO e a estrutura pronta APC.
 
 Quem usa é um assessor do Gabinete; o Desembargador decide. A minuta já sai **decidida**: a skill escolhe a solução, redige-a e explica em comentário lateral as escolhas sensíveis (linha do Gabinete, precedente contrário, prova decisiva). Comentário não é pergunta ao assessor: nada de "decidir se", "avaliar se", "sugiro" (C-54). Pendência só para o que não se pode conferir nos autos lidos (C-52).
 
@@ -30,7 +30,7 @@ Cada processo consome muito contexto (autos, modelos, manual), e a sessão vai a
 
 1. **Assessor.** O primeiro nome de quem usa a skill entra no nome do arquivo (Marcos, Ramon, Fatinha, Larissa, Renan). Use o nome já informado na conversa ou na memória; se não houver, pergunte uma vez: "Qual nome devo colocar como assessor no arquivo?". Quando quem usa é o Marcos, o nome é só "Marcos".
 2. **Padrão GDSXSR.** Leia a skill `revisar-voto-gdsxsr` (uma vez por conversa) (localize com `find / -path "*revisar-voto-gdsxsr/SKILL.md" 2>/dev/null | head -1`). As regras estão nas calibrações: no projeto "Assessor GDSXSR", leia `claude/CALIBRACOES-NUCLEO-GDSXSR.md`, `claude/CALIBRACOES-APC-GDSXSR.md` (`CALIBRACOES-VIGENTES-GDSXSR.md` é só índice), `claude/CALIBRACOES-FORMATACAO-GDSXSR.md` ao montar o DOCX, o perfil de estilo de APC e, se o resultado estiver em dúvida, os perfis decisórios. Fora do projeto, diga no relatório que as calibrações mais recentes não foram consultadas.
-3. **Manual e estrutura pronta.** Na pasta de estruturas do Drive (id `1aEgy58IgkjNOvu0zAYhREeOXViIZeUHI`), baixe uma vez por conversa o "MANUAL ATUALIZADO" e a estrutura "X APC 0000000-00 nome DP DPP NP assunto", salve-os em texto na pasta de trabalho e leia a estrutura inteira uma vez; do manual, consulte com `grep` só o ponto em dúvida (as regras de formatação já estão resumidas nesta skill e na de revisão). Em conflito com esta skill sobre formatação, vale o que estiver nas calibrações vigentes; depois, manual e estrutura.
+3. **Manual e estrutura pronta.** Na pasta de estruturas do Drive (id `1aEgy58IgkjNOvu0zAYhREeOXViIZeUHI`), baixe uma vez por conversa o "MANUAL ATUALIZADO" e a estrutura "X APC 0000000-00 nome DP DPP NP assunto", salve-os em texto na pasta de trabalho e leia a estrutura inteira uma vez; do manual, consulte com `grep` só o ponto em dúvida (as regras de formatação estão em C-40 a C-47). Em conflito sobre formatação, valem as calibrações vigentes; depois, manual e estrutura.
 4. **Ferramentas.** No projeto, grave na pasta de trabalho, com `project_read`: `claude/ferramentas/montar_voto.py` (v6), `claude/ferramentas/checar_voto.py` (v6) e `claude/ferramentas/revisao_tracked.py`. Fora do projeto, use `scripts/montar_voto.py` desta skill (cópia do montador v6) e passe o modelo-base com `--modelo=<skill>/assets/modelo-base-apc.docx`; sem o portão, diga no relatório que ele não rodou.
 5. **Navegador.** Leia a skill `chrome-browser` antes do primeiro passo no Chrome. Carregue as ferramentas do Claude in Chrome em uma só chamada (inclua `get_page_text`, `find` e `javascript_tool`). Se já houver aba do PJe logada, trabalhe a partir dela, abrindo os autos em abas novas.
 
@@ -66,7 +66,7 @@ Monte `ficha-<processo>.md` na área de trabalho (não é entregue): autuação;
 
 ## Etapa 4 — Solução jurídica
 
-1. **Modelos.** 3 a 8 votos-modelo pelo índice `INDICE-MODELOS-GDSXSR.csv` (ou busca na pasta `ASSESSOR GDSXSR`), priorizando mesma classe, mesma matéria e Nível 1–2. Comece pelos 3 melhores; vá além (até 8) só se eles não cobrirem a matéria, a preliminar ou a estrutura do caso. De cada modelo, extraia o texto para arquivo e leia só a ementa e o VOTO (de "O Senhor Desembargador" a "É como voto"); o relatório transcrito e a sentença anexada não ensinam nada da forma. Extraia arquitetura e fórmulas, não frases. Registre quais leu.
+1. **Modelos.** 3 a 8 votos-modelo pelo índice, filtrado com `python3 claude/ferramentas/buscar_modelos.py --classe APC [--resultado DPP] --n 8 palavra-chave …` (nunca ler o CSV inteiro; ou busca na pasta `ASSESSOR GDSXSR`), priorizando mesma classe, mesma matéria e Nível 1–2. Comece pelos 3 melhores; vá além (até 8) só se eles não cobrirem a matéria, a preliminar ou a estrutura do caso. De cada modelo, extraia o texto para arquivo e leia só a ementa e o VOTO (de "O Senhor Desembargador" a "É como voto"); o relatório transcrito e a sentença anexada não ensinam nada da forma. Extraia arquitetura e fórmulas, não frases. Registre quais leu.
 2. **Linha do Gabinete.** O resultado segue a linha decisória para a matéria (perfis decisórios e modelos). Se o caso tiver fato que justifique solução diferente, adote a solução que entender correta e explique em comentário a linha do Gabinete, o modelo de referência (nº do processo) e o fato que pesou — sem deixar a escolha em aberto.
 3. **Jurisprudência.** Mesma conferência da Etapa 2 da skill `revisar-voto-gdsxsr` (ferramentas iajus, escalonamento e limite de C-72, fontes e método de C-60): cite só o que a ferramenta devolveu, com link oficial no comentário; tese de tema literal com o leading case (C-61); precedentes da parte em bloco, contrário não distinguível ao final em violeta (C-46); lista de todas as citações conferida antes de montar; citação não confirmada sai.
 4. **Consectários e honorários.** Fórmulas do dispositivo no perfil da classe e C-3F; índice e taxa vigentes; os dois comentários de honorários (valor da causa e capítulo literal da sentença).
@@ -85,7 +85,7 @@ Estrutura e voz: perfil da classe e calibrações (a mesma `revisar-voto-gdsxsr`
 
 ### Regras para minuta nova
 
-Valem as calibrações (núcleo + classe) e a estrutura pronta da classe, sem resumo aqui: ementa (C-34A, C-35 a C-38, C-3G na APC), resumo em vermelho (C-39), relatório e voto (C-30, C-31, C-3A, C-3C na AGI), dispositivo (C-3F), formatação (C-40 a C-46) e entrega aceita com cópia rastreada em `entregas/rastreados/` (C-47).
+Valem as calibrações (núcleo + classe) e a estrutura pronta da classe, sem resumo aqui: ementa (C-34A, C-35 a C-38, C-3G na APC), resumo em vermelho (C-39), relatório e voto (C-30, C-31, C-3A), dispositivo (C-3F), formatação (C-40 a C-46, arquivo próprio) e entrega aceita com cópia rastreada em `entregas/rastreados/` (C-47).
 
 ## Etapa 6 — Montagem do DOCX
 
