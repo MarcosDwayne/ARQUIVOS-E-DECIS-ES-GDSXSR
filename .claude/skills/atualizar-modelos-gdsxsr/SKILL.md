@@ -14,7 +14,7 @@ O Assessor aprende com cada calibração, mas os modelos de partida no Drive con
 
 ## Etapa 1 — Separar as regras que tocam os modelos
 
-Use `claude/CALIBRACOES-NUCLEO-GDSXSR.md` e os arquivos de classe (`CALIBRACOES-APC/AGI/EMD-GDSXSR.md`); se já foram lidos nesta conversa (por exemplo, por `registrar-calibracao`), não leia de novo. Após uma calibração, use o **Registro de alterações** (`historico/REGISTRO-ALTERACOES-CALIBRACOES.md`) para pegar só as regras da versão nova (novas, alteradas, substituídas).
+Use `claude/CALIBRACOES-NUCLEO-GDSXSR.md`, `CALIBRACOES-FORMATACAO-GDSXSR.md` e os arquivos de classe (`CALIBRACOES-APC/AGI/EMD-GDSXSR.md`); se já foram lidos nesta conversa (por exemplo, por `registrar-calibracao`), não leia de novo. Após uma calibração, use o **Registro de alterações** (`historico/REGISTRO-ALTERACOES-CALIBRACOES.md`) para pegar só as regras da versão nova (novas, alteradas, substituídas).
 
 Uma regra toca os modelos quando muda algo que já aparece pronto no modelo antes de o assessor escrever o caso:
 

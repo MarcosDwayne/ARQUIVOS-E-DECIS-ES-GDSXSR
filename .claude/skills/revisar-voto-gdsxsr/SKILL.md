@@ -37,13 +37,13 @@ A revisão em si não se economiza: toda regra, a conferência jurídica, o port
 
 ## Etapa 0 — Carregar fontes
 
-1. **Projeto "Assessor GDSXSR"**: leia **sempre**, uma vez por conversa, `claude/CALIBRACOES-NUCLEO-GDSXSR.md` e o arquivo da classe da minuta (pasta `knowledge/claude/` do projeto). Em conflito, as calibrações prevalecem sobre esta skill; regras SUBSTITUÍDAS não se aplicam; o registro e as versões antigas em `historico/` são só auditoria. Conforme a minuta, leia também:
+1. **Projeto "Assessor GDSXSR"**: leia **sempre**, uma vez por conversa, `claude/CALIBRACOES-NUCLEO-GDSXSR.md` e o arquivo da classe da minuta (pasta `knowledge/claude/` do projeto); `claude/CALIBRACOES-FORMATACAO-GDSXSR.md` (C-40 a C-47) só ao chegar à Etapa 4. Em conflito, as calibrações prevalecem sobre esta skill; regras SUBSTITUÍDAS não se aplicam; o registro e as versões antigas em `historico/` são só auditoria. Conforme a minuta, leia também:
    - APC → `claude/PERFIL-ESTILO-APC-SERGIO-ROCHA-2026-10-05.md`
    - AGI → `claude/PERFIL-AGI-GDSXSR-2026-10-06.md`
    - EMD → `claude/PERFIL-EMD-GDSXSR-2026-10-06.md`
    - PASEP (só se a matéria for PASEP) → `claude/PERFIL-PASEP-APC-GDSXSR.md`
    - Resultado por matéria/assessor (só se o resultado ou a linha decisória estiver em dúvida) → `claude/PERFIL-DECISORIO-ASSESSORES-APC-2026-10-05.md` e `claude/PERFIL-DECISORIO-CECILIA-RAUL-FAMILIA-2026-10-05.md`
-2. **Manual e estrutura pronta (obrigatórios, C-05):** na pasta de estruturas do Drive (id `1aEgy58IgkjNOvu0zAYhREeOXViIZeUHI`) baixe uma vez por conversa o `MANUAL ATUALIZADO` e a estrutura da classe (`X APC 0000000-00 …`, `X AGI …`, `X EMD …`) e salve o texto na pasta de trabalho. Leia a estrutura da classe inteira; do manual, consulte com `grep` o ponto em dúvida, já que as regras de formatação estão resumidas nesta skill. Guarde o DOCX baixado para conferir recuos, cores e itálicos sem baixá-lo de novo.
+2. **Manual e estrutura pronta (obrigatórios, C-05):** na pasta de estruturas do Drive (id `1aEgy58IgkjNOvu0zAYhREeOXViIZeUHI`) baixe uma vez por conversa o `MANUAL ATUALIZADO` e a estrutura da classe (`X APC 0000000-00 …`, `X AGI …`, `X EMD …`) e salve o texto na pasta de trabalho. Leia a estrutura da classe inteira; do manual, consulte com `grep` o ponto em dúvida, já que as regras de formatação estão em C-40 a C-47. Guarde o DOCX baixado para conferir recuos, cores e itálicos sem baixá-lo de novo.
 3. **Modelos pelo índice (nunca leia o CSV inteiro, ~65 mil tokens):** rode `python3 claude/ferramentas/buscar_modelos.py --classe APC [--resultado DPP] --n 8 palavra-chave …` (ordem: Nível 1 OURO; 2 corrigido/alterado/ajustado; 3 Marcos; 4 demais). Leia os **3 melhores** pelo ID (`read_file_content`), com pelo menos um de nível 1 ou 2 da mesma classe; vá até 8 só se não cobrirem a matéria, uma preliminar ou a estrutura. De cada modelo, leia a ementa e o VOTO (de "O Senhor Desembargador" a "É como voto"), não o relatório transcrito nem a sentença anexada. Em lote, modelo já lido para matéria igual não é relido. Sem candidatos, busque na pasta `ASSESSOR GDSXSR` do Drive na mesma ordem; arquivo posterior ao índice, pelo nome. Registre os modelos lidos. Extraia arquitetura, cadência e fórmulas; não copie frases (C-05).
 4. **Ferramentas (obrigatórias):** use, a partir de `claude/ferramentas/` do projeto copiado para a pasta de trabalho, `revisao_tracked.py` (v6) e `checar_voto.py` (v6). São a fonte única; não os reescreva de memória. Sem as ferramentas, não entregue: avise o usuário.
 5. Se Drive ou projeto estiverem inacessíveis, diga isso no relatório e siga com as calibrações.
@@ -63,11 +63,11 @@ Preserve o original (cópia + hash). Identifique classe, assessor (pelo nome do 
 
 ## Etapa 3 — Revisão do texto
 
-Aplique, nesta ordem de leitura, o núcleo e o arquivo da classe: princípios e concisão (A: C-01 a C-05), parágrafo e cadência (B: C-11 a C-16), referências e voz (C: C-20 a C-27), estrutura e ementa (D: C-30 a C-3F e a estrutura do perfil da classe e da estrutura pronta do Drive), formatação (E: C-40 a C-47), comentários (F: C-50 a C-55). Cortar de verdade (C-02): o revisor corta, não só reorganiza. Texto natural, sem sinais de IA (C-01, C-15). Voz do julgador, tratamentos e vênias: perfil da classe. Honorários e dispositivo: perfil da classe, C-3F, C-51; condenação em dinheiro com consectários completos (conferir índice e taxa vigentes). Tabela de autuação e cabeçalho intactos; nunca reconstruir o documento a partir da ementa (C-04).
+Aplique, nesta ordem de leitura, o núcleo e o arquivo da classe: princípios e concisão (A: C-01 a C-05), parágrafo e cadência (B: C-11 a C-16), referências e voz (C: C-20 a C-27), estrutura e ementa (D: C-30 a C-3F e a estrutura do perfil da classe e da estrutura pronta do Drive), comentários (F: C-50 a C-55); a formatação (C-40 a C-47, arquivo próprio) fica para a Etapa 4. Cortar de verdade (C-02): o revisor corta, não só reorganiza. Texto natural, sem sinais de IA (C-01, C-15). Voz do julgador, tratamentos e vênias: perfil da classe. Honorários e dispositivo: perfil da classe, C-3F, C-51; condenação em dinheiro com consectários completos (conferir índice e taxa vigentes). Tabela de autuação e cabeçalho intactos; nunca reconstruir o documento a partir da ementa (C-04).
 
 ## Etapa 4 — Edição técnica do DOCX (controle de alterações)
 
-Trabalhe sobre a cópia com `python-docx` (≥1.2). **Toda mudança passa por `revisao_tracked.Revisor` v6** — nunca altere `run.text`, crie runs ou remova parágrafos diretamente.
+Leia agora `claude/CALIBRACOES-FORMATACAO-GDSXSR.md` (C-40 a C-47), uma vez por conversa. Trabalhe sobre a cópia com `python-docx` (≥1.2). **Toda mudança passa por `revisao_tracked.Revisor` v6** — nunca altere `run.text`, crie runs ou remova parágrafos diretamente.
 ```python
 from docx import Document
 from docx.enum.text import WD_ALIGN_PARAGRAPH
