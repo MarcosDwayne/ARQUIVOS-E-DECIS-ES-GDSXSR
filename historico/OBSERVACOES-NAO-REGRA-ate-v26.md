@@ -17,3 +17,7 @@ Retiradas das calibrações de classe na poda de 17/10/2026 (v27), sem alteraç�
 ## Da classe AGI
 
 **Observações (ainda não são regra):** (i) Marcos colocou "EMENTA" em negrito nesta minuta (nos modelos de votos-revisados o título aparece em negrito em cerca de metade); **reapareceu em 11/10/2026 (AGI 0735279-29, 0738560-90, 0739080-50) e virou regra em C-42 (v15).** (ii) trocas isoladas "c. STF" → "e. STF" e "No julgamento" → "Já no julgamento" (variação de voz, sem padrão).
+
+## Movida do arquivo AGI em 24/10/2026 (otimização de tokens)
+
+**Observações da AGI 0729901-92 (NP, impugnação ao cumprimento, acordo posterior ao título, CPC 525 § 1º VII; ainda não são regra) — 23/10/2026:** voto do zero aproveitado em substância (resultado, transcrição da liminar, CPC 525/373, precedente, CPC 854 § 3º e dispositivo mantidos). Ajustes de Marcos: (i) ementa: fundiu os itens de ônus da prova (CPC 373 II) e de documentos do agravo em um só (11→10 itens), exceção isolada a C-35; (ii) realce amarelo estendido ao parágrafo "No caso, os agravantes situam o suposto acordo em…", além de "Nenhum deles demonstra…" (coerente com C-43); (iii) apagou o comentário do agente sobre admissibilidade/pendências (gratuidade, prioridade) e manteve os demais (C-52). Nota de ferramenta: o divisor "______" da ementa_nota sai como "__" no montador (o regex de sublinhado `__.+?__` o consome); Marcos o refez à mão com 7 sublinhados. Corrigir o montador, sem mudar a regra.
