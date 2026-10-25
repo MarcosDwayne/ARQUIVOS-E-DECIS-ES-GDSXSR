@@ -1,6 +1,6 @@
 # CALIBRAÇÕES — FORMATAÇÃO E ENTREGA DO DOCX (todas as classes) — ASSESSOR GDSXSR
 
-Seção E do núcleo (C-40 a C-47), separada na otimização de 24/10/2026 para ser lida **na Etapa 4** (edição técnica do DOCX) e na conferência do portão, não ao iniciar a revisão. O conteúdo das regras não mudou. Soma-se ao núcleo; hierarquia em conflito e status como no núcleo. Fonte de formatação continua a estrutura pronta da classe (Drive) e o MANUAL ATUALIZADO (C-05).
+Seção E do núcleo (C-40 a C-48), separada na otimização de 24/10/2026 para ser lida **na Etapa 4** (edição técnica do DOCX) e na conferência do portão, não ao iniciar a revisão. O conteúdo das regras não mudou. Soma-se ao núcleo; hierarquia em conflito e status como no núcleo. Fonte de formatação continua a estrutura pronta da classe (Drive) e o MANUAL ATUALIZADO (C-05).
 
 ---
 **C-40 · Fontes** — ATIVA · todas
@@ -35,3 +35,6 @@ A sentença (ou decisão agravada, ou acórdão embargado) vai ao final, depois 
 
 **C-46 · Cores reservadas e blocos finais** — ATIVA · todas
 Azul e vermelho são do Desembargador (azul: o que vai ler na sessão; vermelho: o que discorda); o revisor não os usa, salvo o resumo de C-39. Jurisprudência em sentido contrário ao voto vai **ao final, em violeta 800080**, sinalizada em comentário no início do documento; parecer da Procuradoria em sentido contrário, ao final, em laranja C45911. O bloco violeta se intitula "PRECEDENTES CONTRÁRIOS AO VOTO" e traz, de cada acórdão, a ementa íntegra e a linha de identificação ("Acórdão n., processo, Relator(a), Turma, data de julgamento, publicado no DJe"), de preferência os mais recentes das Turmas que divergem. **v32 (observada, AGI 0740064-34):** com a decisão recorrida em verde (C-45) e a jurisprudência contrária em violeta, o bloco violeta vem **depois** da decisão recorrida, como último bloco do documento (a minuta vinha com o violeta antes; Marcos inverteu). Observada uma vez, motivo não declarado.
+
+**C-48 · Espaços de colagem do PJe na transcrição da sentença** — ATIVA · todas · v37 · observada em um caso
+Na transcrição da sentença ou de outra peça, o número do parágrafo é seguido de **um só espaço** ("45. Da análise…"), e não da sequência de espaços que o PJe deixa na colagem ("45.           Da análise…"). O revisor normaliza os espaços (rastreado, sem mudar palavras) e deixa a transcrição literal quanto ao texto (C-66). Motivo inferido da versão final (Marcos, APC 0703009-02; o assessor não o declarou); a normalização valeu para os parágrafos da sentença no voto (45 a 54), e o relatório da mesma minuta, com defeitos como "3.Tece", não foi alterado por Marcos.

@@ -1,6 +1,7 @@
 # CALIBRAÇÕES — NÚCLEO (todas as classes) — ASSESSOR GDSXSR
 
 **Versão:** v37 · **Data-base:** 25/10/2026. Origem de cada regra (quem corrigiu, em qual processo), versões v27 a v36 e texto integral anterior: `historico/REGISTRO-ALTERACOES-CALIBRACOES.md` e `historico/backup-*/` (não ler em revisão).
+**Onde está o quê:** este arquivo traz as regras de APC, AGI e EMD, exceto as de formatação e entrega do DOCX (C-40 a C-48), que estão em `CALIBRACOES-FORMATACAO-GDSXSR.md` (ler na Etapa 4 e antes do portão). Regras de uma só classe estão em `CALIBRACOES-APC-GDSXSR.md`, `-AGI-` e `-EMD-` (ler só a da classe da minuta). Observações ainda não promovidas a regra: `historico/OBSERVACOES-NAO-REGRA-ate-v26.md` (não ler em revisão comum).
 **Versão:** v38 · **Data-base:** 25/10/2026. Origem de cada regra (quem corrigiu, em qual processo), versões v27 a v38 e texto integral anterior: `historico/REGISTRO-ALTERACOES-CALIBRACOES.md` e `historico/backup-*/` (não ler em revisão).
 **Onde está o quê:** este arquivo traz as regras de APC, AGI e EMD, exceto as de formatação e entrega do DOCX (C-40 a C-47), que estão em `CALIBRACOES-FORMATACAO-GDSXSR.md` (ler na Etapa 4 e antes do portão). Regras de uma só classe estão em `CALIBRACOES-APC-GDSXSR.md`, `-AGI-` e `-EMD-` (ler só a da classe da minuta). Observações ainda não promovidas a regra: `historico/OBSERVACOES-NAO-REGRA-ate-v26.md` (não ler em revisão comum).
 **Novas calibrações** entram pela skill `registrar-calibracao`: regra geral aqui, regra de classe no arquivo da classe, "Origem" e linha da versão no registro. Escrever a regra enxuta (enunciado, exemplo mínimo, exceção); o caso que a originou vai ao registro, não aqui.
@@ -113,7 +114,7 @@ Mantida por Marcos em 13/10/2026: todos os itens de I a IV levam número seguido
 A estrutura pronta não a prevê. Suprimi-la quando o voto apenas aplica tese já firmada (tema repetitivo, súmula) ou mantém a sentença; manter só se o voto fixar entendimento novo, e então com comentário.
 
 **C-38 · Fórmula preliminar + mérito** — ATIVA · todas
-Havendo preliminar, ementa e dispositivo usam "e, no mérito,": "Rejeitou-se a preliminar de não conhecimento e, no mérito, negou-se provimento ao apelo da autora." / "Ante o exposto, **rejeito** a preliminar … e, no mérito, **nego provimento** ao apelo…". Alegação não conhecida: "não conheço da alegação de prescrição, veiculada nas contrarrazões, e, no mérito, nego provimento…". Conferir ementa, voto e dispositivo juntos.
+Havendo preliminar, ementa e dispositivo usam "e, no mérito,": "Rejeitou-se a preliminar de não conhecimento e, no mérito, negou-se provimento ao apelo da autora." / "Ante o exposto, **rejeito** a preliminar … e, no mérito, **nego provimento** ao apelo…". Alegação não conhecida: "não conheço da alegação de prescrição, veiculada nas contrarrazões, e, no mérito, nego provimento…". **v37 (observada em um caso, Marcos, APC 0703009-02):** quando o próprio apelo traz alegações não conhecidas (inovação recursal, matéria petitória) e o resto é julgado, a fórmula é de conhecimento parcial: dispositivo "não conheço do apelo da autora, NOME, quanto às alegações de …, por inovação recursal, e, na parte conhecida, nego-lhe provimento"; ementa "Não se conheceu do recurso da autora quanto às alegações de … e, na parte conhecida, negou-se-lhe provimento." (e não "não conheço das alegações … e, no mérito, nego provimento ao apelo"); a linha de admissibilidade fica "conheço do apelo interposto pela autora", sem o nome, que aparece no título do recurso e no dispositivo; na linha final do capítulo, "não conheço da alegação …, pois constitui indevida inovação recursal". Em conformidade com o modelo APC 0702406-09. Conferir ementa, voto e dispositivo juntos.
 
 **C-39 · Resumo do recurso em sentido contrário ao voto** — ATIVA · APC, AGI, EMD
 Entre a ementa ("Jurisprudência relevante citada") e o RELATÓRIO vai o bloco de trabalho do resumo (na estrutura pronta, "RESUMO COPILOT"), em **vermelho EE0000**, Arial 14:
@@ -138,7 +139,7 @@ Orientação do Des. Sérgio Rocha, via Marcos (23/10/2026). Julgam-se **pedidos
 
 ## E. Formatação e entrega do DOCX
 
-**Regras C-40 a C-47 (fontes, página e recuos, títulos, ênfases, controle de alterações em cinza, entrega com alterações aceitas, decisão recorrida em verde, cores reservadas e blocos finais) estão em `claude/CALIBRACOES-FORMATACAO-GDSXSR.md`. Ler esse arquivo ao iniciar a Etapa 4 (edição do DOCX) e antes do portão; não é necessário para analisar e redigir o texto. Continuam ATIVAS e com o mesmo número.**
+**Regras C-40 a C-48 (fontes, página e recuos, títulos, ênfases, controle de alterações em cinza, entrega com alterações aceitas, decisão recorrida em verde, cores reservadas e blocos finais) estão em `claude/CALIBRACOES-FORMATACAO-GDSXSR.md`. Ler esse arquivo ao iniciar a Etapa 4 (edição do DOCX) e antes do portão; não é necessário para analisar e redigir o texto. Continuam ATIVAS e com o mesmo número.**
 
 ## F. Comentários laterais
 
