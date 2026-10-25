@@ -1,6 +1,6 @@
 # CALIBRAÇÕES — AGI — ASSESSOR GDSXSR
 
-Soma-se ao núcleo (`CALIBRACOES-NUCLEO-GDSXSR.md`). Versão v36, 24/10/2026; origem e versões no registro. Inclui regras de AGI e as compartilhadas com APC (C-3B) e EMD (C-3D).
+Soma-se ao núcleo (`CALIBRACOES-NUCLEO-GDSXSR.md`). Versão v37, 25/10/2026; origem e versões no registro. Inclui regras de AGI e as compartilhadas com APC (C-3B) e EMD (C-3D).
 
 **C-17 · AGI aderente à liminar: só o que responde ao agravo** — ATIVA · v9, v10, v11, v29, v30
 Quando o voto mantém a liminar (NP), o capítulo traz a transcrição das razões da liminar, no máximo dois ou três parágrafos que respondam ao que o agravante alegou, e o fecho ("Desse modo, ausente elemento novo…" ou "Esse o quadro, deve ser mantida a r. decisão agravada que rejeitou a impugnação…, homologou os cálculos e determinou o prosseguimento da execução."). Suprimir o parágrafo que apenas delimita o efeito devolutivo, o que repete a decisão agravada ou a liminar, a resposta desdobrada a cada alegação quando a liminar já a cobre e a ressalva sobre crédito não questionado.
