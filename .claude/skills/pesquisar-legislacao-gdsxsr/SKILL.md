@@ -82,6 +82,7 @@ O WebFetch recebe 403 no cnj.jus.br e no atos.cnj.jus.br; use só o Chrome.
 - Se aparecer CAPTCHA, não tente resolver; peça ao usuário.
 - Se o ambiente de shell for bloqueado, não repita com outro comando: o bloqueio vale para qualquer rota do shell.
 - O iajus (`pesquisar_normas`, `consultar_fonte_oficial` com operação `alteracoes` para saber se a norma foi alterada ou revogada, e `ler_documento` para o texto) apoia a busca e só substitui a fonte oficial se as fontes oficiais estiverem inacessíveis, e o resultado deve sair marcado como "não conferido na fonte oficial".
+- **Escalonamento obrigatório (C-72):** se iajus e as fontes oficiais pelo WebFetch e pelo Chrome não resolverem, busque na web (Google ou Bing) até o texto na fonte oficial ou em fonte confiável; **limite: até 3 tentativas por citação nas vias extras (web e Chrome, somadas), cada uma com termos novos; parou ao conferir.** Esgotado o limite sem conferir, a norma fica pendente, com uma linha sobre o que foi tentado e o que falhou e comentário lateral (C-52). Nunca complete texto ou vigência de memória.
 - Se o usuário pedir várias normas, resolva uma por vez e devolva tudo junto, na ordem em que a minuta as cita.
 
 ## Exemplo de saída
