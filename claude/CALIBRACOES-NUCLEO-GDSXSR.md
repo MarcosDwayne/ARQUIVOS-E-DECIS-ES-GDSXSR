@@ -1,6 +1,6 @@
 # CALIBRAÇÕES — NÚCLEO (todas as classes) — ASSESSOR GDSXSR
 
-**Versão:** v37 · **Data-base:** 25/10/2026. Origem de cada regra (quem corrigiu, em qual processo), versões v27 a v36 e texto integral anterior: `historico/REGISTRO-ALTERACOES-CALIBRACOES.md` e `historico/backup-*/` (não ler em revisão).
+**Versão:** v38 · **Data-base:** 25/10/2026. Origem de cada regra (quem corrigiu, em qual processo), versões v27 a v38 e texto integral anterior: `historico/REGISTRO-ALTERACOES-CALIBRACOES.md` e `historico/backup-*/` (não ler em revisão).
 **Onde está o quê:** este arquivo traz as regras de APC, AGI e EMD, exceto as de formatação e entrega do DOCX (C-40 a C-47), que estão em `CALIBRACOES-FORMATACAO-GDSXSR.md` (ler na Etapa 4 e antes do portão). Regras de uma só classe estão em `CALIBRACOES-APC-GDSXSR.md`, `-AGI-` e `-EMD-` (ler só a da classe da minuta). Observações ainda não promovidas a regra: `historico/OBSERVACOES-NAO-REGRA-ate-v26.md` (não ler em revisão comum).
 **Novas calibrações** entram pela skill `registrar-calibracao`: regra geral aqui, regra de classe no arquivo da classe, "Origem" e linha da versão no registro. Escrever a regra enxuta (enunciado, exemplo mínimo, exceção); o caso que a originou vai ao registro, não aqui.
 **Hierarquia em conflito:** instrução do usuário para a minuta atual → regra mais recente e específica → MANUAL ATUALIZADO e estruturas prontas do Drive (formatação) → perfis de estilo → modelos do Drive.
