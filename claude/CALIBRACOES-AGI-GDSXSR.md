@@ -1,5 +1,6 @@
 # CALIBRAÇÕES — AGI — ASSESSOR GDSXSR
 
+Soma-se ao núcleo (`CALIBRACOES-NUCLEO-GDSXSR.md`). Versão v42, 26/10/2026 (v42: nenhuma regra própria da AGI; refinadas C-3F e C-26 do núcleo, AGI 0742059-82; v41: C-19, AGI 0725054-57; v40: C-17 e C-3C, AGI 0737653-18); origem e versões no registro. Inclui regras de AGI e as compartilhadas com APC (C-3B) e EMD (C-3D).
 Soma-se ao núcleo (`CALIBRACOES-NUCLEO-GDSXSR.md`). Versão v42, 26/10/2026 (v42: C-17 e C-3T, AGI 0739858-20; v41: C-19, AGI 0725054-57; v40: C-17 e C-3C, AGI 0737653-18); origem e versões no registro. Inclui regras de AGI e as compartilhadas com APC (C-3B) e EMD (C-3D).
 
 **C-17 · AGI aderente à liminar: só o que responde ao agravo** — ATIVA · v9, v10, v11, v29, v30, v40, v42
