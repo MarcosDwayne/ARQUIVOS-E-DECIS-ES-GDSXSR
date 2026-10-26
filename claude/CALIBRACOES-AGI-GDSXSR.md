@@ -1,6 +1,6 @@
 # CALIBRAÇÕES — AGI — ASSESSOR GDSXSR
 
-Soma-se ao núcleo (`CALIBRACOES-NUCLEO-GDSXSR.md`). Versão v40, 26/10/2026 (v40: C-17 e C-3C, AGI 0737653-18); origem e versões no registro. Inclui regras de AGI e as compartilhadas com APC (C-3B) e EMD (C-3D).
+Soma-se ao núcleo (`CALIBRACOES-NUCLEO-GDSXSR.md`). Versão v41, 26/10/2026 (v41: C-19, AGI 0725054-57; v40: C-17 e C-3C, AGI 0737653-18); origem e versões no registro. Inclui regras de AGI e as compartilhadas com APC (C-3B) e EMD (C-3D).
 
 **C-17 · AGI aderente à liminar: só o que responde ao agravo** — ATIVA · v9, v10, v11, v29, v30
 Quando o voto mantém a liminar (NP), o capítulo traz a transcrição das razões da liminar, no máximo dois ou três parágrafos que respondam ao que o agravante alegou, e o fecho ("Desse modo, ausente elemento novo…" ou "Esse o quadro, deve ser mantida a r. decisão agravada que rejeitou a impugnação…, homologou os cálculos e determinou o prosseguimento da execução."). Suprimir o parágrafo que apenas delimita o efeito devolutivo, o que repete a decisão agravada ou a liminar, a resposta desdobrada a cada alegação quando a liminar já a cobre e a ressalva sobre crédito não questionado.
@@ -15,6 +15,9 @@ Quando o voto mantém a liminar (NP), o capítulo traz a transcrição das razõ
 
 **C-18 · Agravo interno prejudicado: sem capítulo próprio** — ATIVA · v9
 Quando o julgamento do mérito do AGI prejudica o agravo interno contra a liminar, o assunto aparece só na ementa (item do dispositivo), no relatório e na oração final do dispositivo ("…e julgo prejudicado o agravo interno"). Não abrir capítulo "DO AGRAVO INTERNO PREJUDICADO", não transcrever precedente sobre a perda superveniente de objeto nem tratar de multa do CPC 1.021 § 4º, salvo pedido de multa relevante.
+
+**C-19 · AGI de retratação (Tema 1.230/STJ): remessa à origem com oportunidade de prova à devedora** — ESPECÍFICA (retratação em penhora de verba remuneratória, Tema 1.230) · AGI · v41
+Quando o voto retrata o acórdão e devolve o pedido de penhora à origem (DPP), o comando é "determinar o reexame do pedido constritivo, sem prejuízo de se oportunizar à devedora a comprovação da sua atual condição econômica" (e "reaprecie" no item da ementa), e o voto e a ementa registram que a decisão agravada tem mais de seis anos, com a data e o ID e a página ("proferida há mais de 6 anos (julho/2020 – ID …, Pág. …)"). O comando entra no último parágrafo do capítulo, no item 11 da ementa e no dispositivo, e substitui "aprecie o pedido de penhora nos termos da tese fixada". A tese transcrita é a (a)/(b) com ônus do devedor (ver registro v41). Premissas decisivas do capítulo em amarelo (C-43): "Esses pressupostos são…", "A decisão agravada não examinou nenhum deles…", o contracheque. Idade do idoso no voto entre parênteses ("pessoa idosa (68 anos)"). Dois parágrafos curtos que se completam são fundidos com "De fato," (C-13, C-16). Observada uma vez; motivo inferido: a tese atribui o ônus ao devedor, e a remessa deve lhe dar a chance de provar.
 
 **C-3B · Remessa necessária** — ATIVA · APC e AGI · texto integral em `CALIBRACOES-APC-GDSXSR.md` (recurso e remessa são um só objeto; "nego provimento ao apelo do Distrito Federal e à remessa necessária"; título da ementa "APELO E REMESSA NECESSÁRIA NÃO PROVIDOS").
 
