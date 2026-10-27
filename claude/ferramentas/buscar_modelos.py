@@ -2,6 +2,7 @@
 """Filtra claude/INDICE-MODELOS-GDSXSR.csv e imprime só os melhores modelos (nunca ler o CSV inteiro).
 
 Uso: python3 buscar_modelos.py --classe APC [--resultado DPP] [--tipo voto] [--n 8] palavra ...
+Liminares (pasta LIMINARES): --tipo liminar [--resultado DEFERIDA|INDEFERIDA|"DEFERIDA EM PARTE"|"NÃO CONHECIDA"]; --tipo decisao para as demais decisões monocráticas.
 As palavras buscam (sem acento, sem caixa) em Matéria, Ramo, Temas e Assunto.
 Ordem: Nível (1 OURO, 2 corrigido/alterado, 3 Marcos, 4 demais), depois nº de palavras casadas.
 """

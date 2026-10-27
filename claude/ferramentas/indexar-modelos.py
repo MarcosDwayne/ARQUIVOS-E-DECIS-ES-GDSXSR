@@ -4,14 +4,15 @@ import json, glob, re, csv, collections, unicodedata, os
 
 PASTA = {'1pCGIBo7dAcI_8SUURdlwHhoEcY56P-Wb': ('OURO', 'APC'), '1yzaSbE1iWruEAA1HLQ0kEruQbAYm6Tw4': ('OURO', 'AGI'),
          '1TPrue7ddcjRBSSP-Vpduet7BQHmH48CV': ('OURO', 'EMD'), '1FpfJdjTI5yY6Jc0aTs0a9J-CNbhX7ayA': ('GERAIS', 'APC'),
-         '1HsU4LR_TzG5486_qbEIam6i1yvGjDtNc': ('GERAIS', 'AGI'), '1cVC4zXcsalN0OwHWI8KA3SnuJzVuqiTy': ('GERAIS', 'EMD')}
-CLASSES = {'APC', 'AGI', 'EMD', 'AIN', 'RMO', 'MSG', 'APO', 'REO', 'RNE', 'AGR', 'AGT', 'ACP', 'CC', 'CCI', 'MS', 'AR', 'ARE', 'APL', 'AGINT', 'EDCIV'}
+         '1HsU4LR_TzG5486_qbEIam6i1yvGjDtNc': ('GERAIS', 'AGI'), '1cVC4zXcsalN0OwHWI8KA3SnuJzVuqiTy': ('GERAIS', 'EMD'),
+         '1j830dPHkpLML9QShNuh5Xurbr-oKw029': ('LIMINARES', 'AGI')}
+CLASSES = {'APC', 'AGI', 'EMD', 'AIN', 'RMO', 'MSG', 'APO', 'REO', 'RNE', 'AGR', 'AGT', 'ACP', 'CC', 'CCI', 'MS', 'AR', 'ARE', 'APL', 'AGINT', 'EDCIV', 'CCP', 'RCL'}
 RESULT = {'NP', 'DP', 'DPP', 'DDP', 'NC', 'PNC', 'PP', 'NCP', 'CPNC', 'NPP'}
 MARCAS = [('recorrigido', 'recorrigido'), ('corrigid', 'corrigido'), ('alterad', 'alterado'), ('ajustad', 'ajustado'),
           ('ajuste', 'ajustado'), ('aprovad', 'aprovado'), ('comentário', 'com comentário'), ('pref', 'preferência')]
 CORRECAO = {'recorrigido', 'corrigido', 'alterado', 'ajustado', 'aprovado'}
 NAO_NOMES = {'Des', 'Dec', 'Rel', 'Tema', 'PASEP', 'SUS', 'STJ', 'STF', 'MS', 'CDC', 'CPC', 'DF', 'TJDFT', 'INSS', 'IPTU',
-             'Busca', 'Embargos', 'Desp', 'PJe', 'Dec', 'Jansen', 'Voto', 'Parecer', 'Ementa', 'Tema', 'Fusca', 'Corrigido', 'Recorrigido', 'Preferência', 'Pref', 'PV', 'ACA', 'NC'}
+             'Busca', 'Embargos', 'Desp', 'PJe', 'Dec', 'Jansen', 'Voto', 'Parecer', 'Ementa', 'Tema', 'Fusca', 'Corrigido', 'Recorrigido', 'Def', 'Indef', 'Revisado', 'Preferência', 'Pref', 'PV', 'ACA', 'NC'}
 
 MATERIAS = [
     ('Família', r'alimento|guarda|uni[aã]o est[aá]vel|div[oó]rcio|partilha|paternidade|maternidade|curatela|conviv[eê]ncia|visita|poder familiar|filia[cç][aã]o|sobrepartilha|abandono afetivo'),
@@ -67,6 +68,17 @@ def analisar(x):
     if re.search(r'\bdec\b|decis', tl): tipo = 'decisão'
     if re.search(r'\bdesp\b|despacho|intima', tl): tipo = 'despacho'
     if re.search(r'\bpv\b|voto vista|voto divergente|diverge rel', tl): tipo = 'voto-vista/divergente'
+    # pasta LIMINARES: decisão monocrática do Relator sobre tutela/efeito suspensivo (o resultado vem das abreviaturas do título)
+    if pasta == 'LIMINARES' and re.search(r'\b(def|indef|ant tut|ef susp|efeito susp|tut|tutela|medidas urgentes|liminar|defere|indefere)\b', tl):
+        tipo = 'liminar'
+        indef = re.search(r'\bindef', tl) is not None
+        defer = re.search(r'\bdef(?!\w)|\bdefere|\bdefiro|\bdeferid', tl) is not None
+        if 'medidas urgentes' in tl: resultado = 'MEDIDAS URGENTES'
+        elif re.search(r'n[aã]o conhec|ñ conhec', tl): resultado = 'NÃO CONHECIDA'
+        elif (defer and indef) or re.search(r'\bdef\s+par|\bparte\b', tl): resultado = 'DEFERIDA EM PARTE'
+        elif indef: resultado = 'INDEFERIDA'
+        elif defer: resultado = 'DEFERIDA'
+        else: resultado = 'LIMINAR'
     marcas = []
     for k, v in MARCAS:
         if k in tl and v not in marcas and not (v == 'corrigido' and 'recorrigido' in marcas):
@@ -106,22 +118,23 @@ def analisar(x):
     }
 
 
-F = {}
-for g in sorted(glob.glob(os.environ.get('GDSXSR_BASE', '/home/claude/gdsxsr') + '/lst/ok/*.json')):
-    for x in json.load(open(g))['files']:
-        if x['id'] not in F or len(x.get('contentSnippet', '')) > len(F[x['id']].get('contentSnippet', '')):
-            F[x['id']] = x
-linhas = [analisar(x) for x in F.values()]
-# duplicatas (mesmo processo + classe em mais de uma pasta)
-cont = collections.Counter((l['Classe'], l['Processo']) for l in linhas if l['Processo'])
-for l in linhas:
-    l['Duplicado'] = 'sim' if l['Processo'] and cont[(l['Classe'], l['Processo'])] > 1 else ''
-linhas.sort(key=lambda l: (l['Classe'] != 'APC', l['Classe'] != 'AGI', l['Classe'], l['Nível'], l['Matéria'], l['Processo']))
-json.dump(linhas, open(os.environ.get('GDSXSR_BASE', '/home/claude/gdsxsr') + '/indice.json', 'w'), ensure_ascii=False, indent=0)
-print(len(linhas), 'linhas')
-print('nível', collections.Counter(l['Nível'] for l in linhas))
-print('classe', collections.Counter(l['Classe'] for l in linhas))
-print('resultado', collections.Counter(l['Resultado'] for l in linhas))
-print('assessor', collections.Counter(l['Assessor'] for l in linhas).most_common(25))
-print('sem matéria', sum(1 for l in linhas if not l['Matéria']), '| sem ramo', sum(1 for l in linhas if not l['Ramo (ementa)']))
-print('tipos', collections.Counter(l['Tipo'] for l in linhas))
+if __name__ == '__main__':  # importável: atualizar-indice.py usa analisar()
+    F = {}
+    for g in sorted(glob.glob(os.environ.get('GDSXSR_BASE', '/home/claude/gdsxsr') + '/lst/ok/*.json')):
+        for x in json.load(open(g))['files']:
+            if x['id'] not in F or len(x.get('contentSnippet', '')) > len(F[x['id']].get('contentSnippet', '')):
+                F[x['id']] = x
+    linhas = [analisar(x) for x in F.values()]
+    # duplicatas (mesmo processo + classe em mais de uma pasta)
+    cont = collections.Counter((l['Classe'], l['Processo']) for l in linhas if l['Processo'])
+    for l in linhas:
+        l['Duplicado'] = 'sim' if l['Processo'] and cont[(l['Classe'], l['Processo'])] > 1 else ''
+    linhas.sort(key=lambda l: (l['Classe'] != 'APC', l['Classe'] != 'AGI', l['Classe'], l['Nível'], l['Matéria'], l['Processo']))
+    json.dump(linhas, open(os.environ.get('GDSXSR_BASE', '/home/claude/gdsxsr') + '/indice.json', 'w'), ensure_ascii=False, indent=0)
+    print(len(linhas), 'linhas')
+    print('nível', collections.Counter(l['Nível'] for l in linhas))
+    print('classe', collections.Counter(l['Classe'] for l in linhas))
+    print('resultado', collections.Counter(l['Resultado'] for l in linhas))
+    print('assessor', collections.Counter(l['Assessor'] for l in linhas).most_common(25))
+    print('sem matéria', sum(1 for l in linhas if not l['Matéria']), '| sem ramo', sum(1 for l in linhas if not l['Ramo (ementa)']))
+    print('tipos', collections.Counter(l['Tipo'] for l in linhas))

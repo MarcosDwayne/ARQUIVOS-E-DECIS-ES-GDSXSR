@@ -1,0 +1,48 @@
+# PERFIL — DECISÕES LIMINARES (tutela recursal, efeito suspensivo, liminar) — ASSESSOR GDSXSR
+
+Origem: pasta do Drive `https://drive.google.com/drive/folders/1j830dPHkpLML9QShNuh5Xurbr-oKw029` (indicada por Marcos em 27/10/2026), com 411 arquivos listados, quase todos de AGI (340), mais APC (24), EMD (20), CCP (12), MSG (6), AGINT (5), AR (2), AIN e RCL. Entram no índice como `Pasta = LIMINARES/AGI`, `Tipo = liminar` (353 linhas) ou `decisão`/`despacho`/`voto` (as demais, como "nada a prover", não conhecimento, reconsideração e EMD monocrático). `Resultado` da liminar é lido das abreviaturas do título: DEFERIDA, INDEFERIDA, DEFERIDA EM PARTE, NÃO CONHECIDA, MEDIDAS URGENTES. Autoria pelo nome do arquivo: Bianca (cerca de 270) e Tiago (cerca de 125). Nível no índice: 58 com "Marcos" no nome (nível 3), 6 com marca de revisão (nível 2), os demais nível 4; a pasta não tem modelo OURO.
+
+Força: perfil de estilo (nível 4 da ordem de autoridade). Observado em **10 arquivos lidos por inteiro** (AGI 0745897-33, 0720651-35, 0749653-50, 0749850-05, 0750095-16, 0742524-91, 0730104-54; MSG 0750742-11; CCP 0749832-81; APC 0711463-56, que traz duas decisões) e nos títulos dos 411 arquivos. Não resulta de correção de Marcos ou do Des. Sérgio Rocha; qualquer calibração (C-xx) posterior prevalece. O que não aparece aqui, não inventar: dizer ao Marcos.
+
+## 1. Esqueleto da decisão (AGI)
+
+1. Cabeçalho em tabela, igual ao do voto: Órgão (4ª Turma Cível), Classe, Processo nº, Agravante(s), Agravado(a)(s), Relator(a) Des. Sérgio Rocha. Depois, duas linhas: "AUTUAÇÃO: dd/mm/aaaa HHhMMmin" e "CONCLUSÃO: …" (variante "AUTUADO / CONCLUSO" nos mais antigos). Em petição incidental na APC, a primeira linha é "Petição incidental com pedido de tutela de urgência incidental: …".
+2. Nota do assessor ao Relator, só quando há dúvida ou recomendação, antes do título: "Dr. Sérgio," + resumo curto do ponto + "À sua consideração," + "Nome, data". Em arquivo revisado por Marcos aparece sob "COMENTÁRIO LIMINARES ROCHA GDSXSR:" e termina "Revisado, Marcos, data". Não faz parte da decisão.
+3. `DECISÃO`, e abaixo o título em maiúsculas dizendo o ato: "DEFERIMENTO DE ANTECIPAÇÃO DE TUTELA RECURSAL", "INDEFERIMENTO DE EFEITO SUSPENSIVO", "DEFERIMENTO PARCIAL DE ANTECIPAÇÃO DE TUTELA RECURSAL", "PARCIAL DEFERIMENTO DO PEDIDO DE EFEITO SUSPENSIVO", "INDEFERIMENTO DE LIMINAR" (MSG), "NÃO CONHECIMENTO DE AGRAVO DE INSTRUMENTO", "CONHECIMENTO PARCIAL DO AGRAVO DE INSTRUMENTO / E INDEFERIMENTO DA ANTECIPAÇÃO DE TUTELA RECURSAL", "COMPETÊNCIA PARA MEDIDAS URGENTES" (conflito de competência). Efeito suspensivo para o pedido de manter o estado (agravante contra decisão que concedeu); antecipação de tutela recursal para o pedido de ordem positiva. Quando o agravante chama de efeito suspensivo ativo um pedido de conteúdo positivo, a decisão o recebe como antecipação da tutela recursal por fungibilidade (CPC 1.019, I) e diz isso em um parágrafo (AGI 0742524-91).
+4. Relatório em quatro movimentos, sem título próprio:
+   - "Trata-se de [ação/cumprimento de sentença/execução fiscal] ajuizada/instaurado por X em face de Y, tendo por objeto … (valor da causa - R$ …)." (ID do processo de origem entre parênteses quando útil).
+   - O que o Juízo de origem decidiu, com o ID e "processo de origem".
+   - "Inconformado/a, o(a) agravante interpõe o presente agravo de instrumento, sustentando, em síntese, que: 1) …; 2) …; e n) …" (enumeração numerada com ponto e vírgula; o último item costuma ser o perigo de dano).
+   - "Requer a concessão de [antecipação de tutela recursal/efeito suspensivo] para …" e "No mérito, postula o provimento do recurso …, com a confirmação da medida liminar."
+5. Fundamentação, na primeira pessoa e sem subtítulos:
+   - Abertura: "Com razão, inicialmente, o agravante." / "Sem razão, inicialmente, o agravante." / "Com parcial razão, inicialmente, …".
+   - Fórmula da probabilidade: "Vislumbro a probabilidade do direito alegado, ao menos nesta sede de cognição sumária." / "Não vislumbro a probabilidade do direito alegado, ao menos nesta sede de cognição sumária." / "Vislumbro parcialmente…" (variante "ao menos nesta etapa recursal").
+   - "Conforme constou da r. decisão agravada:" (ou "Consta da r. decisão agravada, in verbis:") + trecho entre aspas com "(...)" + "(ID …, processo de origem) – Grifei". É o mesmo expediente do voto (C-17), aqui para a decisão agravada.
+   - Aplicação ao caso em parágrafos curtos, cada um com o fato dos autos e o ID.
+   - Precedente: "Nesse sentido:" + trecho da ementa entre aspas, com "(...)", e a referência completa "(Acórdão n, processo, Relator(a): NOME, 4ª TURMA CÍVEL, data de julgamento: …, publicado no DJe: …) – Grifei". Nas liminares lidas, os acórdãos citados são da própria 4ª Turma Cível. Norma ou tese vinculante vêm transcritas ("Art. … – Grifei"; tese do Tema entre aspas, com a referência do julgamento).
+   - Perigo de dano, só no deferimento, em parágrafo próprio e concreto: "A urgência decorre/reside no fato de que …" / "Também está caracterizado o perigo de dano, pois …".
+   - No indeferimento por falta de probabilidade, não se reabre o perigo. Fecho de cautela: "Eventual conclusão em sentido contrário demanda uma análise mais detida da questão, incompatível com esta fase processual." Também "sem prejuízo de reapreciação posterior" e "por ora".
+   - Pedido não formulado na origem: "supressão de instância", sem exame.
+6. Dispositivo, em parágrafo único: "Ante o exposto, com a mais elevada vênia, defiro [parcialmente] a antecipação da tutela recursal para determinar …" / "…, indefiro o pedido de efeito suspensivo." Variantes: "com as devidas vênias", "reiteradas as vênias". Com várias determinações, alíneas a), b), c) e d) depois de "para:". Conhecimento parcial: "conheço parcialmente do agravo de instrumento (CPC 932 III) e, na parte conhecida, indefiro …". Não conhecimento: "Ante o exposto, não conheço do agravo de instrumento (CPC 932 III)."
+7. Providências, uma por parágrafo, nesta ordem: "Comunique-se ao Juízo de origem." (no deferimento, às vezes "com urgência"; "Comunique-se ao Juízo a quo" também ocorre), "Intime-se a parte agravada para contrarrazões." (não aparece no não conhecimento), vista à Procuradoria de Justiça quando cabível, "P. I.", e a assinatura "SÉRGIO ROCHA / Desembargador Relator".
+8. Anexo "DECISÃO AGRAVADA" com o ato recorrido copiado integralmente, depois da assinatura.
+
+## 2. Variações por tipo
+
+- **Deferimento de SISBAJUD/pesquisa patrimonial (execução, mais de um ano da última pesquisa):** mostra no corpo a data da última pesquisa nos autos de origem (ID), cita 1 ou 2 acórdãos da 4ª Turma que aceitam a renovação após mais de um ano, e o perigo é a natureza dinâmica dos ativos. Dispositivo: "…determinar a realização, com a brevidade que o caso requer, de pesquisa e bloqueio de valores via SISBAJUD …, até o limite do débito atualizado". Sistemas não pedidos na origem ficam de fora por supressão de instância (AGI 0745897-33).
+- **Gratuidade (AGI contra indeferimento ou revogação):** transcrição dos CPC 98 e 99 e da tese do Tema 1.178/STJ no corpo; análise de renda líquida e descontos com IDs; dispositivo suspende as custas e concede a gratuidade "apenas nesta fase recursal" (AGI 0742524-91). No indeferimento, a razão é a ausência de prova de alteração da situação econômica (AGI 0749850-05).
+- **Concurso público (efeito suspensivo contra tutela deferida):** edital e jurisprudência da fase; irreversibilidade vista pelo lado do candidato (AGI 0720651-35).
+- **Mandado de segurança, liminar indeferida (MSG):** "Sem razão, inicialmente, o impetrante." + norma transcrita (ex.: Lei 12.732/2012, art. 2º) + prazo ainda não vencido + "indefiro, por ora, a liminar"; depois gratuidade, notificação da autoridade para informações em 10 dias, ciência ao Distrito Federal pela PGDF e vista à Procuradoria de Justiça.
+- **Conflito de competência (CCP):** decisão de poucas linhas: "Designo o suscitado, Juízo da …, para resolver em caráter provisório eventuais medidas urgentes (RITJDFT 207 II). Oficie-se … (RITJDFT 207 I). Após, ao Ministério Público (RITJDFT 208)." O assessor explica a competência na nota ao Relator, não na decisão.
+- **Apelação (efeito suspensivo ou tutela incidental):** abertura "Passo à análise do pedido liminar." / "Passo à análise do pedido de tutela de urgência."; resumo da sentença com ID; "Indeferi o pedido de efeito suspensivo à apelação (ID …)" quando a liminar anterior é retomada; fecho "Encaminhem-se os autos à Procuradoria de Justiça para manifestação." (APC 0711463-56).
+- **Não conhecimento (AGI fora do rol do CPC 1.015):** "O agravo de instrumento não pode ser conhecido." + a decisão não está no rol + inexiste urgência que afaste o Tema 988/STJ + acórdão da 4ª Turma em citação direta; sem determinação de contrarrazões.
+
+## 3. Referências no corpo
+
+A forma de citar norma varia dentro do mesmo conjunto: "art. 98, § 3º, do Código de Processo Civil" e "CPC 98 § 3º" aparecem em decisões da mesma semana. Não há regra extraída; enquanto Marcos não disser, seguir a forma da calibração C-20 (referência parentética compacta) no texto novo e preservar a do original em revisão.
+
+## 4. O que o conjunto não ensina
+
+- Como a decisão trata o requerimento de tutela de urgência em ação de primeiro grau (a pasta tem decisões de segundo grau; as decisões de origem aparecem só como anexo "DECISÃO AGRAVADA").
+- Regra de concisão: as decisões lidas vão de 1 a 4 páginas sem padrão uniforme de tamanho.
+- Qualquer fórmula não listada acima: buscar no índice (`--tipo liminar`) um modelo da mesma matéria e do mesmo resultado, ou perguntar ao Marcos.
