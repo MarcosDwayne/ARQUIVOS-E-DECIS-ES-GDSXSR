@@ -1,0 +1,8 @@
+hash original: 42b10c41e6ae1071
+Classe APC | parágrafos (versão aceita) 239 | comentários 39 | alterações rastreadas {'ins': 140, 'del': 199, 'pPrChange': 10, 'rPrChange': 27}
+[INFO] VOTO §167: 2 períodos/52 palavras: separar período conclusivo autônomo (v4)? → «A jurisprudência do c. STJ orienta-se no sentido de que, quando a atuação processual resul»
+[INFO] VOTO §175: 2 períodos/49 palavras: separar período conclusivo autônomo (v4)? → «Desse modo, com a máxima vênia ao d. Juízo de origem, impõe-se a reforma da sentença para »
+[AVISO] DISPOSITIVO §181: 77 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Ante o exposto, nego provimento ao apelo da autora, B6 ASSIGNEE ASSETS LTDA, e, reiteradas»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CPC, arts. 85, § 2º; 86, caput; 355, I; 373, II; 487, I; »
+
+RESULTADO: 0 erro(s), 4 aviso(s). Sem erros bloqueantes; examinar avisos.
