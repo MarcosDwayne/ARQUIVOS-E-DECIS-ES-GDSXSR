@@ -1,5 +1,5 @@
 # CALIBRAÇÕES VIGENTES — ÍNDICE (v37, 25/10/2026)
-# CALIBRAÇÕES VIGENTES — ÍNDICE (v45, 27/10/2026)
+# CALIBRAÇÕES VIGENTES — ÍNDICE (v47, 28/10/2026)
 
 Este arquivo deixou de conter as regras. Elas foram divididas para economizar tokens; leia **só estes**:
 
