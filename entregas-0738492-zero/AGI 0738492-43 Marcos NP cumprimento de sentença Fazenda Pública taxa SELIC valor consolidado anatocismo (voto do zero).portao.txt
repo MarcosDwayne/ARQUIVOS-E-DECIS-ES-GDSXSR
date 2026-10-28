@@ -1,0 +1,13 @@
+Classe AGI | parágrafos (versão aceita) 105 | comentários 8 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[INFO] VOTO §58: 2 períodos/90 palavras: separar período conclusivo autônomo (v4)? → «O executado/agravante, Distrito Federal, alega que: 1) a taxa SELIC, índice composto que j»
+[AVISO] VOTO §68: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) O primeiro ponto a ser ressaltado por este Juízo é que a decisão de ID 257764443 fi»
+[AVISO] VOTO §69: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Compulsando os autos, verifica-se que dessa decisão não foi interposto qualquer recurso, p»
+[AVISO] VOTO §70: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Em resposta, à Contadoria Judicial informou que elaborou os seus cálculos nos exatos termo»
+[AVISO] VOTO §71: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «O requerido não demonstra que a Contadoria procedeu de forma diversa do fixado na decisão,»
+[AVISO] VOTO §72: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Analisando o cálculo da Contadoria Judicial, nota-se que observou integralmente os parâmet»
+[AVISO] VOTO §73: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Assim, o que se tem é uma tentativa do requerido, via impugnação aos cálculos, alterar con»
+[AVISO] VOTO §76: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘Art. 22. Na atualização da conta do precatório não tributário os juros de mora devem inci»
+[AVISO] VOTO §77: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «§ 1º A partir de dezembro de 2021, a compensação da mora dar-se-á da forma discriminada no»
+[AVISO] VOTO §79: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) Tese de julgamento: “1. O ajuizamento de ação rescisória sem efeito suspensivo não »
+
+RESULTADO: 0 erro(s), 10 aviso(s). Sem erros bloqueantes; examinar avisos.
