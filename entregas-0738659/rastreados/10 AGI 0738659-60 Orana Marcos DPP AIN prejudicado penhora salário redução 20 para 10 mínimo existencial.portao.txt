@@ -1,0 +1,7 @@
+hash original: cdd00a082843f66b
+Classe AGI | parágrafos (versão aceita) 152 | comentários 10 | alterações rastreadas {'ins': 29, 'del': 45, 'pPrChange': 1, 'rPrChange': 3}
+[INFO] VOTO §122: 2 períodos/52 palavras: separar período conclusivo autônomo (v4)? → «Dito isso, e não havendo alteração do quadro fático-jurídico delineado nos autos, com a má»
+[AVISO] DISPOSITIVO §126: 58 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Ante o exposto, reiterada a vênia, dou parcial provimento ao agravo de instrumento do exec»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Jurisprudência relevante citada: TJDFT, Acórdão nº 2081960, AGI nº 0744072-88.2025.8.07.00»
+
+RESULTADO: 0 erro(s), 3 aviso(s). Sem erros bloqueantes; examinar avisos.

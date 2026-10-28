@@ -1,0 +1,20 @@
+hash original: b2d82c533236b321
+Classe AGI | parágrafos (versão aceita) 129 | comentários 8 | alterações rastreadas {'ins': 51, 'del': 47, 'pPrChange': 1, 'rPrChange': 20}
+[AVISO] VOTO §73: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) Observa-se a que a parte interessada não trouxe documentos suficientes para comprov»
+[AVISO] VOTO §74: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «O autor não juntou os documentos indicados ao ID 286551048.»
+[AVISO] VOTO §75: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Ressalto que a jurisprudência do TJDFT é no sentido de que a inércia do agravante em cumpr»
+[AVISO] VOTO §76: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Ademais, ressalto que a finalidade da gratuidade é promover o acesso à Justiça àqueles que»
+[AVISO] VOTO §77: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Logo, a atual legislação de regência não conjectura hipótese de outorga da gratuidade judi»
+[AVISO] VOTO §80: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘Art. 82 (...)»
+[AVISO] VOTO §81: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «§ 3º Nas ações de cobrança por qualquer procedimento, comum ou especial, bem como nas exec»
+[AVISO] VOTO §82: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Nesse sentido:»
+[AVISO] VOTO §83: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) II. QUESTÃO EM DISCUSSÃO»
+[AVISO] VOTO §84: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «3. A questão em discussão consiste em saber se a sociedade de advogados pode se beneficiar»
+[AVISO] VOTO §85: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «III. RAZÕES DE DECIDIR»
+[AVISO] VOTO §86: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «4. O art. 82, § 3º, do CPC promove a postergação do pagamento das custas ao final do proce»
+[AVISO] VOTO §87: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «5. A regra beneficia advogado, pessoa natural, titular de honorários de natureza alimentar»
+[AVISO] VOTO §88: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «6. A interpretação restritiva preserva a finalidade da norma e evita ampliação indevida do»
+[AVISO] VOTO §89: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «7. Mantém-se a decisão recorrida, pois a sociedade de advogados permanece sujeita ao recol»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Jurisprudência relevante citada: TJDFT, Agravo de Instrumento nº 0746676-22.2025.8.07.0000»
+
+RESULTADO: 0 erro(s), 16 aviso(s). Sem erros bloqueantes; examinar avisos.
