@@ -1,0 +1,5 @@
+hash original: 486a4d1947b7ab65
+Classe AGI | parágrafos (versão aceita) 134 | comentários 12 | alterações rastreadas {'ins': 34, 'del': 82, 'pPrChange': 1, 'rPrChange': 11}
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: Decreto-Lei nº 911/1969, art. 2º, §2º, e art. 3º.»
+
+RESULTADO: 0 erro(s), 1 aviso(s). Sem erros bloqueantes; examinar avisos.
