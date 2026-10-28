@@ -1,0 +1,39 @@
+hash original: 76061d44da612e25
+Classe APC | parágrafos (versão aceita) 608 | comentários 39 | alterações rastreadas {'ins': 183, 'del': 209, 'pPrChange': 2, 'rPrChange': 21}
+[AVISO] RELATÓRIO §112: transcrição deve ser Arial 13 em itálico (C-40) → «20. Em manifestação - Num. 236394510 - Pág. 1, o réu informou que não possui documento do »
+[AVISO] RELATÓRIO §122: referência (ID 80350401) no meio do período → «A autora/apelante opôs embargos de declaração (ID 80350401), os quais foram rejeitados e a»
+[AVISO] RELATÓRIO §124: expressão vedada pelo manual → «Apelo da autora, M. B. (ID 80350408), em que alega, em síntese, que: 1) houve cerceamento »
+[AVISO] VOTO §159: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «PRELIMINAR SUSCITADA NA APELAÇÃO – DA NÃO CONFIGURAÇÃO DE CERCEAMENTO DE DEFESA E DE VIOLA»
+[AVISO] VOTO §169: expressão vedada pelo manual → «Além disso, quanto aos documentos juntados posteriormente, não se verifica irregularidade »
+[AVISO] VOTO §197: referência (CC 1.660 I) no meio do período → «Assim, os direitos aquisitivos dos três apartamentos, adquiridos onerosamente na constânci»
+[AVISO] VOTO §199: referência (CPC 373 II) no meio do período → «A presunção, contudo, é afastada pela sub-rogação de bem particular, cuja prova incumbe a »
+[AVISO] VOTO §211: referência (ID 80350399) no meio do período → «A sentença deixou de examinar a sub-rogação alegada na contestação, por ter acolhido outro»
+[AVISO] VOTO §211: referência (CPC 1.013 § 2º) no meio do período → «A sentença deixou de examinar a sub-rogação alegada na contestação, por ter acolhido outro»
+[INFO] VOTO §217: 10 períodos/50 palavras: separar período conclusivo autônomo (v4)? → «Essa parcela final foi paga em parte, em 29/04/2021, por dois cheques, de R$ 100.000,00 e »
+[AVISO] VOTO §223: referência (ID 80350269) no meio do período → «Em 10/05/2021, adquiriu os direitos do apartamento da QN 505, Samambaia/DF, pelo ágio de R»
+[AVISO] VOTO §225: referência (ID 80350271) no meio do período → «Quanto ao apartamento da CNB 05, Taguatinga/DF, adquirido em 31/03/2022 (ID 80350271), o s»
+[AVISO] VOTO §233: referência (ID 80350305) no meio do período → «Tampouco o pagamento por filhos do comprador desnatura a sub-rogação, pois o comprador dec»
+[AVISO] VOTO §245: 66 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «A apelante, M. B., alega, em síntese, que ainda que se admitisse a natureza particular de »
+[INFO] VOTO §245: 2 períodos/66 palavras: separar período conclusivo autônomo (v4)? → «A apelante, M. B., alega, em síntese, que ainda que se admitisse a natureza particular de »
+[AVISO] VOTO §251: referência (CC 1.660 IV) no meio do período → «Nesse contexto, a análise de eventual direito à indenização por benfeitorias (CC 1.660 IV)»
+[AVISO] VOTO §259: 71 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «A apelante alega, em síntese que a negativa de alimentos desconsiderou a sua dependência e»
+[AVISO] VOTO §284: 60 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «A Resolução 492/2023 do Conselho Nacional de Justiça (CNJ) recomenda a utilização das dire»
+[INFO] VOTO §302: 3 períodos/56 palavras: separar período conclusivo autônomo (v4)? → «No caso, com a máxima vênia ao d. Juízo de origem, verifico que o casal se encontra separa»
+[AVISO] VOTO §308: preferir 'no mais' (v4) → «Deve-se considerar, ademais, que está afastada do mercado de trabalho há mais de vinte ano»
+[INFO] VOTO §308: 2 períodos/48 palavras: separar período conclusivo autônomo (v4)? → «Deve-se considerar, ademais, que está afastada do mercado de trabalho há mais de vinte ano»
+[AVISO] VOTO §325: 61 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Assim, reiteradas as vênias, dou parcial provimento ao apelo da autora, nesse ponto, para »
+[AVISO] VOTO §342: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Art. 1.026. Os embargos de declaração não possuem efeito suspensivo e interrompem o prazo »
+[AVISO] VOTO §343: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «[...]»
+[AVISO] VOTO §344: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «§ 2º. Quando manifestamente protelatórios os embargos de declaração o juiz ou o tribunal, »
+[AVISO] VOTO §346: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «(...)»
+[AVISO] VOTO §347: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO »
+[AVISO] VOTO §347: transcrição de ementa com cabeçalho; suprimir com “(...)” (manual 2.3.2, C-62) → «EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO »
+[AVISO] VOTO §350: referência (ID 80350401) no meio do período → «Com a mais elevada vênia, entendo que a oposição dos embargos de declaração (ID 80350401) »
+[AVISO] VOTO §350: referência (ID 80350399) no meio do período → «Com a mais elevada vênia, entendo que a oposição dos embargos de declaração (ID 80350401) »
+[AVISO] VOTO §350: 70 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Com a mais elevada vênia, entendo que a oposição dos embargos de declaração (ID 80350401) »
+[AVISO] VOTO §352: último capítulo não leva mini-dispositivo; suprimir (C-3A, manual 2.3.6) → «Assim, dou parcial provimento ao apelo da autora, M. B., nesse ponto, somente para afastar»
+[AVISO] DISPOSITIVO §358: expressão vedada pelo manual → «Mantém-se a sucumbência recíproca fixada na origem, nos termos do art. 86 do CPC, porquant»
+[AVISO] ANEXO §0: 36 parágrafo(s) da decisão anexada fora da cor verde 00B050 (C-45)
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CC, arts. 1.694, caput e § 1º, 1.725, 1.658, 1.659 e 1.66»
+
+RESULTADO: 0 erro(s), 35 aviso(s). Sem erros bloqueantes; examinar avisos.
