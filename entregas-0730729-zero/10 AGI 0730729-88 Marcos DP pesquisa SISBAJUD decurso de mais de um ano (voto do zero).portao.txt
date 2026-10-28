@@ -1,0 +1,5 @@
+Classe AGI | parágrafos (versão aceita) 148 | comentários 6 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] VOTO §91: 58 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Dito isso, e não havendo alteração do quadro fático-jurídico delineado nos autos, com a má»
+[INFO] VOTO §91: 2 períodos/58 palavras: separar período conclusivo autônomo (v4)? → «Dito isso, e não havendo alteração do quadro fático-jurídico delineado nos autos, com a má»
+
+RESULTADO: 0 erro(s), 2 aviso(s). Sem erros bloqueantes; examinar avisos.
