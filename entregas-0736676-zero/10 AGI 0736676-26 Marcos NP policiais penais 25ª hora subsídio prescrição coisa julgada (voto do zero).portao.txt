@@ -1,0 +1,9 @@
+Classe AGI | parágrafos (versão aceita) 102 | comentários 10 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] VOTO §60: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «DA INOCORRÊNCIA DA PRESCRIÇÃO E DA EXIGIBILIDADE DA “25ª HORA” APÓS A INSTITUIÇÃO DO REGIM»
+[AVISO] VOTO §72: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) Embora o STJ tenha firmado, no Tema 877, que o prazo prescricional para o cumprimen»
+[AVISO] VOTO §74: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) 4. A pretensão executória contra a Fazenda Pública submete-se ao prazo prescriciona»
+[AVISO] VOTO §78: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘Direito Constitucional e Administrativo. Ação direta de inconstitucionalidade. Lei federa»
+[AVISO] VOTO §80: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) 4. O acórdão embargado apreciou expressamente a natureza jurídica da “25ª hora”, re»
+[AVISO] VOTO §81: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) 3. O título executivo judicial reconheceu o direito ao pagamento de 1 (uma) hora ex»
+
+RESULTADO: 0 erro(s), 6 aviso(s). Sem erros bloqueantes; examinar avisos.
