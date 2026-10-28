@@ -1,0 +1,6 @@
+Classe AGI | parágrafos (versão aceita) 138 | comentários 20 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] VOTO §72: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘1. Aplica-se o entendimento de que a Lei n. 14.195/2021 não retroage para alterar o termo»
+[AVISO] VOTO §75: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) o curso da execução não permaneceu inerte durante o período alegado pela executada.»
+[AVISO] VOTO §78: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘2. A constrição patrimonial, ainda que parcial, constitui marco interruptivo da prescriçã»
+
+RESULTADO: 0 erro(s), 3 aviso(s). Sem erros bloqueantes; examinar avisos.
