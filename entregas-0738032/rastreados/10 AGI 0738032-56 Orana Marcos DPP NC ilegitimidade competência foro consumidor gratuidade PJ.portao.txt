@@ -1,0 +1,8 @@
+Portão checar_voto.py (v6), AGI: 0 erros, 7 avisos justificados (recuo 6 cm nas citações internas da liminar; fecho do capítulo da gratuidade em parágrafo único, C-17 v40; identificação do rodapé da ementa alterada, C-67).
+[AVISO] VOTO §105: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) Quanto à gratuidade de justiça, a matéria também foi expressamente examinada. A dec»
+[AVISO] VOTO §106: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «A condição de microempresa não gera presunção de hipossuficiência econômica nem dispensa a»
+[AVISO] VOTO §107: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Esclareço, portanto, que a condição de microempresa foi considerada insuficiente para afas»
+[AVISO] VOTO §109: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘A demonstração da hipossuficiência econômico-financeira da pessoa jurídica, para fins de »
+[AVISO] VOTO §114: 56 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Dito isso, e não havendo alteração do quadro fático-jurídico delineado nos autos, com a má»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Jurisprudência relevante citada: STJ, REsp nº 1.704.520/MT (Tema 988), Rel. Ministra Nancy»
+RESULTADO: 0 erro(s), 7 aviso(s). Sem erros bloqueantes; examinar avisos.
