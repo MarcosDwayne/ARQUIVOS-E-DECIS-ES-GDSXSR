@@ -1,0 +1,7 @@
+Classe AGI | parágrafos (versão aceita) 125 | comentários 8 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] VOTO §73: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘Art. 4º Se o bem alienado fiduciariamente não for encontrado ou não se achar na posse do »
+[AVISO] VOTO §78: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) 6. A conversão da ação de busca e apreensão não se trata de faculdade a ser exercid»
+[AVISO] VOTO §80: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) 6. As questões concernentes à venda extrajudicial do bem, imputação do valor alcanç»
+[AVISO] VOTO §82: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘Cabe ação monitória para haver saldo remanescente oriundo de venda extrajudicial de bem a»
+
+RESULTADO: 0 erro(s), 4 aviso(s). Sem erros bloqueantes; examinar avisos.
