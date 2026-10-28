@@ -1,0 +1,3 @@
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Jurisprudência relevante citada: STJ, EDcl no AREsp nº 3.167.241/SP, Rel. Min. Francisco F»
+RESULTADO: 0 erro(s), 14 aviso(s). Sem erros bloqueantes; examinar avisos.
+JUSTIFICATIVA: avisos de recuo 6 cm = citação interna à transcrição do acórdão (C-41, original); aviso de transcrição = 'Jurisprudência relevante citada' reduzida a um precedente (C-65, C-67).
