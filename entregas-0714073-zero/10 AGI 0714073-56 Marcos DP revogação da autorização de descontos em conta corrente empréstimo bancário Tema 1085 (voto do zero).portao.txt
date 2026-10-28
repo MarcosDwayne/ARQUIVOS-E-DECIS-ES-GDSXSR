@@ -1,0 +1,6 @@
+Classe AGI | parágrafos (versão aceita) 138 | comentários 12 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] VOTO §71: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘São lícitos os descontos de parcelas de empréstimos bancários comuns em conta-corrente, a»
+[AVISO] VOTO §77: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) 3. A Resolução nº 4.790/2020 do Banco Central, em seu art. 6º, caput e parágrafo ún»
+[INFO] VOTO §80: 2 períodos/52 palavras: separar período conclusivo autônomo (v4)? → «Dito isso, e não havendo alteração do quadro fático-jurídico delineado nos autos, com a má»
+
+RESULTADO: 0 erro(s), 3 aviso(s). Sem erros bloqueantes; examinar avisos.
