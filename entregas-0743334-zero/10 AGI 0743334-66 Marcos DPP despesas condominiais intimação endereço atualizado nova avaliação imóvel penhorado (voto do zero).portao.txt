@@ -1,0 +1,14 @@
+Classe AGI | parágrafos (versão aceita) 93 | comentários 16 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] VOTO §67: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) Nos termos do art. 274, parágrafo único, do CPC, presumem-se válidas as intimações »
+[AVISO] VOTO §68: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Incumbe à parte manter atualizado seu endereço nos autos. A mera indicação de endereço ou »
+[AVISO] VOTO §69: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «No caso, a diligência de intimação não se concretizou porque o imóvel estava desocupado, s»
+[AVISO] VOTO §70: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «INDEFIRO, portanto, o pedido de nova intimação pessoal da executada.»
+[AVISO] VOTO §71: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Quanto à avaliação, o oficial de justiça atribuiu ao imóvel o valor de R$ 97.000,00, media»
+[AVISO] VOTO §72: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «A nova avaliação somente é cabível quando demonstrados erro ou dolo do avaliador, alteraçã»
+[AVISO] VOTO §73: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «A divergência entre a avaliação judicial e o parecer mercadológico particular apresentado »
+[AVISO] VOTO §74: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «O risco de alienação por preço vil será examinado por ocasião da expropriação, à luz do ar»
+[AVISO] VOTO §81: 60 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Dito isso, e não havendo alteração do quadro fático-jurídico delineado nos autos, com a má»
+[INFO] VOTO §81: 2 períodos/60 palavras: separar período conclusivo autônomo (v4)? → «Dito isso, e não havendo alteração do quadro fático-jurídico delineado nos autos, com a má»
+[AVISO] DISPOSITIVO §87: 64 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Ante o exposto, reiteradas as vênias, dou parcial provimento ao agravo de instrumento da e»
+
+RESULTADO: 0 erro(s), 11 aviso(s). Sem erros bloqueantes; examinar avisos.
