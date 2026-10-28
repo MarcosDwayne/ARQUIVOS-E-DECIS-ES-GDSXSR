@@ -1,0 +1,12 @@
+hash original: 7b306b7f37a451aa
+Classe AGI | parágrafos (versão aceita) 146 | comentários 14 | alterações rastreadas {'ins': 41, 'del': 33, 'pPrChange': 12, 'rPrChange': 60}
+[AVISO] VOTO §89: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) A perícia deferida é de natureza médica especializada, em subárea de elevada densid»
+[AVISO] VOTO §90: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «A complexidade, contudo, não legitima integralmente a carga horária proposta. As 2 horas d»
+[AVISO] VOTO §91: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «De igual modo, as 8 horas relativas à “reavaliação às indagações das partes” (ID 281335335»
+[AVISO] VOTO §92: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Depurada a base remunerável para 32 horas e considerado o valor da hora técnica compatível»
+[AVISO] VOTO §93: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Por outro lado, não prospera a pretensão de fixação nos limites da Resolução CNJ nº 232/20»
+[AVISO] VOTO §94: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Tampouco se admite a equiparação direta à Classificação Brasileira Hierarquizada de Proced»
+[AVISO] VOTO §95: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «O valor de R$ 10.000,00 mostra-se proporcional ao trabalho a ser desempenhado, notadamente»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «“(...) A perícia deferida é de natureza médica especializada, em subárea de elevada densid»
+
+RESULTADO: 0 erro(s), 8 aviso(s). Sem erros bloqueantes; examinar avisos.
