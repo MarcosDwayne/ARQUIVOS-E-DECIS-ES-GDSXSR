@@ -1,0 +1,7 @@
+hash original: 17d83378bb3bcd31
+Classe APC | parágrafos (versão aceita) 218 | comentários 24 | alterações rastreadas {'ins': 138, 'del': 130, 'pPrChange': 5, 'rPrChange': 135}
+[AVISO] VOTO §92: referência (ID 88447116) no meio do período → «No caso, o d. Juízo a quo determinou nova  emenda à inicial (ID 88447116), dentre outros m»
+[INFO] VOTO §92: 2 períodos/56 palavras: separar período conclusivo autônomo (v4)? → «No caso, o d. Juízo a quo determinou nova  emenda à inicial (ID 88447116), dentre outros m»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: Decreto-Lei nº 911/1969, art. 3º; CC, art. 1.361, § 1º; C»
+
+RESULTADO: 0 erro(s), 3 aviso(s). Sem erros bloqueantes; examinar avisos.
