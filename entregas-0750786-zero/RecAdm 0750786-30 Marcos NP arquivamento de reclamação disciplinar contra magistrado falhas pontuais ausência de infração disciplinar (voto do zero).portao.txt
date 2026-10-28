@@ -1,0 +1,20 @@
+Classe AGI | parágrafos (versão aceita) 239 | comentários 5 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[ERRO] EMENTA §1: título EMENTA centralizado (deve ficar à esquerda)
+[ERRO] EMENTA §19: vermelho fora do resumo (cor exclusiva do Desembargador, manual 2.3.9) → «RESUMO DO RECURSO ADMINISTRATIVO»
+[ERRO] EMENTA §20: vermelho fora do resumo (cor exclusiva do Desembargador, manual 2.3.9) → «I. RAZÕES RECURSAIS»
+[ERRO] EMENTA §21: vermelho fora do resumo (cor exclusiva do Desembargador, manual 2.3.9) → «Nulidade da decisão de arquivamento, que não examinou as petições de ID 8397880 e 8397881,»
+[ERRO] EMENTA §22: vermelho fora do resumo (cor exclusiva do Desembargador, manual 2.3.9) → «Inadequação do arquivamento de plano, com fundamento no art. 9º, § 2º, da Resolução CNJ 13»
+[ERRO] EMENTA §23: vermelho fora do resumo (cor exclusiva do Desembargador, manual 2.3.9) → «Sucessão de omissões em cerca de noventa dias: petições de 1º/4/2026 e 29/5/2026 não aprec»
+[ERRO] EMENTA §24: vermelho fora do resumo (cor exclusiva do Desembargador, manual 2.3.9) → «Gravidade objetiva do ofício, apto a restabelecer desconto sem suporte no título, e exigên»
+[ERRO] EMENTA §25: vermelho fora do resumo (cor exclusiva do Desembargador, manual 2.3.9) → «Incompatibilidade entre as justificativas apresentadas (falha de visibilidade do sistema e»
+[ERRO] EMENTA §26: vermelho fora do resumo (cor exclusiva do Desembargador, manual 2.3.9) → «Necessidade de instrução complementar, com registros de auditoria do PJe, oitiva dos servi»
+[ERRO] EMENTA §27: vermelho fora do resumo (cor exclusiva do Desembargador, manual 2.3.9) → «Prioridade de tramitação não examinada, por ser o recorrente maior de sessenta anos (Lei 9»
+[ERRO] EMENTA §28: vermelho fora do resumo (cor exclusiva do Desembargador, manual 2.3.9) → «II. PEDIDO»
+[ERRO] EMENTA §29: vermelho fora do resumo (cor exclusiva do Desembargador, manual 2.3.9) → «Requer a concessão de efeito suspensivo, a reconsideração da decisão ou, subsidiariamente,»
+[ERRO] EMENTA §30: vermelho fora do resumo (cor exclusiva do Desembargador, manual 2.3.9) → «Requer a preservação e a juntada dos registros de auditoria do PJe, a identificação e oiti»
+[ERRO] EMENTA §31: vermelho fora do resumo (cor exclusiva do Desembargador, manual 2.3.9) → «Requer a reunião deste feito ao procedimento n. 0004063-87.2026.2.00.0000 ou, subsidiariam»
+[ERRO] EMENTA §32: vermelho fora do resumo (cor exclusiva do Desembargador, manual 2.3.9) → «Requer o reconhecimento da prioridade de tramitação e a intimação do recorrente de todas a»
+
+RESULTADO: 15 erro(s), 0 aviso(s). REPROVADO
+JUSTIFICATIVA: classe Recurso Administrativo (Conselho Especial Administrativo) não tem perfil nem portão próprio; o portão foi rodado com --classe=AGI só como triagem. Os 15 erros restantes são a estrutura do modelo RecAdm 0725726-89, pedida por Marcos (instrução do usuário prevalece): título EMENTA centralizado e resumo em vermelho intitulado "RESUMO DO RECURSO ADMINISTRATIVO" (o portão só reconhece "DA APELAÇÃO/DO AGRAVO/DOS EMBARGOS"). O próprio modelo reprova com os mesmos erros (18 erros). Sem avisos.
+PENDÊNCIAS (comentários laterais): texto literal do art. 9º, § 2º, da Res. CNJ 135/2011 (a transcrever); art. 363, I, e art. 411, § 4º, do RITJDFT não conferidos em fonte oficial.
