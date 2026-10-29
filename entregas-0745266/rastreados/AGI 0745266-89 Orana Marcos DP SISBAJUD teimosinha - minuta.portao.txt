@@ -1,0 +1,37 @@
+hash original: 4b8f5d9b7b67e5c4
+Classe AGI | parágrafos (versão aceita) 152 | comentários 17 | alterações rastreadas {'ins': 79, 'del': 73, 'pPrChange': 2, 'rPrChange': 6}
+[AVISO] RELATÓRIO §30: referência (ID 287954917, do processo de origem) no meio do período → «Trata-se de agravo de instrumento interposto pelo exequente, BANCO DO BRASIL S/A, contra d»
+[AVISO] RELATÓRIO §34: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO JUDICIAL. PESQUISA PAT»
+[AVISO] RELATÓRIO §34: transcrição de ementa com cabeçalho; suprimir com “(...)” (manual 2.3.2, C-62) → «DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO JUDICIAL. PESQUISA PAT»
+[AVISO] RELATÓRIO §35: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «I. CASO EM EXAME»
+[AVISO] RELATÓRIO §36: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «1. Agravo de instrumento interposto contra decisão proferida nos autos de cumprimento de s»
+[AVISO] RELATÓRIO §37: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «II. QUESTÃO EM DISCUSSÃO»
+[AVISO] RELATÓRIO §38: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «2. A questão em discussão consiste em definir se é válida a exigência judicial de realizaç»
+[AVISO] RELATÓRIO §39: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «III. RAZÕES DE DECIDIR»
+[AVISO] RELATÓRIO §40: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «3. O magistrado possui poder de condução do processo executivo, podendo determinar diligên»
+[AVISO] RELATÓRIO §41: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «4. A jurisprudência do Superior Tribunal de Justiça admite a utilização direta de sistemas»
+[AVISO] RELATÓRIO §42: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «5. A exigência de buscas em todos os cartórios do Distrito Federal, ainda que onerosa, fun»
+[AVISO] RELATÓRIO §43: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «6. Ausentes a plausibilidade jurídica da tese recursal e o risco de dano grave ou irrevers»
+[AVISO] RELATÓRIO §44: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «IV. DISPOSITIVO E TESE»
+[AVISO] RELATÓRIO §45: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «7. Recurso desprovido.»
+[AVISO] RELATÓRIO §46: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Tese de julgamento:»
+[AVISO] RELATÓRIO §47: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «1. O juízo pode condicionar a realização de pesquisas patrimoniais em sistemas informatiza»
+[AVISO] RELATÓRIO §48: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «2. A inexistência de teratologia, ilegalidade manifesta ou abuso de poder afasta a possibi»
+[AVISO] RELATÓRIO §49: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «3. A atuação do juízo da execução deve equilibrar o princípio da efetividade com a conduçã»
+[AVISO] RELATÓRIO §50: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Dispositivos relevantes citados:»
+[AVISO] RELATÓRIO §51: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «CPC, arts. 995, parágrafo único, e 1.019, I. (Acórdão 2043343, Processo nº 0722426-22.2025»
+[AVISO] VOTO §88: transcrição deve ser Arial 13 em itálico (C-40) → «“(...) 3. Se a última tentativa de encontrar bens ocorreu há mais de um ano, justifica-se »
+[AVISO] VOTO §89: transcrição deve ser Arial 13 em itálico (C-40) → «“(...) II. O próprio decurso do tempo, desde que expressivo, pode ser legitimamente invoca»
+[AVISO] VOTO §97: transcrição deve ser Arial 13 em itálico (C-40) → «“(...) 4. A restrição imposta pelo juízo de origem, condicionando novas conclusões dos aut»
+[AVISO] DISPOSITIVO §107: 58 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Ante o exposto, com a máxima vênia, dou provimento ao agravo de instrumento do exequente, »
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «“(...) 3. Se a última tentativa de encontrar bens ocorreu há mais de um ano, justifica-se »
+
+RESULTADO: 0 erro(s), 25 aviso(s). Sem erros bloqueantes; examinar avisos.
+
+JUSTIFICATIVAS DOS AVISOS (revisor)
+- §34 a §52 (relatório): recuo 6 cm e cabeçalho da ementa do Acórdão 2043343 fazem parte da decisão agravada transcrita (ementa dentro de transcrição, C-41); preservados como na minuta.
+- §30: ID no meio do período é a fórmula "(ID …, do processo de origem), in verbis:" do relatório.
+- Citações dos Acórdãos 2102603, 2087914 e 2077871 no voto: a identificação de origem fica fora do itálico, como no modelo AGI 0738347-84; transcrição alterada só no formato da referência (C-62) e com "– Grifei".
+- Dispositivo: parágrafo único (C-3F), 58 palavras.
+- Resumo da decisão em vermelho FF0000 e anexo em verde 008000: preservados como vieram na minuta.
+PENDÊNCIAS: Acórdão 2119127 (3ª TCiv) não localizado; número de acórdão e DJe dos três acórdãos do voto não devolvidos pelo iajus; data e ID da última pesquisa SISBAJUD (sem os autos); pesquisa "teimosinha" anterior (Acórdão 2077871, item 7).
