@@ -1,0 +1,14 @@
+hash original: 14a337ffcaadb7b3
+Classe APC | parágrafos (versão aceita) 214 | comentários 17 | alterações rastreadas {'ins': 91, 'del': 290, 'pPrChange': 0, 'rPrChange': 16}
+[ERRO] CONTROLE §0: inserção rastreada sem cor 808080 (C-44) → «(...) meu nome, ela ? sim, colocou o nome da minha família t»
+[AVISO] VOTO §82: números da enumeração das alegações em negrito (C-43) → «A ré/apelante alega que: 1) a autora não se desincumbiu do ônus de comprovar os fatos cons»
+[ERRO] COMENTÁRIOS §0: comentários diminuíram: 21 → 17
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CC 186 e 927; CPC 373 I.»
+
+RESULTADO: 2 erro(s), 2 aviso(s). REPROVADO
+
+JUSTIFICATIVAS (Assessor GDSXSR):
+- ERRO CONTROLE §0 (inserção sem cinza): é a inserção rastreada que já constava na versão de Marcos (trecho do depoimento no anexo da sentença); não é do revisor.
+- ERRO COMENTÁRIOS 21→17: removidos os 18 comentários da rodada anterior (já tratados por Marcos) e incluídos 14 novos desta rodada.
+- AVISO TRANSCRIÇÃO (cabeçalho da ementa): alteração intencional do rodapé "Dispositivos relevantes citados" ao novo resultado (C-33).
+- AVISO números em negrito: aplicados na versão aceita (verificado no DOCX); o portão lê a cópia rastreada.
