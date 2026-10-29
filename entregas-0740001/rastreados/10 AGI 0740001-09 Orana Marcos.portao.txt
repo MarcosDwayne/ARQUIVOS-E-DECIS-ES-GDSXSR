@@ -1,0 +1,11 @@
+hash original: 0d17b69485c25bab
+Classe AGI | parágrafos (versão aceita) 112 | comentários 14 | alterações rastreadas {'ins': 30, 'del': 45, 'pPrChange': 1, 'rPrChange': 6}
+[AVISO] VOTO §69: referência (ID 89044333) no meio do período → «No ponto, mantenho as razões expostas na decisão liminar (ID 89044333), transcritas a segu»
+[AVISO] VOTO §74: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) 4. A jurisprudência do TJDFT e do STJ admite a reiteração de buscas patrimoniais em»
+[AVISO] VOTO §75: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «5. No caso concreto, considerando que as últimas pesquisas ocorreram há mais de um ano, ve»
+[AVISO] VOTO §81: transcrição deve ser Arial 13 em itálico (C-40) → «“(...) III. Ante o interesse público na efetividade da jurisdição executiva, o juiz deve a»
+[INFO] VOTO §83: 2 períodos/50 palavras: separar período conclusivo autônomo (v4)? → «Dito isso, e não havendo alteração do quadro fático-jurídico delineado nos autos, com a má»
+[AVISO] DISPOSITIVO §87: 59 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Ante o exposto, reiterada a vênia, dou provimento ao agravo de instrumento da exequente, A»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Jurisprudência relevante citada: TJDFT, Acórdão nº 1990502, AGI nº 0700850-70.2025.8.07.00»
+
+RESULTADO: 0 erro(s), 7 aviso(s). Sem erros bloqueantes; examinar avisos.

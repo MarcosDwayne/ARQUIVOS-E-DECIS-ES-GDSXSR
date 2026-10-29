@@ -1,0 +1,50 @@
+hash original: 668283563670d6e4
+Classe APC | parágrafos (versão aceita) 274 | comentários 48 | alterações rastreadas {'ins': 155, 'del': 399, 'pPrChange': 0, 'rPrChange': 14}
+[AVISO] RELATÓRIO §61: transcrição deve ser Arial 13 em itálico (C-40) → «"Trata-se de ação de cobrança cumulada com pedido de desconsideração da personalidade jurí»
+[AVISO] RELATÓRIO §61: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"Trata-se de ação de cobrança cumulada com pedido de desconsideração da personalidade jurí»
+[AVISO] RELATÓRIO §62: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Na petição inicial, a autora relata que celebrou com a primeira ré dois contratos de parti»
+[AVISO] RELATÓRIO §63: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Em razão disso, pediu o reconhecimento da relação de consumo e a inversão do ônus da prova»
+[AVISO] RELATÓRIO §64: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «A tutela de urgência cautelar foi indeferida na decisão de ID 262303097, oportunidade em q»
+[AVISO] RELATÓRIO §65: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Na contestação (ID 265129618), os réus arguem, em sede preliminar, inépcia da petição inic»
+[AVISO] RELATÓRIO §65: referência (ID 265129618) no meio do período → «Na contestação (ID 265129618), os réus arguem, em sede preliminar, inépcia da petição inic»
+[AVISO] RELATÓRIO §66: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «A autora apresentou réplica (ID 268609901), reiterando os argumentos da petição inicial e »
+[AVISO] RELATÓRIO §66: referência (ID 268609901) no meio do período → «A autora apresentou réplica (ID 268609901), reiterando os argumentos da petição inicial e »
+[AVISO] RELATÓRIO §66: referência (ID 268609907) no meio do período → «A autora apresentou réplica (ID 268609901), reiterando os argumentos da petição inicial e »
+[AVISO] RELATÓRIO §67: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Os réus apresentaram manifestação sobre os documentos da réplica (ID 270158707).»
+[AVISO] RELATÓRIO §68: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «É o que importa relatar." (ID 88023720)»
+[AVISO] RELATÓRIO §72: transcrição deve ser Arial 13 em itálico (C-40) → «"Diante do exposto, com fundamento no art. 487, I, do CPC:»
+[AVISO] RELATÓRIO §72: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"Diante do exposto, com fundamento no art. 487, I, do CPC:»
+[AVISO] RELATÓRIO §73: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «I - Defiro a desconsideração da personalidade jurídica da GPS Facility e Construção Ltda, »
+[AVISO] RELATÓRIO §74: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «II - Julgo procedentes ,em parte, os pedidos para condenar solidariamente GPS FACILITY E C»
+[AVISO] RELATÓRIO §75: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Condeno os réus, solidariamente, por litigância de má-fé, nos termos dos arts. 80, II e II»
+[AVISO] RELATÓRIO §76: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Em razão da sucumbência mínima da autora, condeno os réus, solidariamente, ao pagamento da»
+[AVISO] VOTO §96: subtítulo do voto não centralizado → «DO ACOLHIMENTO EM PARTE DA PRELIMINAR DE INOVAÇÃO RECURSAL SUSCITADA EM CONTRARRAZÕES»
+[AVISO] VOTO §110: transcrição deve ser Arial 13 em itálico (C-40) → «"(...) 5. A vedação à inovação recursal não impede o exame do índice de correção monetária»
+[AVISO] VOTO §110: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"(...) 5. A vedação à inovação recursal não impede o exame do índice de correção monetária»
+[AVISO] VOTO §120: subtítulo do voto não centralizado → «DA REJEIÇÃO DA PRELIMINAR DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO»
+[AVISO] VOTO §134: subtítulo do voto não centralizado → «MÉRITO»
+[AVISO] VOTO §135: subtítulo do voto não centralizado → «DA APLICAÇÃO DO REGIME CONSUMERISTA À RELAÇÃO JURÍDICA E DA MANUTENÇÃO DA OBRIGAÇÃO DE RES»
+[AVISO] VOTO §137: números da enumeração das alegações em negrito (C-43) → «Os réus/apelantes alegam, em síntese, que: 1) a sociedade que recebe o aporte não presta s»
+[AVISO] VOTO §147: transcrição deve ser Arial 13 em itálico (C-40) → «"(...) Segundo a jurisprudência do STJ, é admitida a aplicação do Código de Defesa do Cons»
+[AVISO] VOTO §147: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"(...) Segundo a jurisprudência do STJ, é admitida a aplicação do Código de Defesa do Cons»
+[AVISO] VOTO §163: transcrição deve ser Arial 13 em itálico (C-40) → «"(...) II. Descumpridos pela startup os deveres de prestação de contas e de apresentação d»
+[AVISO] VOTO §163: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"(...) II. Descumpridos pela startup os deveres de prestação de contas e de apresentação d»
+[AVISO] VOTO §167: subtítulo do voto não centralizado → «DA MANUTENÇÃO DA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA»
+[AVISO] VOTO §169: números da enumeração das alegações em negrito (C-43) → «Os réus/apelantes alegam, em síntese, que: 1) o art. 50 do Código Civil exige prova especí»
+[AVISO] VOTO §179: transcrição deve ser Arial 13 em itálico (C-40) → «"(...) a GPS Facility, empresa do ramo de construção e facility, atuou como captadora info»
+[AVISO] VOTO §179: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"(...) a GPS Facility, empresa do ramo de construção e facility, atuou como captadora info»
+[AVISO] VOTO §185: subtítulo do voto não centralizado → «DA IMPOSSIBILIDADE DE DEDUÇÃO DO PAGAMENTO DE R$ 5.325,00 DO SALDO DA CÉDULA»
+[AVISO] VOTO §199: subtítulo do voto não centralizado → «DA MANUTENÇÃO DOS JUROS DE MORA CONVENCIONADOS E DA CORREÇÃO MONETÁRIA PELO IPCA»
+[AVISO] VOTO §211: subtítulo do voto não centralizado → «DA MANUTENÇÃO DA MULTA POR LITIGÂNCIA DE MÁ-FÉ»
+[AVISO] VOTO §219: transcrição deve ser Arial 13 em itálico (C-40) → «"(...) A inclusão deliberada de pagamentos já quitados sob relação contratual extinta, apr»
+[AVISO] VOTO §219: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"(...) A inclusão deliberada de pagamentos já quitados sob relação contratual extinta, apr»
+[AVISO] VOTO §227: transcrição deve ser Arial 13 em itálico (C-40) → «"(...) Litigância de má-fé caracterizada: apresentação de recibos de quitação por serviços»
+[AVISO] VOTO §227: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"(...) Litigância de má-fé caracterizada: apresentação de recibos de quitação por serviços»
+[ERRO] DISPOSITIVO §229: título DISPOSITIVO sem negrito
+[AVISO] DISPOSITIVO §231: 62 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Ante o exposto, acolho em parte a preliminar de inovação recursal e não conheço do apelo d»
+[ERRO] DISPOSITIVO §265: título DISPOSITIVO sem negrito
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «"(...) 4. Configura omissão a ausência de manifestação sobre questão relevante e cognoscív»
+
+RESULTADO: 2 erro(s), 42 aviso(s). REPROVADO
+
+JUSTIFICATIVAS (revisor): o portão foi rodado contra a versão revisada por Marcos (marcos.docx). (1) AVISOS e ERROS de formatação (RELATÓRIO sem recuo, subtítulos não centralizados, transcrições sem itálico/13, DISPOSITIVO sem negrito, dispositivo com 62 palavras) já existem na versão de Marcos e não foram alterados, porque o pedido foi só reduzir a fundamentação. (2) "números da enumeração em negrito" §137 e §169: os numerais "2)" e "3)" estão em negrito, mas divididos em dois runs pela edição rastreada; falso positivo. (3) TRANSCRIÇÃO §0: ementa do Acórdão 2123255 reduzida ao item 5, com "(...)" inicial (C-62). (4) Medida: fundamentação da ementa (itens 5 a 13) 342 -> 236 palavras (-31,0%); fundamentação do voto (apelo dos réus até o último capítulo) 3.192 -> 1.744 palavras (-45,4%).
