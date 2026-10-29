@@ -1,4 +1,0 @@
-Classe AGI | parágrafos (versão aceita) 86 | comentários 4 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
-[INFO] VOTO §75: 3 períodos/52 palavras: separar período conclusivo autônomo (v4)? → «A alegação de que o agravo foi protocolado na origem em 29/04/2026 também não afasta a des»
-
-RESULTADO: 0 erro(s), 1 aviso(s). Sem erros bloqueantes; examinar avisos.
