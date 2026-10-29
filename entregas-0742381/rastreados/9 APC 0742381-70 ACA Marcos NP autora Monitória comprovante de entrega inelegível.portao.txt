@@ -1,0 +1,10 @@
+hash original: 324d49f55cc559f4
+Classe APC | parágrafos (versão aceita) 167 | comentários 24 | alterações rastreadas {'ins': 151, 'del': 152, 'pPrChange': 1, 'rPrChange': 36}
+[AVISO] RELATÓRIO §66: referência (ID 89108687) no meio do período → «A autora, Florence Industrial e Comercial Ltda., opôs embargos de declaração (ID 89108687)»
+[AVISO] VOTO §93: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «DA MANUTENÇÃO DA EXCLUSÃO DA DUPLICATA Nº 04 DA NOTA FISCAL Nº 207285 POR AUSÊNCIA DE PROV»
+[ERRO] DISPOSITIVO §160: título DISPOSITIVO sem negrito
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CPC, art. 373, I, 700 e 85, § 11.»
+
+RESULTADO: 1 erro(s), 3 aviso(s). REPROVADO
+
+JUSTIFICATIVAS (revisor): (1) ERRO "título DISPOSITIVO sem negrito" §160 está no anexo da sentença recorrida em verde (C-45), que não se altera; o DISPOSITIVO do voto está em negrito e centralizado. (2) AVISO ID no meio do período no relatório §66: fórmula fixa do relatório ("opôs embargos de declaração (ID …), os quais foram rejeitados (ID …)"), que não se desloca (C-20). (3) AVISO recuo do §93: é o título do capítulo (Heading), sem recuo de 1ª linha (C-41). (4) AVISO "transcrição alterada": rodapé "Dispositivos relevantes citados" da ementa, passado à forma compacta (C-20). Pendências em comentário (C-52): número do acórdão 1906820 e DJe 27/08/2024; precedente do STJ invocado pela apelante não identificado; nome do juiz; apelado na tabela de autuação.
