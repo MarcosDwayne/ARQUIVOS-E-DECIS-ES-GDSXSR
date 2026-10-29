@@ -1,0 +1,8 @@
+hash original: 349da622c710a640
+Classe APC | parágrafos (versão aceita) 260 | comentários 28 | alterações rastreadas {'ins': 139, 'del': 358, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] VOTO §137: 3+ microparágrafos seguidos (<15 palavras) → «Dispõe o art. 675 do CPC:»
+[INFO] VOTO §143: 3 períodos/54 palavras: separar período conclusivo autônomo (v4)? → «No mais, ainda que o art. 675 do CPC fosse superado, o processo nº 0720635-49.2024.8.07.00»
+[AVISO] VOTO §167: referência (ID 89653918) no meio do período → «No caso, a apelada adquiriu os veículos em 03/09/2018 (ID 89653918), e a primeira restriçã»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «“Art. 675. Os embargos podem ser opostos a qualquer tempo no processo de conhecimento enqu»
+
+RESULTADO: 0 erro(s), 4 aviso(s). Sem erros bloqueantes; examinar avisos.
