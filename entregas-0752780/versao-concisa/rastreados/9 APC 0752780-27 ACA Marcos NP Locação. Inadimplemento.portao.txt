@@ -1,0 +1,10 @@
+hash original: 87066734b1799dfd
+Classe APC | parágrafos (versão aceita) 291 | comentários 36 | alterações rastreadas {'ins': 227, 'del': 408, 'pPrChange': 0, 'rPrChange': 95}
+[AVISO] RELATÓRIO §65: referência (ID 88729618) no meio do período → «O réu opôs embargos de declaração (ID 88729618), os quais foram rejeitados (ID 88729622).»
+[AVISO] VOTO §88: números da enumeração das alegações em negrito (C-43) → «A autora/apelada alega que: 1) o apelante não comprovou o recolhimento do preparo; e 2) o »
+[AVISO] VOTO §102: números da enumeração das alegações em negrito (C-43) → «O réu/apelante alega que: 1) a pretensão é reparatória e prescreve em três anos (CC 206 § »
+[AVISO] VOTO §137: números da enumeração das alegações em negrito (C-43) → «O réu/apelante alega que: 1) o acordo de encerramento do contrato, com pagamento de R$ 30.»
+[AVISO] VOTO §179: números da enumeração das alegações em negrito (C-43) → «O réu/apelante alega que: 1) a autora ficou longo período sem cobrar; 2) o pagamento e a r»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «“(...) 2. Em raciocínio diverso àquele aplicado na produção de provas na esfera penal, é v»
+
+RESULTADO: 0 erro(s), 6 aviso(s). Sem erros bloqueantes; examinar avisos.
