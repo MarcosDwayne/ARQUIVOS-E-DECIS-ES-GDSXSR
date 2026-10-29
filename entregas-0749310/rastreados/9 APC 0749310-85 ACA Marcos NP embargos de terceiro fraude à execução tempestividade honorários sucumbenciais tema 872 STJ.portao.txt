@@ -1,0 +1,9 @@
+hash original: f674b9101955920d
+Classe APC | parágrafos (versão aceita) 285 | comentários 26 | alterações rastreadas {'ins': 303, 'del': 395, 'pPrChange': 3, 'rPrChange': 153}
+[AVISO] VOTO §138: 3+ microparágrafos seguidos (<15 palavras) → «Dispõe o art. 675 do CPC:»
+[AVISO] VOTO §178: referência (ID 89653918) no meio do período → «No caso, a apelada adquiriu os veículos em 03/09/2018 (ID 89653918), e a primeira restriçã»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CPC, arts. 486, 674 e 675.»
+
+RESULTADO: 0 erro(s), 3 aviso(s). Sem erros bloqueantes; examinar avisos.
+
+Justificativa dos avisos: (1) §138 'Dispõe o art. 675 do CPC:' é frase de introdução da transcrição, já existente no original; (2) §178 o ID 89653918 comprova só a data de aquisição e a segunda data tem outra referência, por isso cada ID fica junto do seu fato; (3) transcrição §0: o rodapé 'Dispositivos relevantes citados' foi reescrito de propósito (forma compacta e CPC 85 § 11, C-20, C-33).
