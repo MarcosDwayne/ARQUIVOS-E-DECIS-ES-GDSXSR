@@ -1,0 +1,6 @@
+Classe AGI | parágrafos (versão aceita) 95 | comentários 10 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] VOTO §64: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) 2. O Sistema Eletrônico dos Registros Públicos do Poder Judiciário - SERP-JUD, em f»
+[AVISO] VOTO §65: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «3. Na hipótese, diante da dificuldade enfrentada pelo credor em encontrar bens passíveis d»
+[AVISO] VOTO §66: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) 3. O SERP-JUD, instituído pela Lei nº 14.382/2022 e regulamentado por atos do CNJ, »
+
+RESULTADO: 0 erro(s), 3 aviso(s). Sem erros bloqueantes; examinar avisos.
