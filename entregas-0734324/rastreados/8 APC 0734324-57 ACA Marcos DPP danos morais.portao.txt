@@ -1,0 +1,10 @@
+hash original: c1086a4c2ba136d4
+Classe APC | parágrafos (versão aceita) 266 | comentários 21 | alterações rastreadas {'ins': 96, 'del': 142, 'pPrChange': 2, 'rPrChange': 51}
+[ERRO] CONTROLE §0: inserção rastreada sem cor 808080 (C-44) → «(...) meu nome, ela ? sim, colocou o nome da minha família t»
+[INFO] VOTO §141: 2 períodos/54 palavras: separar período conclusivo autônomo (v4)? → «Tais elementos podem demonstrar maior extensão do prejuízo experimentado pela vítima e inf»
+[INFO] VOTO §170: 2 períodos/55 palavras: separar período conclusivo autônomo (v4)? → «Também merece consideração a condição econômica das partes. A autora e a ré são beneficiár»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CC, arts. 186 e 927; CPC, art. 373, I.»
+
+RESULTADO: 1 erro(s), 3 aviso(s). REPROVADO
+
+JUSTIFICATIVA: o único ERRO (inserção sem cinza «(...) meu nome, ela ? sim…») é alteração rastreada de terceiro (autor "Microsoft Word") já presente na sentença anexa da minuta original; preservada (C-47). Os avisos de transcrição referem-se ao rodapé "Dispositivos relevantes citados", reescrito em forma compacta (perfil APC, 8).
