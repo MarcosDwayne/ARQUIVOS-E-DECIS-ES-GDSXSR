@@ -1,0 +1,6 @@
+hash original: a308f303554d7892
+Classe APC | parágrafos (versão aceita) 347 | comentários 32 | alterações rastreadas {'ins': 127, 'del': 118, 'pPrChange': 1, 'rPrChange': 130}
+[AVISO] RELATÓRIO §68: referência (ID 88729618) no meio do período → «O réu opôs embargos de declaração (ID 88729618), os quais foram rejeitados (ID 88729622).»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CC, arts. 189, 206, § 3º, V, e § 5º, I, 320, 360, 361, 40»
+
+RESULTADO: 0 erro(s), 2 aviso(s). Sem erros bloqueantes; examinar avisos.
