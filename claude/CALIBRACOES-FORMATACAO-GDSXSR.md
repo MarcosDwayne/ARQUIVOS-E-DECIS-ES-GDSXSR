@@ -14,7 +14,7 @@ Arial 14 no texto editorial (ementa, relatório, voto, títulos, dispositivo). T
 - Títulos e subtítulos sem recuo de primeira linha; "O Senhor Desembargador SÉRGIO ROCHA – Relator." sem recuo.
 
 **C-42 · Títulos** — ATIVA · todas
-Títulos e subtítulos da ementa sempre à esquerda (EMENTA, I a IV); "EMENTA" em negrito. Entre RELATÓRIO e DISPOSITIVO, títulos e subtítulos de fundamentação centralizados. Título do recurso em negrito; subtítulo de capítulo sem negrito, antecipando o resultado ("DA REJEIÇÃO DA PRELIMINAR DE…") e **realçado em amarelo**; DISPOSITIVO em negrito. O veredito isolado ("Sem razão.", "Com razão.") também em amarelo.
+Títulos e subtítulos da ementa sempre à esquerda (EMENTA, I a IV); "EMENTA" em negrito. Entre RELATÓRIO e DISPOSITIVO, títulos e subtítulos de fundamentação centralizados. Título do recurso em negrito; subtítulo de capítulo sem negrito, antecipando o resultado ("DA REJEIÇÃO DA PRELIMINAR DE…") e **realçado em amarelo**; DISPOSITIVO em negrito. O veredito isolado ("Sem razão.", "Com razão.") também em amarelo. **v48 (AGI 0742524-91, Marcos):** o revisor aplica o amarelo ao subtítulo do capítulo e ao veredito mesmo quando a minuta os traz sem realce; na versão do agente ficaram sem ("DO DEFERIMENTO DA GRATUIDADE DE JUSTIÇA" e "Com razão a agravante.") e Marcos os realçou.
 
 **C-43 · Ênfases** — ATIVA · todas
 - Relatório e voto: números da enumeração das alegações — 1), 2), 3)… — em **negrito** (manual 2.3.5); o nome da parte no "Apelo da autora, NOME (ID …)" **sem** negrito.
