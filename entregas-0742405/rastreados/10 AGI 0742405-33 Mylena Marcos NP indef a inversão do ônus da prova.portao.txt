@@ -1,0 +1,13 @@
+hash original: 9414a1a4850f9041
+Classe AGI | parágrafos (versão aceita) 151 | comentários 15 | alterações rastreadas {'ins': 82, 'del': 76, 'pPrChange': 10, 'rPrChange': 79}
+[AVISO] VOTO §73: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) No caso em exame, verifica-se a presença da verossimilhança das alegações deduzidas»
+[AVISO] VOTO §74: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Além disso, a instituição bancária é a detentora dos elementos aptos a demonstrar a origem»
+[AVISO] VOTO §75: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «A responsabilidade das instituições financeiras, no âmbito da prestação de serviços bancár»
+[AVISO] VOTO §76: transcrição com recuo esquerdo 8.0 cm (padrão 4 cm, C-41) → «‘o fornecedor de serviços responde, independentemente da existência de culpa, pela reparaç»
+[AVISO] VOTO §77: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Dessa forma, mostra-se adequada a inversão do ônus da prova para atribuir à requerida o de»
+[AVISO] VOTO §78: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Deverá, ainda, comprovar a lisura das movimentações financeiras controvertidas, esclarecen»
+[AVISO] VOTO §79: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Também deverá apresentar os registros eletrônicos, logs de acesso, gravações, comprovantes»
+[AVISO] VOTO §80: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Ante o exposto, com fundamento no artigo 6º, inciso VIII, do Código de Defesa do Consumido»
+[AVISO] VOTO §81: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Em consequência, caberá à requerida BANCO DO BRASIL S.A. comprovar a regularidade da contr»
+
+RESULTADO: 0 erro(s), 9 aviso(s). Sem erros bloqueantes; examinar avisos.
