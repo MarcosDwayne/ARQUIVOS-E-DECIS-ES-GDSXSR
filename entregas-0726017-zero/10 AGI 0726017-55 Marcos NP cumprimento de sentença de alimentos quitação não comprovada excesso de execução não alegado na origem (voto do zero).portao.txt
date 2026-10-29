@@ -1,0 +1,9 @@
+Classe AGI | parágrafos (versão aceita) 145 | comentários 11 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] VOTO §68: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) 7) De início, consigne que não há controvérsia acerca do valor da pensão mensal apo»
+[AVISO] VOTO §69: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «8) Além disso, verifica-se que a controvérsia instaurada não diz respeito aos valores desc»
+[AVISO] VOTO §70: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «9) Nesse contexto, observa-se que a exequente trouxe aos autos sentença proferida em recla»
+[AVISO] VOTO §71: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «10) Embora a sentença trabalhista não produza coisa julgada material automática perante es»
+[AVISO] VOTO §72: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «11) Assim, em cognição própria desta fase executiva, a alegação genérica do executado de q»
+[AVISO] VOTO §73: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «12) Ademais, competia ao executado demonstrar, de forma específica e documental, a quitaçã»
+
+RESULTADO: 0 erro(s), 6 aviso(s). Sem erros bloqueantes; examinar avisos.
