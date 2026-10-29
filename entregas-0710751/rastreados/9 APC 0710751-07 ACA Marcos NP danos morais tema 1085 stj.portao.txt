@@ -1,0 +1,8 @@
+hash original: 47b518c2d4f62797
+Classe APC | parágrafos (versão aceita) 167 | comentários 23 | alterações rastreadas {'ins': 168, 'del': 208, 'pPrChange': 2, 'rPrChange': 27}
+[AVISO] RELATÓRIO §52: números da enumeração das alegações em negrito (C-43) → «Apelo da autora, Fernanda de Jesus Pereira Ribeiro (ID 88901977), em que alega, em síntese»
+[AVISO] RELATÓRIO §56: números da enumeração das alegações em negrito (C-43) → «Contrarrazões (ID 88901980), em que o réu/apelado, BRB Banco de Brasília S.A., alega que: »
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «16. Recurso parcialmente provido para determinar às instituições financeiras a interrupção»
+
+RESULTADO: 0 erro(s), 3 aviso(s). Sem erros bloqueantes; examinar avisos.
+Justificativa dos avisos: números 1) a 6) do relatório estão em negrito, mas partidos em runs (ex.: '3' e ')') como na minuta original; transcrição alterada = supressão do cabeçalho e itens irrelevantes da ementa (C-62).
