@@ -1,0 +1,10 @@
+Classe AGI | parágrafos (versão aceita) 111 | comentários 13 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] VOTO §72: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) O réu renovou o pedido de concessão dos benefícios da gratuidade de justiça, susten»
+[AVISO] VOTO §73: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Nos termos dos arts. 98 e 99 do Código de Processo Civil, a pessoa natural faz jus à gratu»
+[AVISO] VOTO §74: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «No âmbito deste Tribunal, adota-se, como critério objetivo de aferição da hipossuficiência»
+[AVISO] VOTO §75: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «No caso, a autora juntou contracheque do requerido (ID 274557593), bem como decisão profer»
+[AVISO] VOTO §76: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Embora alegue o requerido que demonstrou que arca com o pagamento de pensão alimentícia fi»
+[AVISO] VOTO §77: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Assim, inexistindo demonstração objetiva da impossibilidade de arcar com as despesas do pr»
+[AVISO] VOTO §81: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) Tese de julgamento: “1. A presunção de veracidade da declaração de hipossuficiência»
+
+RESULTADO: 0 erro(s), 7 aviso(s). Sem erros bloqueantes; examinar avisos.
