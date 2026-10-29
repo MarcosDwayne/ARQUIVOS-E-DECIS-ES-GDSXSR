@@ -1,0 +1,20 @@
+hash original: 0e0e66b8738a4916
+Classe AGI | parágrafos (versão aceita) 132 | comentários 12 | alterações rastreadas {'ins': 22, 'del': 23, 'pPrChange': 1, 'rPrChange': 0}
+[AVISO] VOTO §74: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘Conforme contracheque juntado ao ID 279973739, a parte autora aufere vencimento suficient»
+[AVISO] VOTO §75: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Cuida-se de servidora pública com salário bruto superior a R$15.000 (sic) mensais.»
+[AVISO] VOTO §76: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «(...)»
+[AVISO] VOTO §77: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Portanto, na forma do art. 99, §2º, do Código de Processo Civil, indefiro o benefício da j»
+[AVISO] VOTO §78: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Recolha-se as custas inicias (sic) no prazo indicado no art. 290 do Código de Processo Civ»
+[AVISO] VOTO §80: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘Art. 98. A pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de re»
+[AVISO] VOTO §81: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘Art. 99. O pedido de gratuidade da justiça pode ser formulado na petição inicial, na cont»
+[AVISO] VOTO §82: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «(...)»
+[AVISO] VOTO §83: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «§ 2º O juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem»
+[AVISO] VOTO §84: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «§ 3º Presume-se verdadeira a alegação de insuficiência deduzida exclusivamente por pessoa »
+[AVISO] VOTO §86: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘i) É vedado o uso de critérios objetivos para o indeferimento imediato da gratuidade judi»
+[AVISO] VOTO §87: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «ii) Verificada a existência nos autos de elementos aptos a afastar a presunção de hipossuf»
+[AVISO] VOTO §88: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «iii) Cumprida a diligência, a adoção de parâmetros objetivos pelo magistrado pode ser real»
+[AVISO] VOTO §95: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) Teses de julgamento: ‘1. O recolhimento de custas para evitar o cancelamento da dis»
+[AVISO] VOTO §96: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «2. A aferição da hipossuficiência econômica deve considerar a disponibilidade financeira e»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Jurisprudência relevante citada: STJ, REsp nº 1.988.686/RJ, REsp nº 1.988.687/RJ e REsp nº»
+
+RESULTADO: 0 erro(s), 16 aviso(s). Sem erros bloqueantes; examinar avisos.
