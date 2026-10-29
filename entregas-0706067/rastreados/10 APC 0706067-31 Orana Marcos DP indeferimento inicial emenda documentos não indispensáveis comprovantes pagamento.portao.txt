@@ -1,16 +1,5 @@
-hash original: a3d8ec4154b56483
-Classe APC | parágrafos (versão aceita) 197 | comentários 22 | alterações rastreadas {'ins': 39, 'del': 21, 'pPrChange': 1, 'rPrChange': 5}
-[AVISO] RELATÓRIO §49: referência (ID 90441442) no meio do período → «O autor apresentou petição substitutiva da inicial (ID 90441442), na qual requereu a subst»
-[AVISO] RELATÓRIO §53: referência (ID 90441447) no meio do período → «O autor apresentou petição complementar (ID 90441447), na qual esclareceu a legitimidade p»
-[AVISO] RELATÓRIO §63: referência (ID 90442363) no meio do período → «O autor requereu novas diligências para a localização das rés (ID 90442363), e os autos fo»
-[INFO] VOTO §75: subtítulo de capítulo realçado em amarelo (C-42) → «DA MANUTENÇÃO DA GRATUIDADE DE JUSTIÇA»
-[INFO] VOTO §81: subtítulo de capítulo realçado em amarelo (C-42) → «DA POSSIBILIDADE DE JULGAMENTO DO APELO SEM A CITAÇÃO DAS RÉS PARA RESPONDEREM AO RECURSO»
-[AVISO] VOTO §89: referência (ID 90441457 e 90442360) no meio do período → «No caso, as tentativas de citação das rés pela via postal foram frustradas (ID 90441457 e »
-[AVISO] VOTO §132: referência (CPC 319 II) no meio do período → «O comprovante de residência (item i) não é documento indispensável à propositura da ação. »
-[AVISO] VOTO §140: referência (ID 90441437) no meio do período → «Os comprovantes de pagamento (item v) também não são documentos indispensáveis à propositu»
-[INFO] VOTO §140: 2 períodos/51 palavras: separar período conclusivo autônomo (v4)? → «Os comprovantes de pagamento (item v) também não são documentos indispensáveis à propositu»
-[INFO] VOTO §148: 2 períodos/50 palavras: separar período conclusivo autônomo (v4)? → «A apresentação do contrato em posição horizontal e de documentos em formato diverso do det»
-[INFO] VOTO §150: 2 períodos/51 palavras: separar período conclusivo autônomo (v4)? → «Quanto aos documentos destinados à comprovação da hipossuficiência econômica (item viii), »
-[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CPC, arts. 4º; 65; 99, §2º; 282, §§1º e 2º; 319, II; 320;»
+hash original: 63846c636a629939
+Classe APC | parágrafos (versão aceita) 179 | comentários 26 | alterações rastreadas {'ins': 48, 'del': 125, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «“Art. 331. Indeferida a petição inicial, o autor poderá apelar, facultado ao juiz, no praz»
 
-RESULTADO: 0 erro(s), 12 aviso(s). Sem erros bloqueantes; examinar avisos.
+RESULTADO: 0 erro(s), 1 aviso(s). Sem erros bloqueantes; examinar avisos.
