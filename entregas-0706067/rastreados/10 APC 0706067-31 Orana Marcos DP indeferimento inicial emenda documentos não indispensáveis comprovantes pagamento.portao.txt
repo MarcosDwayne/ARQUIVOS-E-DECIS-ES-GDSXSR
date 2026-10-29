@@ -1,4 +1,5 @@
-hash original: a3d8ec4154b56483
-Classe APC | parágrafos (versão aceita) 207 | comentários 19 | alterações rastreadas {'ins': 65, 'del': 43, 'pPrChange': 2, 'rPrChange': 14}
+hash original: 63846c636a629939
+Classe APC | parágrafos (versão aceita) 179 | comentários 26 | alterações rastreadas {'ins': 48, 'del': 125, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «“Art. 331. Indeferida a petição inicial, o autor poderá apelar, facultado ao juiz, no praz»
 
-RESULTADO: 0 erro(s), 0 aviso(s). Sem erros bloqueantes; examinar avisos.
+RESULTADO: 0 erro(s), 1 aviso(s). Sem erros bloqueantes; examinar avisos.
