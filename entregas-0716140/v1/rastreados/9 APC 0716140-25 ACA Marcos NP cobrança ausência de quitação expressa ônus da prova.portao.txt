@@ -1,0 +1,8 @@
+hash original: 9a6891ab2d92aadb
+Classe APC | parágrafos (versão aceita) 210 | comentários 25 | alterações rastreadas {'ins': 188, 'del': 183, 'pPrChange': 1, 'rPrChange': 51}
+[AVISO] RELATÓRIO §73: referência (ID 88637482) no meio do período → «A ré opôs embargos de declaração (ID 88637482), os quais foram rejeitados (ID 88637488).»
+[AVISO] RELATÓRIO §79: números da enumeração das alegações em negrito (C-43) → «Contrarrazões (ID 88637494), em que a apelada alega que: 1) o Código de Defesa do Consumid»
+[INFO] VOTO §153: 2 períodos/56 palavras: separar período conclusivo autônomo (v4)? → «No mais, os precedentes invocados no apelo não socorrem a apelante: o do c. STJ apenas enu»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CPC, arts. 85, § 11, 373, I e II, e 487, I; CC, art. 320,»
+
+RESULTADO: 0 erro(s), 4 aviso(s). Sem erros bloqueantes; examinar avisos.
