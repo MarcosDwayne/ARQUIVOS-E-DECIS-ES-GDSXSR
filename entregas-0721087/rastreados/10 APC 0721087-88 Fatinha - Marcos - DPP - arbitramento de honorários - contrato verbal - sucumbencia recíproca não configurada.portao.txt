@@ -1,0 +1,9 @@
+hash original: cf208f8d354a45d2
+Classe APC | parágrafos (versão aceita) 332 | comentários 32 | alterações rastreadas {'ins': 176, 'del': 202, 'pPrChange': 9, 'rPrChange': 43}
+[AVISO] RELATÓRIO §106: referência (ID 90421195) no meio do período → «O autor opôs embargos de declaração (ID 90421195), os quais foram parcialmente acolhidos, »
+[INFO] VOTO §159: 2 períodos/49 palavras: separar período conclusivo autônomo (v4)? → «Nesse contexto, o arbitramento realizado pelo d. Juízo de origem observou as peculiaridade»
+[AVISO] VOTO §171: 3+ microparágrafos seguidos (<15 palavras) → «Dispõem os arts. 85, § 14, e 86, caput, do CPC:»
+[INFO] VOTO §182: 3 períodos/47 palavras: separar período conclusivo autônomo (v4)? → «Nessas circunstâncias, com a máxima vênia ao d. Juízo de origem, mostra-se aplicável, por »
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CPC, arts. 85, § 2º, § 11 e § 14, 86, caput, 487, I; Lei »
+
+RESULTADO: 0 erro(s), 5 aviso(s). Sem erros bloqueantes; examinar avisos.
