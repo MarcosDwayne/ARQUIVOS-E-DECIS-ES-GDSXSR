@@ -1,6 +1,6 @@
-Classe AGI | parágrafos (versão aceita) 126 | comentários 12 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
-[AVISO] VOTO §67: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) No caso, a decisão de ID 269485437 deferiu a penhora do veículo VW Amarok, placa OV»
-[AVISO] VOTO §68: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Embora o dinheiro ocupe posição preferencial na ordem legal de penhora prevista no art. 83»
-[AVISO] VOTO §69: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Além disso, os executados não indicaram bem ou meio executivo menos gravoso e igualmente e»
+Classe AGI | parágrafos (versão aceita) 132 | comentários 13 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] VOTO §69: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) No caso, a decisão de ID 269485437 deferiu a penhora do veículo VW Amarok, placa OV»
+[AVISO] VOTO §70: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Embora o dinheiro ocupe posição preferencial na ordem legal de penhora prevista no art. 83»
+[AVISO] VOTO §71: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Além disso, os executados não indicaram bem ou meio executivo menos gravoso e igualmente e»
 
 RESULTADO: 0 erro(s), 3 aviso(s). Sem erros bloqueantes; examinar avisos.
