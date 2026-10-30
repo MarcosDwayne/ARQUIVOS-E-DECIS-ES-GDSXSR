@@ -1,0 +1,5 @@
+Classe EMD | parágrafos (versão aceita) 201 | comentários 7 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[INFO] VOTO §96: 2 períodos/43 palavras: separar período conclusivo autônomo (v4)? → «Assim, a constrição permanece até o refazimento dos cálculos e a deliberação do d. Juízo d»
+[AVISO] DISPOSITIVO §116: 69 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Ante o exposto, dou parcial provimento aos embargos de declaração opostos pela exequente, »
+
+RESULTADO: 0 erro(s), 2 aviso(s). Sem erros bloqueantes; examinar avisos.
