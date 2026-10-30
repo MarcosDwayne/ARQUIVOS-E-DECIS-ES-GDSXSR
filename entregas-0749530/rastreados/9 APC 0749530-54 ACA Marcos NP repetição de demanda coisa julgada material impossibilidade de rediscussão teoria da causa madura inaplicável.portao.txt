@@ -1,8 +1,6 @@
-hash original: 4d767b9db07e1178
-Classe APC | parágrafos (versão aceita) 232 | comentários 18 | alterações rastreadas {'ins': 188, 'del': 318, 'pPrChange': 2, 'rPrChange': 17}
-[AVISO] RELATÓRIO §72: números da enumeração das alegações em negrito (C-43) → «Apelo da autora, Jessica Andrade Santos (ID 89917892), em que alega, em síntese, que: 1) a»
-[INFO] VOTO §116: 3 períodos/46 palavras: separar período conclusivo autônomo (v4)? → «A alteração do polo passivo igualmente não descaracteriza a repetição da demanda. A ação a»
-[INFO] VOTO §124: 4 períodos/46 palavras: separar período conclusivo autônomo (v4)? → «A obrigação assumida pela construtora consistia na entrega de determinado imóvel até a dat»
-[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Jurisprudência relevante citada: TJDFT, Acórdão 2126301, AGI 0751176-34.2025.8.07.0000, Re»
+hash original: 3efef3a374edcccd
+Classe APC | parágrafos (versão aceita) 197 | comentários 21 | alterações rastreadas {'ins': 174, 'del': 348, 'pPrChange': 1, 'rPrChange': 18}
+[INFO] VOTO §109: 2 períodos/51 palavras: separar período conclusivo autônomo (v4)? → «Na verdade, a autora busca provar, nesta ação, o inadimplemento que não comprovou na anter»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Jurisprudência relevante citada: TJDFT, Acórdão 2126301, 0751176-34.2025.8.07.0000, Rel. D»
 
-RESULTADO: 0 erro(s), 4 aviso(s). Sem erros bloqueantes; examinar avisos.
+RESULTADO: 0 erro(s), 2 aviso(s). Sem erros bloqueantes; examinar avisos.
