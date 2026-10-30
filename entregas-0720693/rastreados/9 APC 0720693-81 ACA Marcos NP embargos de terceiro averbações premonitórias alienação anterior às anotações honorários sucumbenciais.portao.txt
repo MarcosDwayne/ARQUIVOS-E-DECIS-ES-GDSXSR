@@ -1,0 +1,5 @@
+hash original: 760f91c437b2de7c
+Classe APC | parágrafos (versão aceita) 276 | comentários 19 | alterações rastreadas {'ins': 347, 'del': 441, 'pPrChange': 1, 'rPrChange': 39}
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CPC, arts. 85, § 2º, 485, IV, 674 e 828, § 4º; Lei nº 4.5»
+
+RESULTADO: 0 erro(s), 1 aviso(s). Sem erros bloqueantes; examinar avisos.
