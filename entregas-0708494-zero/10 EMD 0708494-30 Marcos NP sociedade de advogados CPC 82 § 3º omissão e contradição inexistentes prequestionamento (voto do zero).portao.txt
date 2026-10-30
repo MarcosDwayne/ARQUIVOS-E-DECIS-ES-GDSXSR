@@ -1,0 +1,4 @@
+Classe EMD | parágrafos (versão aceita) 228 | comentários 8 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] RELATÓRIO §40: transcrição de ementa com cabeçalho; suprimir com “(...)” (manual 2.3.2, C-62) → «“AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. PREPARO RECURSAL. SOCIED»
+
+RESULTADO: 0 erro(s), 1 aviso(s). Sem erros bloqueantes; examinar avisos.
