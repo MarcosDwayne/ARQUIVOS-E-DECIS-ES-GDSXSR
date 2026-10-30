@@ -1,0 +1,4 @@
+Classe EMD | parágrafos (versão aceita) 131 | comentários 6 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] RELATÓRIO §29: transcrição de ementa com cabeçalho; suprimir com “(...)” (manual 2.3.2, C-62) → «“APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR E DIREITO AERONÁUTICO. TRANSPORTE AÉREO INTERNACION»
+
+RESULTADO: 0 erro(s), 1 aviso(s). Sem erros bloqueantes; examinar avisos.
