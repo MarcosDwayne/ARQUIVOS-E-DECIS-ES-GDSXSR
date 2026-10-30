@@ -1,0 +1,12 @@
+Classe AGI | parágrafos (versão aceita) 117 | comentários 12 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] VOTO §72: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) No caso concreto, embora se reconheça a existência de elementos que, em tese, apont»
+[AVISO] VOTO §73: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Ao contrário, infere-se dos elementos trazidos aos autos que a genitora explicitou as razõ»
+[AVISO] VOTO §74: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Ressalte-se que as questões atinentes à redefinição da guarda, à fixação da residência de »
+[AVISO] VOTO §78: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘Antes da designação de audiência de instrução e julgamento, para a oitiva das partes e da»
+[AVISO] VOTO §82: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) 4. O reiterado descumprimento, pela genitora, de decisão judicial que assegurava a »
+[AVISO] VOTO §83: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) 6. A alteração abrupta da guarda, com mudança de domicílio, exige dilação probatóri»
+[AVISO] VOTO §91: 61 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Dito isso, e não havendo alteração do quadro fático-jurídico delineado nos autos, com a má»
+[INFO] VOTO §91: 5 períodos/61 palavras: separar período conclusivo autônomo (v4)? → «Dito isso, e não havendo alteração do quadro fático-jurídico delineado nos autos, com a má»
+[AVISO] DISPOSITIVO §97: 56 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Ante o exposto, reiteradas as vênias, dou provimento ao agravo de instrumento do autor, F.»
+
+RESULTADO: 0 erro(s), 9 aviso(s). Sem erros bloqueantes; examinar avisos.

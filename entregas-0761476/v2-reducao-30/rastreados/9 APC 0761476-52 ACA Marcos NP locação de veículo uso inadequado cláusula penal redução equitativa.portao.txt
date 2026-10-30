@@ -1,0 +1,62 @@
+hash original: 4149590a8a6e45b5
+Classe APC | parágrafos (versão aceita) 374 | comentários 33 | alterações rastreadas {'ins': 61, 'del': 120, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] EMENTA §19: corpo 13.0 pt (texto editorial = 14) → «Dispositivos relevantes citados: CC 405, 412, 413, 416, 422, 569 I e 570; CDC 6º III e VII»
+[AVISO] EMENTA §20: corpo 13.0 pt (texto editorial = 14) → «Jurisprudência relevante citada: TJDFT, Acórdão 2168364, 0730725-82.2025.8.07.0001, Rel. D»
+[AVISO] RELATÓRIO §118: transcrição deve ser Arial 13 em itálico (C-40) → «"Trata-se de ação declaratória de descumprimento contratual c/c cobrança ajuizada por LOCA»
+[AVISO] RELATÓRIO §118: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"Trata-se de ação declaratória de descumprimento contratual c/c cobrança ajuizada por LOCA»
+[AVISO] RELATÓRIO §119: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Narrou a parte autora ser empresa de locação de veículos que celebrou com a parte ré o con»
+[AVISO] RELATÓRIO §120: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Afirmou que, por meio de seu sistema de monitoramento por telemetria, identificou que o ve»
+[AVISO] RELATÓRIO §121: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Sustentou que o relatório de ofensas registrou 379 infrações de telemetria naquele período»
+[AVISO] RELATÓRIO §122: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Defendeu que a conduta configurou violação das cláusulas 1.22, alíneas 'f' (participação e»
+[AVISO] RELATÓRIO §123: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Aduziu que, nos termos da cláusula 4.7, o uso inadequado autoriza a aplicação de multa não»
+[AVISO] RELATÓRIO §124: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Ao final, requereu a condenação da parte ré ao pagamento de R$ 42.192,20, além de custas p»
+[AVISO] RELATÓRIO §125: transcrição deve ser Arial 13 em itálico (C-40) → «(...) Devidamente citada, a parte ré apresentou contestação do ID 270477722, na qual suste»
+[AVISO] RELATÓRIO §125: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «(...) Devidamente citada, a parte ré apresentou contestação do ID 270477722, na qual suste»
+[AVISO] RELATÓRIO §126: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Alegou ter informado a finalidade da locação à atendente da Localiza no ato da contratação»
+[AVISO] RELATÓRIO §127: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Defendeu que a atividade realizada não se enquadra nas hipóteses vedadas pela cláusula 1.2»
+[AVISO] RELATÓRIO §128: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Sustentou a incidência do Código de Defesa do Consumidor, a abusividade da cláusula penal »
+[AVISO] RELATÓRIO §129: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Subsidiariamente, pugnou pela redução equitativa da multa ao valor das diárias contratadas»
+[AVISO] RELATÓRIO §130: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Ao final, requereu a total improcedência dos pedidos ou, subsidiariamente, a redução da cl»
+[AVISO] RELATÓRIO §131: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «A parte autora apresentou réplica do ID 272728198, na qual reiterou os argumentos da inici»
+[AVISO] RELATÓRIO §132: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Intimadas a especificar provas (ID 272616086), a parte autora requereu o julgamento anteci»
+[AVISO] RELATÓRIO §132: referência (ID 272616086) no meio do período → «Intimadas a especificar provas (ID 272616086), a parte autora requereu o julgamento anteci»
+[AVISO] RELATÓRIO §132: referência (ID 273842235) no meio do período → «Intimadas a especificar provas (ID 272616086), a parte autora requereu o julgamento anteci»
+[AVISO] RELATÓRIO §133: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Vieram os autos conclusos.»
+[AVISO] RELATÓRIO §134: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «É a síntese do necessário." (ID 89759809)»
+[AVISO] RELATÓRIO §138: transcrição deve ser Arial 13 em itálico (C-40) → «"Ante o exposto, julgo PARCIALMENTE PROCEDENTE o pedido, nos termos do inciso I do artigo »
+[AVISO] RELATÓRIO §138: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"Ante o exposto, julgo PARCIALMENTE PROCEDENTE o pedido, nos termos do inciso I do artigo »
+[AVISO] RELATÓRIO §139: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Diante da sucumbência recíproca, condeno as partes ao pagamento de custas processuais e de»
+[AVISO] VOTO §165: subtítulo do voto não centralizado → «DA CONFIGURAÇÃO DO USO INADEQUADO DO VEÍCULO LOCADO»
+[INFO] VOTO §167: 2 períodos/107 palavras: separar período conclusivo autônomo (v4)? → «A ré/apelante alega que: 1) não confessou o descumprimento do contrato, mas apenas admitiu»
+[AVISO] VOTO §178: transcrição deve ser Arial 13 em itálico (C-40) → «"(...) A despeito da inegável relevância institucional do treinamento — promovido por miss»
+[AVISO] VOTO §178: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"(...) A despeito da inegável relevância institucional do treinamento — promovido por miss»
+[AVISO] VOTO §179: transcrição deve ser Arial 13 em itálico (C-40) → «A cláusula 1.22, alínea 'g', proíbe treinar motoristas/condutores 'em qualquer situação', »
+[AVISO] VOTO §179: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «A cláusula 1.22, alínea 'g', proíbe treinar motoristas/condutores 'em qualquer situação', »
+[AVISO] VOTO §184: números da enumeração das alegações em negrito (C-43) → «A interpretação mais favorável ao consumidor (CDC 47) pressupõe cláusula que comporte mais»
+[AVISO] VOTO §184: referência (CDC 47) no meio do período → «A interpretação mais favorável ao consumidor (CDC 47) pressupõe cláusula que comporte mais»
+[AVISO] VOTO §191: referência (ID 89759690 e 89759705) no meio do período → «Na contestação, a ré indicou o nome da preposta, mas, intimada a especificar provas, infor»
+[AVISO] VOTO §194: referência (CDC 6º VIII) no meio do período → «A inversão do ônus da prova (CDC 6º VIII) não socorre a ré, pois a comunicação verbal é fa»
+[INFO] VOTO §200: 2 períodos/52 palavras: separar período conclusivo autônomo (v4)? → «Ao assinar o contrato, a ré aderiu às Condições Gerais, registradas em cartório e disponív»
+[AVISO] VOTO §206: subtítulo do voto não centralizado → «DA VALIDADE DA CLÁUSULA PENAL E DA ADEQUAÇÃO DO VALOR FIXADO»
+[INFO] VOTO §208: 2 períodos/100 palavras: separar período conclusivo autônomo (v4)? → «A ré/apelante alega que: 1) o relatório de telemetria, produzido unilateralmente pela loca»
+[AVISO] VOTO §228: transcrição deve ser Arial 13 em itálico (C-40) → «"(...) sob uma ótica ou outra (CCB 413 ou CDC 51, IV), a abusividade da cláusula, decorren»
+[AVISO] VOTO §228: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"(...) sob uma ótica ou outra (CCB 413 ou CDC 51, IV), a abusividade da cláusula, decorren»
+[AVISO] VOTO §232: transcrição deve ser Arial 13 em itálico (C-40) → «"(...) Primeiro, a desproporção entre o valor da multa e o valor da prestação contratual é»
+[AVISO] VOTO §232: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"(...) Primeiro, a desproporção entre o valor da multa e o valor da prestação contratual é»
+[AVISO] VOTO §233: transcrição deve ser Arial 13 em itálico (C-40) → «(...) Terceiro, o uso inadequado, embora configurado, não decorreu de conduta dolosa ou fr»
+[AVISO] VOTO §233: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «(...) Terceiro, o uso inadequado, embora configurado, não decorreu de conduta dolosa ou fr»
+[AVISO] VOTO §240: subtítulo do voto não centralizado → «DA MANUTENÇÃO DO TERMO INICIAL DA CORREÇÃO MONETÁRIA E DOS JUROS DE MORA»
+[AVISO] VOTO §253: transcrição deve ser Arial 13 em itálico (C-40) → «"(...) 6. A correção monetária desde cada desembolso não tem caráter punitivo. Destina-se »
+[AVISO] VOTO §253: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"(...) 6. A correção monetária desde cada desembolso não tem caráter punitivo. Destina-se »
+[AVISO] VOTO §255: referência (CC 405) no meio do período → «Os juros de mora fluem da citação (CC 405), como fixou a r. sentença e a própria ré admite»
+[AVISO] VOTO §263: subtítulo do voto não centralizado → «DA MANUTENÇÃO DA REDUÇÃO EQUITATIVA DA CLÁUSULA PENAL»
+[AVISO] VOTO §277: referência (CC 416) no meio do período → «A exigência da cláusula penal sem prova de prejuízo (CC 416) não impede o controle do seu »
+[AVISO] VOTO §293: transcrição deve ser Arial 13 em itálico (C-40) → «"(...) 10. A multa contratual equivalente a três aluguéis revela-se manifestamente excessi»
+[AVISO] VOTO §293: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"(...) 10. A multa contratual equivalente a três aluguéis revela-se manifestamente excessi»
+[AVISO] VOTO §294: recuo de 1ª linha 0.0 cm (texto normal: 4 cm, C-41) → «Tese de julgamento: (...)»
+[AVISO] VOTO §295: transcrição deve ser Arial 13 em itálico (C-40) → «3. A cláusula penal contratual pode ser reduzida equitativamente pelo juiz quando o montan»
+[AVISO] VOTO §295: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «3. A cláusula penal contratual pode ser reduzida equitativamente pelo juiz quando o montan»
+[ERRO] DISPOSITIVO §297: título DISPOSITIVO sem negrito
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «"(...) A parte ré não nega que o veículo foi empregado em treinamento de condutores. Ao co»
+
+RESULTADO: 1 erro(s), 57 aviso(s). REPROVADO

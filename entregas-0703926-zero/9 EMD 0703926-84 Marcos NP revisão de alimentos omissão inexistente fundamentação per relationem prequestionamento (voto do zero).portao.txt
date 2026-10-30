@@ -1,0 +1,9 @@
+Classe EMD | parágrafos (versão aceita) 326 | comentários 6 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] RELATÓRIO §41: transcrição de ementa com cabeçalho; suprimir com “(...)” (manual 2.3.2, C-62) → «“APELAÇÃO CÍVEL. DIREITO DE FAMÍLIA. REVISÃO DE ALIMENTOS. PRELIMINARES REJEITADAS DE CERC»
+[AVISO] VOTO §81: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) Não merece prosperar a alegação do apelante de cerceamento de defesa. Na solução do»
+[AVISO] VOTO §111: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) Ressalte-se que o benefício é conferido à parte e não ao seu representante legal, e»
+[AVISO] VOTO §113: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) Nos termos da jurisprudência do Superior Tribunal de Justiça, a condição econômica »
+[AVISO] VOTO §137: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) No caso concreto, restou comprovado o incremento das necessidades do alimentando, t»
+[AVISO] VOTO §140: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) Além disso, as verbas eventuais que ostentam natureza remuneratória, por recompensa»
+
+RESULTADO: 0 erro(s), 6 aviso(s). Sem erros bloqueantes; examinar avisos.
