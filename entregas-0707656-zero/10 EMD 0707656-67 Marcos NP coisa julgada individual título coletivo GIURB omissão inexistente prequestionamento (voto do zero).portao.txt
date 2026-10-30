@@ -1,0 +1,7 @@
+Classe EMD | parágrafos (versão aceita) 276 | comentários 7 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] VOTO §100: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «DA INEXISTÊNCIA DE CONTRADIÇÃO E DE OMISSÃO QUANTO AO ART. 104 DO CDC E À EFICÁCIA DO TÍTU»
+[AVISO] VOTO §114: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘Art. 104. As ações coletivas, previstas nos incisos I e II e do parágrafo único do art. 8»
+[AVISO] VOTO §144: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) Da análise das decisões proferidas nesta ação individual verifica-se que, de fato, »
+[AVISO] VOTO §145: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «No caso da ação individual, todavia, o pedido foi indeferido, já havendo trânsito em julga»
+
+RESULTADO: 0 erro(s), 4 aviso(s). Sem erros bloqueantes; examinar avisos.
