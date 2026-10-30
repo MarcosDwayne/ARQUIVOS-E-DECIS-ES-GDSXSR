@@ -1,0 +1,5 @@
+Classe EMD | parágrafos (versão aceita) 235 | comentários 7 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] RELATÓRIO §43: transcrição de ementa com cabeçalho; suprimir com “(...)” (manual 2.3.2, C-62) → «“AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL E EMPRESARIAL. CUMPRIMENTO DE SENTENÇA. I»
+[AVISO] VOTO §83: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) a continuidade da atividade econômica no mesmo ponto comercial, com preservação do »
+
+RESULTADO: 0 erro(s), 2 aviso(s). Sem erros bloqueantes; examinar avisos.
