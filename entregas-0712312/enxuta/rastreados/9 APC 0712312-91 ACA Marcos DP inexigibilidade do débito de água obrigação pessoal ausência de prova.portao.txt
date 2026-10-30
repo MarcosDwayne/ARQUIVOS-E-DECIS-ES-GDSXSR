@@ -1,0 +1,6 @@
+hash original: f3b78e0915ffc455
+Classe APC | parágrafos (versão aceita) 185 | comentários 23 | alterações rastreadas {'ins': 59, 'del': 160, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] RELATÓRIO §76: referência (ID 89370579) no meio do período → «A ré/apelada opôs embargos de declaração (ID 89370579), os quais foram rejeitados (ID 8937»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Jurisprudência relevante citada: TJDFT, Acórdão 2167028, 0738186-08.2025.8.07.0001, Rel. D»
+
+RESULTADO: 0 erro(s), 2 aviso(s). Sem erros bloqueantes; examinar avisos.

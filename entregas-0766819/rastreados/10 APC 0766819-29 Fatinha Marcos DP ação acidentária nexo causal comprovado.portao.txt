@@ -1,0 +1,11 @@
+hash original: 0a90d5301575ba93
+Classe APC | parágrafos (versão aceita) 199 | comentários 29 | alterações rastreadas {'ins': 122, 'del': 151, 'pPrChange': 7, 'rPrChange': 45}
+[AVISO] EMENTA §20: corpo 13.0 pt (texto editorial = 14) → «Dispositivos relevantes citados: CPC 85 § 3º I e § 4º II; CPC 485 IV; CPC 1.013 § 3º I; Le»
+[AVISO] EMENTA §21: corpo 13.0 pt (texto editorial = 14) → «Jurisprudência relevante citada: STJ, REsp nº 1.352.721/SP, Rel. Min. Napoleão Nunes Maia »
+[AVISO] RELATÓRIO §55: números da enumeração das alegações em negrito (C-43) → «Apelo do autor, JEIMISON DA SILVA (ID 90644197), em que alega, em síntese, que: 1) a sente»
+[AVISO] VOTO §79: números da enumeração das alegações em negrito (C-43) → «O autor/apelante alega que: 1) a sentença desconsiderou indevidamente a conclusão do laudo»
+[INFO] VOTO §136: 2 períodos/49 palavras: separar período conclusivo autônomo (v4)? → «O relatório médico particular registrou que “o periciando apresenta um quadro de sequelas »
+[AVISO] DISPOSITIVO §155: 159 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Ante o exposto, reiteradas as vênias, dou provimento ao apelo do autor, JEIMISON DA SILVA,»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «“(...) Para fins de concessão de benefício acidentário, necessária a presença de nexo caus»
+
+RESULTADO: 0 erro(s), 7 aviso(s). Sem erros bloqueantes; examinar avisos.

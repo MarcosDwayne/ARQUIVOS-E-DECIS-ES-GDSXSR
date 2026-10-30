@@ -1,0 +1,7 @@
+Classe AGI | parágrafos (versão aceita) 139 | comentários 9 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[INFO] VOTO §72: 2 períodos/47 palavras: separar período conclusivo autônomo (v4)? → «O comprovante foi certificado pelo sistema do Tribunal e juntado aos autos de origem, em q»
+[INFO] VOTO §86: 2 períodos/47 palavras: separar período conclusivo autônomo (v4)? → «O acórdão do agravo anterior, transitado em julgado, reconheceu que a recomposição da rese»
+[AVISO] VOTO §96: 59 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «O laudo complementar 3, ao contrário, considerou a reserva matemática passada igual às par»
+[INFO] VOTO §96: 2 períodos/59 palavras: separar período conclusivo autônomo (v4)? → «O laudo complementar 3, ao contrário, considerou a reserva matemática passada igual às par»
+
+RESULTADO: 0 erro(s), 4 aviso(s). Sem erros bloqueantes; examinar avisos.
