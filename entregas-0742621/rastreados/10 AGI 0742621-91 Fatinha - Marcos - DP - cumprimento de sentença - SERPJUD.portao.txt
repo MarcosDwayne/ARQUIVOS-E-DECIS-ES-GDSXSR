@@ -1,0 +1,11 @@
+hash original: 7dda9e15db71a530
+Classe AGI | parágrafos (versão aceita) 119 | comentários 18 | alterações rastreadas {'ins': 51, 'del': 63, 'pPrChange': 5, 'rPrChange': 72}
+[AVISO] VOTO §54: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «AGRAVO DE INSTRUMENTO DOS EXEQUENTES, DF PLAZA LTDA., MEDEIROS ADVOGADOS ASSOCIADOS S/S, A»
+[AVISO] VOTO §71: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) 2. O Sistema Eletrônico dos Registros Públicos do Poder Judiciário - SERP-JUD, em f»
+[AVISO] VOTO §72: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «3. Na hipótese, diante da dificuldade enfrentada pelo credor em encontrar bens passíveis d»
+[AVISO] VOTO §73: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) 3. O SERP-JUD, instituído pela Lei nº 14.382/2022 e regulamentado por atos do CNJ, »
+[INFO] VOTO §80: 2 períodos/46 palavras: separar período conclusivo autônomo (v4)? → «Dessa forma, com a mais elevada vênia ao d. Juízo a quo, e não havendo alteração do quadro»
+[AVISO] DISPOSITIVO §84: 65 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Ante o exposto, reiteradas as vênias, dou provimento ao agravo de instrumento dos exequent»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Jurisprudência relevante citada: TJDFT, Acórdão nº 1983548, Agravo de Instrumento nº 07516»
+
+RESULTADO: 0 erro(s), 7 aviso(s). Sem erros bloqueantes; examinar avisos.
