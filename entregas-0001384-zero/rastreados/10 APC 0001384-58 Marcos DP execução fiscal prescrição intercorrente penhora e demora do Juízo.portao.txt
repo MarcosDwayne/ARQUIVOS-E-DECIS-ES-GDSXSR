@@ -1,0 +1,6 @@
+hash original: 5fa055f7db48bf5d
+Classe APC | parágrafos (versão aceita) 171 | comentários 18 | alterações rastreadas {'ins': 16, 'del': 17, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] EMENTA §18: corpo 13.0 pt (texto editorial = 14) → «Dispositivos relevantes citados: CPC 487 II e 932 III; Lei 6.830/1980 40, caput e §§ 2º e »
+[AVISO] EMENTA §19: corpo 13.0 pt (texto editorial = 14) → «Jurisprudência relevante citada: STJ, Súmula nº 106; STJ, REsp nº 1.340.553/RS, Rel. Min. »
+
+RESULTADO: 0 erro(s), 2 aviso(s). Sem erros bloqueantes; examinar avisos.
