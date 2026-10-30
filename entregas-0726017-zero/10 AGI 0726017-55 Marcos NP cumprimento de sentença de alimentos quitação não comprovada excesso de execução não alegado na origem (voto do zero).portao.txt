@@ -1,4 +1,4 @@
-Classe AGI | parágrafos (versão aceita) 145 | comentários 11 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+Classe AGI | parágrafos (versão aceita) 147 | comentários 11 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
 [AVISO] VOTO §68: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) 7) De início, consigne que não há controvérsia acerca do valor da pensão mensal apo»
 [AVISO] VOTO §69: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «8) Além disso, verifica-se que a controvérsia instaurada não diz respeito aos valores desc»
 [AVISO] VOTO §70: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «9) Nesse contexto, observa-se que a exequente trouxe aos autos sentença proferida em recla»
