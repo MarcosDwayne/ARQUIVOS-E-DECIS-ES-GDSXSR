@@ -1,0 +1,4 @@
+Classe EMD | parágrafos (versão aceita) 264 | comentários 6 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[AVISO] RELATÓRIO §39: transcrição de ementa com cabeçalho; suprimir com “(...)” (manual 2.3.2, C-62) → «“AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. IPTU. EXCEÇÃO DE PRÉ-EXECUTIV»
+
+RESULTADO: 0 erro(s), 1 aviso(s). Sem erros bloqueantes; examinar avisos.
