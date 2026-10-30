@@ -1,0 +1,8 @@
+hash original: d8c35a872bb91a27
+Classe APC | parágrafos (versão aceita) 155 | comentários 22 | alterações rastreadas {'ins': 173, 'del': 258, 'pPrChange': 3, 'rPrChange': 57}
+[AVISO] RELATÓRIO §52: transcrição deve ser Arial 13 em itálico (C-40) → «Por fim, anoto que as partes foram intimadas a se manifestarem sobre a prescrição (id. 262»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CPC, arts. 921, III e § 5º, e 924, V; CC, art. 206, § 3º,»
+
+RESULTADO: 0 erro(s), 2 aviso(s). Sem erros bloqueantes; examinar avisos.
+
+Justificativas (rodada 2): aviso do relatório (ID 89383872 fora da transcrição) preexistente; rodapé "Dispositivos relevantes citados" reescrito de propósito (C-33). Contagem sobre a versão da rodada 1: voto (de VOTO a "É como voto.") 634 -> 421 palavras (-34%); ementa (de EMENTA ao RESUMO) 369 -> 290 (-21%).
