@@ -1,0 +1,8 @@
+hash original: ebb6a6e5975ef361
+[AVISO] VOTO §90: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) No caso dos autos verifico a impossibilidade de cumprimento da ob
+[AVISO] VOTO §91: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Diante disso, razão assiste à parte exequente quanto à obrigação de r
+[AVISO] VOTO §92: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «(...) Ante tudo o quanto expus, indefiro os requerimentos formulados ela e
+[AVISO] VOTO §93: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Por derradeiro, tendo sido demonstrado o descumprimento da decisão que de
+[AVISO] DISPOSITIVO §114: 89 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Ante o exposto, reiteradas as vênias, dou parcial provi
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes ci
+RESULTADO: 0 erro(s), 6 aviso(s). Sem erros bloqueantes; examinar avisos.
