@@ -1,0 +1,7 @@
+hash original: 8df0bed0654771aa
+Classe APC | parágrafos (versão aceita) 183 | comentários 25 | alterações rastreadas {'ins': 160, 'del': 176, 'pPrChange': 1, 'rPrChange': 29}
+[AVISO] VOTO §95: números da enumeração das alegações em negrito (C-43) → «A autora/apelante alega que: 1) com a impugnação da contratação, incumbia ao apelado compr»
+[AVISO] ANEXO §0: 24 parágrafo(s) da decisão anexada fora da cor verde 00B050 (C-45)
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CDC, arts. 6º, VIII, e 14; CPC, art. 373, II; CC, art. 18»
+
+RESULTADO: 0 erro(s), 3 aviso(s). Sem erros bloqueantes; examinar avisos.
