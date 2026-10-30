@@ -1,0 +1,8 @@
+hash original: bbbc736217aa3c23
+Classe APC | parágrafos (versão aceita) 387 | comentários 41 | alterações rastreadas {'ins': 299, 'del': 275, 'pPrChange': 34, 'rPrChange': 159}
+[ERRO] DISPOSITIVO §378: título DISPOSITIVO sem negrito
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CC, arts. 50, caput e § 1º, 389, parágrafo único, 406 e 4»
+
+RESULTADO: 1 erro(s), 1 aviso(s). REPROVADO
+
+JUSTIFICATIVAS (revisor): (1) ERRO "título DISPOSITIVO sem negrito" §378 está no anexo da sentença recorrida em verde (C-45), que não se altera; o DISPOSITIVO do voto está em negrito e centralizado. O mesmo erro existia no original. (2) AVISO de transcrição §0: é a linha "Dispositivos relevantes citados" da ementa, reescrita no formato compacto (C-20) com inclusão do art. 1.012 caput e do Tema 1.210/STJ; não é transcrição de peça.

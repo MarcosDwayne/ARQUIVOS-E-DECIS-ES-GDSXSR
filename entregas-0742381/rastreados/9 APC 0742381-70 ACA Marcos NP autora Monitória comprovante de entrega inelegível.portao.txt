@@ -1,0 +1,10 @@
+hash original: 324d49f55cc559f4
+Classe APC | parágrafos (versão aceita) 140 | comentários 26 | alterações rastreadas {'ins': 206, 'del': 263, 'pPrChange': 1, 'rPrChange': 39}
+[AVISO] RELATÓRIO §55: referência (ID 89108687) no meio do período → «A autora, Florence Industrial e Comercial Ltda., opôs embargos de declaração (ID 89108687)»
+[AVISO] VOTO §77: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «DA MANUTENÇÃO DA EXCLUSÃO DA DUPLICATA Nº 04 POR FALTA DE PROVA IDÔNEA DA ENTREGA»
+[ERRO] DISPOSITIVO §133: título DISPOSITIVO sem negrito
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CPC, art. 373, I, 700 e 85, § 11.»
+
+RESULTADO: 1 erro(s), 3 aviso(s). REPROVADO
+
+JUSTIFICATIVAS (revisor): (1) ERRO "título DISPOSITIVO sem negrito" §133 está no anexo da sentença recorrida em verde (C-45), que não se altera; o DISPOSITIVO do voto está em negrito e centralizado. (2) AVISO ID no meio do período no relatório §55: fórmula fixa do relatório ("opôs embargos de declaração (ID …), os quais foram rejeitados (ID …)"), que não se desloca (C-20). (3) AVISO recuo do §77: é o título do capítulo (Heading), sem recuo de 1ª linha (C-41). (4) AVISO "transcrição alterada": rodapé "Dispositivos relevantes citados" da ementa, passado à forma compacta (C-20). 2ª rodada (30/10/2026): voto −35% e ementa −24% (palavras, medidas sobre a versão aceita da 1ª rodada); IDs, datas, juiz/vara, preparo e precedente do STJ invocado pelo apelo (REsp 1994370/SP) conferidos nos autos. Pendências em comentário (C-52): número do acórdão 1906820 e DJe 27/08/2024 (JurisDF); dados do REsp 1994370/SP só pela transcrição do apelo (iajus e web não o localizaram); divergência de cadastro do apelado na capa do 2º grau (C.A.S Apoio Administrativo Ltda.).

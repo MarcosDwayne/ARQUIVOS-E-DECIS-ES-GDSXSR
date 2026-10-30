@@ -1,0 +1,65 @@
+hash original: 24bb21dbf41d3e02
+Classe APC | parágrafos (versão aceita) 396 | comentários 30 | alterações rastreadas {'ins': 94, 'del': 128, 'pPrChange': 2, 'rPrChange': 32}
+[AVISO] RELATÓRIO §118: transcrição deve ser Arial 13 em itálico (C-40) → «"Trata-se de ação declaratória de descumprimento contratual c/c cobrança ajuizada por LOCA»
+[AVISO] RELATÓRIO §118: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"Trata-se de ação declaratória de descumprimento contratual c/c cobrança ajuizada por LOCA»
+[AVISO] RELATÓRIO §119: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Narrou a parte autora ser empresa de locação de veículos que celebrou com a parte ré o con»
+[AVISO] RELATÓRIO §120: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Afirmou que, por meio de seu sistema de monitoramento por telemetria, identificou que o ve»
+[AVISO] RELATÓRIO §121: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Sustentou que o relatório de ofensas registrou 379 infrações de telemetria naquele período»
+[AVISO] RELATÓRIO §122: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Defendeu que a conduta configurou violação das cláusulas 1.22, alíneas 'f' (participação e»
+[AVISO] RELATÓRIO §123: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Aduziu que, nos termos da cláusula 4.7, o uso inadequado autoriza a aplicação de multa não»
+[AVISO] RELATÓRIO §124: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Ao final, requereu a condenação da parte ré ao pagamento de R$ 42.192,20, além de custas p»
+[AVISO] RELATÓRIO §125: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «(...) Devidamente citada, a parte ré apresentou contestação do ID 270477722, na qual suste»
+[AVISO] RELATÓRIO §126: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Alegou ter informado a finalidade da locação à atendente da Localiza no ato da contratação»
+[AVISO] RELATÓRIO §127: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Defendeu que a atividade realizada não se enquadra nas hipóteses vedadas pela cláusula 1.2»
+[AVISO] RELATÓRIO §128: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Sustentou a incidência do Código de Defesa do Consumidor, a abusividade da cláusula penal »
+[AVISO] RELATÓRIO §129: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Subsidiariamente, pugnou pela redução equitativa da multa ao valor das diárias contratadas»
+[AVISO] RELATÓRIO §130: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Ao final, requereu a total improcedência dos pedidos ou, subsidiariamente, a redução da cl»
+[AVISO] RELATÓRIO §131: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «A parte autora apresentou réplica do ID 272728198, na qual reiterou os argumentos da inici»
+[AVISO] RELATÓRIO §132: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Intimadas a especificar provas (ID 272616086), a parte autora requereu o julgamento anteci»
+[AVISO] RELATÓRIO §132: referência (ID 272616086) no meio do período → «Intimadas a especificar provas (ID 272616086), a parte autora requereu o julgamento anteci»
+[AVISO] RELATÓRIO §132: referência (ID 273842235) no meio do período → «Intimadas a especificar provas (ID 272616086), a parte autora requereu o julgamento anteci»
+[AVISO] RELATÓRIO §133: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Vieram os autos conclusos.»
+[AVISO] RELATÓRIO §134: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «É a síntese do necessário." (ID 89759809)»
+[AVISO] RELATÓRIO §138: transcrição deve ser Arial 13 em itálico (C-40) → «"Ante o exposto, julgo PARCIALMENTE PROCEDENTE o pedido, nos termos do inciso I do artigo »
+[AVISO] RELATÓRIO §138: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"Ante o exposto, julgo PARCIALMENTE PROCEDENTE o pedido, nos termos do inciso I do artigo »
+[AVISO] RELATÓRIO §139: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Diante da sucumbência recíproca, condeno as partes ao pagamento de custas processuais e de»
+[AVISO] VOTO §165: subtítulo do voto não centralizado → «DA CONFIGURAÇÃO DO USO INADEQUADO DO VEÍCULO LOCADO»
+[AVISO] VOTO §179: transcrição deve ser Arial 13 em itálico (C-40) → «"(...) A parte ré não nega que o veículo foi empregado em treinamento de condutores. Ao co»
+[AVISO] VOTO §179: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"(...) A parte ré não nega que o veículo foi empregado em treinamento de condutores. Ao co»
+[AVISO] VOTO §180: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «A despeito da inegável relevância institucional do treinamento — promovido por missões dip»
+[AVISO] VOTO §181: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «A cláusula 1.22, alínea 'g', proíbe treinar motoristas/condutores 'em qualquer situação', »
+[AVISO] VOTO §182: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Nesse descortino, consigno que o relatório de telemetria do ID 256932279, embora produzido»
+[AVISO] VOTO §182: 75 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Nesse descortino, consigno que o relatório de telemetria do ID 256932279, embora produzido»
+[INFO] VOTO §182: 2 períodos/75 palavras: separar período conclusivo autônomo (v4)? → «Nesse descortino, consigno que o relatório de telemetria do ID 256932279, embora produzido»
+[AVISO] VOTO §183: transcrição deve ser Arial 13 em itálico (C-40) → «Os dados de telemetria (379 ofensas em 2 horas, todas geolocalizadas no CETESP/PMDF) apena»
+[AVISO] VOTO §183: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «Os dados de telemetria (379 ofensas em 2 horas, todas geolocalizadas no CETESP/PMDF) apena»
+[AVISO] VOTO §189: números da enumeração das alegações em negrito (C-43) → «A interpretação mais favorável ao consumidor (CDC 47) pressupõe cláusula que comporte mais»
+[AVISO] VOTO §189: referência (CDC 47) no meio do período → «A interpretação mais favorável ao consumidor (CDC 47) pressupõe cláusula que comporte mais»
+[AVISO] VOTO §203: referência (CDC 6º VIII) no meio do período → «A inversão do ônus da prova (CDC 6º VIII) não socorre a ré nesse ponto.»
+[AVISO] VOTO §219: subtítulo do voto não centralizado → «DA VALIDADE DA CLÁUSULA PENAL E DA ADEQUAÇÃO DO VALOR FIXADO»
+[AVISO] VOTO §243: transcrição deve ser Arial 13 em itálico (C-40) → «"(...) sob uma ótica ou outra (CCB 413 ou CDC 51, IV), a abusividade da cláusula, decorren»
+[AVISO] VOTO §243: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"(...) sob uma ótica ou outra (CCB 413 ou CDC 51, IV), a abusividade da cláusula, decorren»
+[AVISO] VOTO §244: transcrição deve ser Arial 13 em itálico (C-40) → «3. Portanto, a redução para 3% (=R$ 38.053,41) mostra-se adequada às peculiaridades do cas»
+[AVISO] VOTO §244: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «3. Portanto, a redução para 3% (=R$ 38.053,41) mostra-se adequada às peculiaridades do cas»
+[AVISO] VOTO §248: transcrição deve ser Arial 13 em itálico (C-40) → «"(...) Primeiro, a desproporção entre o valor da multa e o valor da prestação contratual é»
+[AVISO] VOTO §248: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"(...) Primeiro, a desproporção entre o valor da multa e o valor da prestação contratual é»
+[AVISO] VOTO §249: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «Segundo, o veículo foi devolvido sem danos aparentes. A parte autora não juntou o laudo de»
+[AVISO] VOTO §249: 'restar' por 'estar' (manual) → «Segundo, o veículo foi devolvido sem danos aparentes. A parte autora não juntou o laudo de»
+[AVISO] VOTO §249: 76 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Segundo, o veículo foi devolvido sem danos aparentes. A parte autora não juntou o laudo de»
+[INFO] VOTO §249: 4 períodos/76 palavras: separar período conclusivo autônomo (v4)? → «Segundo, o veículo foi devolvido sem danos aparentes. A parte autora não juntou o laudo de»
+[AVISO] VOTO §250: transcrição deve ser Arial 13 em itálico (C-40) → «Terceiro, o uso inadequado, embora configurado, não decorreu de conduta dolosa ou fraudule»
+[AVISO] VOTO §250: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «Terceiro, o uso inadequado, embora configurado, não decorreu de conduta dolosa ou fraudule»
+[AVISO] VOTO §258: subtítulo do voto não centralizado → «DA MANUTENÇÃO DO TERMO INICIAL DA CORREÇÃO MONETÁRIA E DOS JUROS DE MORA»
+[AVISO] VOTO §274: transcrição deve ser Arial 13 em itálico (C-40) → «"(...) 6. A correção monetária desde cada desembolso não tem caráter punitivo. Destina-se »
+[AVISO] VOTO §274: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"(...) 6. A correção monetária desde cada desembolso não tem caráter punitivo. Destina-se »
+[AVISO] VOTO §276: referência (CC 405) no meio do período → «Quanto aos juros de mora, a r. sentença os fixou a partir da citação (CC 405), termo que a»
+[AVISO] VOTO §284: subtítulo do voto não centralizado → «DA MANUTENÇÃO DA REDUÇÃO EQUITATIVA DA CLÁUSULA PENAL»
+[AVISO] VOTO §298: referência (CC 416) no meio do período → «A exigência da cláusula penal sem prova de prejuízo (CC 416) não impede o controle do seu »
+[AVISO] VOTO §314: transcrição deve ser Arial 13 em itálico (C-40) → «"(...) 10. A multa contratual equivalente a três aluguéis revela-se manifestamente excessi»
+[AVISO] VOTO §314: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «"(...) 10. A multa contratual equivalente a três aluguéis revela-se manifestamente excessi»
+[AVISO] VOTO §315: recuo de 1ª linha 0.0 cm (texto normal: 4 cm, C-41) → «Tese de julgamento: (...)»
+[AVISO] VOTO §316: transcrição deve ser Arial 13 em itálico (C-40) → «3. A cláusula penal contratual pode ser reduzida equitativamente pelo juiz quando o montan»
+[AVISO] VOTO §316: transcrição com recuo esquerdo None cm (padrão 4 cm, C-41) → «3. A cláusula penal contratual pode ser reduzida equitativamente pelo juiz quando o montan»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CC, arts. 405, 413 e 416; CPC, art. 373, II; CDC, art. 47»
+
+RESULTADO: 0 erro(s), 61 aviso(s). Sem erros bloqueantes; examinar avisos.
