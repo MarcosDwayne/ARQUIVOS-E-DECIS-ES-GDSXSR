@@ -1,0 +1,7 @@
+hash original: d4f277d4482d7672
+Classe APC | parágrafos (versão aceita) 211 | comentários 51 | alterações rastreadas {'ins': 67, 'del': 49, 'pPrChange': 0, 'rPrChange': 49}
+[AVISO] EMENTA §21: corpo 13.0 pt (texto editorial = 14) → «Dispositivos relevantes citados: CC 186 e 927; CPC 85 § 11, 98 § 3º e 1.010 II e III; LGPD»
+[AVISO] ANEXO §0: 6 parágrafo(s) da decisão anexada fora da cor verde 00B050 (C-45)
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Jurisprudência relevante citada: STJ, ProRQF no REsp nº 2.276.480/RS, Rel. Min. Ricardo Vi»
+
+RESULTADO: 0 erro(s), 3 aviso(s). Sem erros bloqueantes; examinar avisos.
