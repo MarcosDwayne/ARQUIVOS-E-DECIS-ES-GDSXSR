@@ -1,0 +1,9 @@
+[AVISO] RELATÓRIO §82: referência (ID 91139278) no meio do período → «A autora, Cofaban Comércio de Alimentos Ltda – EPP, opôs embargos de declaração (ID 911392»
+[AVISO] VOTO §132: transcrição deve ser Arial 13 em itálico (C-40) → «Dispõe o CC 206 § 3º IV:»
+[AVISO] VOTO §146: números da enumeração das alegações em negrito (C-43) → «A ré/apelante alega que: 1) a autora aderiu voluntariamente ao plano coletivo e não pode q»
+[AVISO] VOTO §184: transcrição deve ser Arial 13 em itálico (C-40) → «No Tema Repetitivo 1.016, o c. STJ estendeu essas teses aos planos coletivos:»
+[ERRO] DISPOSITIVO §280: título DISPOSITIVO sem negrito
+[AVISO] ANEXO §0: 22 parágrafo(s) da decisão anexada fora da cor verde 00B050 (C-45)
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CDC, arts. 6º, V, e 42, parágrafo único; CC, art. 884; CP»
+RESULTADO: 1 erro(s), 7 aviso(s). REPROVADO
+Justificativas: ERRO DISPOSITIVO §280 = título 'DISPOSITIVO' da sentença anexa (não alterada, C-04); AVISO ANEXO = trechos marrons 993300 da sentença (C-45 permite); §82 e §158 = fórmula fixa/ID ao fim do período; §132/§184 = frases de introdução, não transcrição; §146/§170 = '1)'..'5)' estão em negrito (runs separados) e '16)' é falso positivo; TRANSCRIÇÃO §0 = rodapé da ementa em forma compacta (C-20).
