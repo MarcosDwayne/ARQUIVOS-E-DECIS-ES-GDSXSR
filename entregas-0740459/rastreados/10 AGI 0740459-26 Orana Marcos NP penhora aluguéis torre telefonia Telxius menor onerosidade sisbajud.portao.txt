@@ -1,0 +1,7 @@
+hash original: 4380db68c6bc3038
+Classe AGI | parágrafos (versão aceita) 163 | comentários 25 | alterações rastreadas {'ins': 33, 'del': 26, 'pPrChange': 2, 'rPrChange': 34}
+[AVISO] VOTO §105: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Art. 867. O juiz pode ordenar a penhora de frutos e rendimentos de coisa móvel ou imóvel q»
+[INFO] VOTO §111: 2 períodos/46 palavras: separar período conclusivo autônomo (v4)? → «Após as contrarrazões, o quadro não se alterou. O agravante não juntou documento algum sob»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Jurisprudência relevante citada: TJDFT, Acórdão nº 1847172, Agravo de Instrumento nº 07017»
+
+RESULTADO: 0 erro(s), 3 aviso(s). Sem erros bloqueantes; examinar avisos.
