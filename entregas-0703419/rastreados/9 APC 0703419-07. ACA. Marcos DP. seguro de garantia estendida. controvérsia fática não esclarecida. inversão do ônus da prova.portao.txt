@@ -1,0 +1,9 @@
+hash original: be04cc225883d4d6
+hash original: be04cc225883d4d6
+Classe APC | parágrafos (versão aceita) 162 | comentários 16 | alterações rastreadas {'ins': 217, 'del': 350, 'pPrChange': 1, 'rPrChange': 181}
+[AVISO] ANEXO §0: 1 parágrafo(s) da decisão anexada fora da cor verde 00B050 (C-45)
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CDC, arts. 6º, VIII, e 12, § 3º, III; CPC, arts. 370 e 46»
+
+RESULTADO: 0 erro(s), 2 aviso(s). Sem erros bloqueantes; examinar avisos.
+
+Justificativa dos avisos: (1) ANEXO: o único parágrafo sem verde é a anotação do assessor 'NÃO HÁ PARECER DO MP.', fora da decisão anexada; (2) TRANSCRIÇÃO: o parágrafo apontado é o rodapé 'Dispositivos relevantes citados' da ementa, ajustado ao voto (C-33); não há transcrição alterada.
