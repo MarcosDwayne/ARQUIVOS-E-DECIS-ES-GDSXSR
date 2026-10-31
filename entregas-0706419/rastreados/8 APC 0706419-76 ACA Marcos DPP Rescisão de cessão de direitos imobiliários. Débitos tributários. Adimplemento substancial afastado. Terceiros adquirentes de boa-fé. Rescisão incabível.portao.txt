@@ -1,0 +1,10 @@
+hash original: 0504390494f20663
+Classe APC | parágrafos (versão aceita) 333 | comentários 22 | alterações rastreadas {'ins': 441, 'del': 608, 'pPrChange': 6, 'rPrChange': 109}
+[AVISO] RELATÓRIO §111: números da enumeração das alegações em negrito (C-43) → «Contrarrazões (ID 85996341), em que o réu/apelado, Odair Alves Junior, suscita, em prelimi»
+[AVISO] RELATÓRIO §115: referência (ID 87239985) no meio do período → «Intimada a parte apelante para se manifestar sobre a preliminar suscitada em contrarrazões»
+[AVISO] VOTO §155: referência (ID 58110216) no meio do período → «Os documentos mostram que o apelante agendou atendimento para o REFIS-DF 2020 apenas em 15»
+[AVISO] DISPOSITIVO §263: 74 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Ante o exposto, rejeito a preliminar de ausência de dialeticidade, não conheço do apelo qu»
+[AVISO] DISPOSITIVO §265: referência (CPC 98 § 3º) no meio do período → «Mantenho os ônus da sucumbência fixados na sentença, com exigibilidade suspensa pela conce»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Jurisprudência relevante citada: STJ, REsp 1.581.505/SC, Rel. Min. Antônio Carlos Ferreira»
+
+RESULTADO: 0 erro(s), 6 aviso(s). Sem erros bloqueantes; examinar avisos.
