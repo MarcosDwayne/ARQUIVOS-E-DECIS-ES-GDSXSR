@@ -1,0 +1,6 @@
+hash original: dda818ef6dfad40c
+Classe APC | parágrafos (versão aceita) 217 | comentários 62 | alterações rastreadas {'ins': 134, 'del': 93, 'pPrChange': 2, 'rPrChange': 9}
+[AVISO] VOTO §93: recuo de 1ª linha None cm (texto normal: 4 cm, C-41) → «DA AUSÊNCIA DE PROVA DE MÁ GESTÃO DA CONTA PASEP E DA LEGITIMIDADE DO AFASTAMENTO MOTIVADO»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CPC, arts. 371, 373, I, 479, 996 e 1.010, II e III; Lei n»
+
+RESULTADO: 0 erro(s), 2 aviso(s). Sem erros bloqueantes; examinar avisos.
