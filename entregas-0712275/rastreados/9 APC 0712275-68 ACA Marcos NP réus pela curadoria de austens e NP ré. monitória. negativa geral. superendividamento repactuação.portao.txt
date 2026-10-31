@@ -1,0 +1,6 @@
+hash original: 39699bd0b8a29109
+Classe APC | parágrafos (versão aceita) 229 | comentários 18 | alterações rastreadas {'ins': 234, 'del': 303, 'pPrChange': 2, 'rPrChange': 37}
+[AVISO] RELATÓRIO §75: números da enumeração das alegações em negrito (C-43) → «Apelo da ré, Ednalva Rodrigues Vieira (ID 88844072), em que alega, em síntese, que: 1) a r»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CPC, arts. 85, § 11, 98, 355, I, 487, I, 700 e 702, § 2º;»
+
+RESULTADO: 0 erro(s), 2 aviso(s). Sem erros bloqueantes; examinar avisos.

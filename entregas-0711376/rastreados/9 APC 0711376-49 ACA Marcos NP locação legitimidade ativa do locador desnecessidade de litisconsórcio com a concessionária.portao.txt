@@ -1,0 +1,7 @@
+hash original: f842466acd840947
+Classe APC | parágrafos (versão aceita) 258 | comentários 16 | alterações rastreadas {'ins': 207, 'del': 319, 'pPrChange': 2, 'rPrChange': 26}
+[INFO] VOTO §95: subtítulo de capítulo realçado em amarelo (C-42) → «DA REJEIÇÃO DA PRELIMINAR DE ILEGITIMIDADE ATIVA»
+[INFO] VOTO §123: subtítulo de capítulo realçado em amarelo (C-42) → «DA DESNECESSIDADE DE INCLUSÃO DA CAESB NO POLO PASSIVO»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «“(...) 1. A legitimidade ativa, em ações de cobrança, decorre da titularidade do crédito a»
+
+RESULTADO: 0 erro(s), 3 aviso(s). Sem erros bloqueantes; examinar avisos.
