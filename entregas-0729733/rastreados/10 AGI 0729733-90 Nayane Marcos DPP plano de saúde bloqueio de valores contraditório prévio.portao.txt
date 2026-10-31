@@ -1,0 +1,13 @@
+Portão checar_voto.py (v6), AGI: 0 erros, avisos justificados (recuo 6 cm nas citações internas da liminar; fecho em parágrafo único, C-17 v40; dispositivo único, C-3F; transcrição do rodapé alterada por corte, C-33).
+hash original: ebb6a6e5975ef361
+Classe AGI | parágrafos (versão aceita) 136 | comentários 17 | alterações rastreadas {'ins': 67, 'del': 77, 'pPrChange': 1, 'rPrChange': 128}
+[AVISO] VOTO §90: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) No caso dos autos verifico a impossibilidade de cumprimento da obrigação de fazer e»
+[AVISO] VOTO §91: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Diante disso, razão assiste à parte exequente quanto à obrigação de reembolso integral na »
+[AVISO] VOTO §92: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «(...) Ante tudo o quanto expus, indefiro os requerimentos formulados ela executada Geap (I»
+[AVISO] VOTO §93: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Por derradeiro, tendo sido demonstrado o descumprimento da decisão que deferiu a tutela pr»
+[AVISO] VOTO §110: 64 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Dito isso, e não havendo alteração do quadro fático-jurídico delineado nos autos, com a má»
+[INFO] VOTO §110: 2 períodos/64 palavras: separar período conclusivo autônomo (v4)? → «Dito isso, e não havendo alteração do quadro fático-jurídico delineado nos autos, com a má»
+[AVISO] DISPOSITIVO §114: 88 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Ante o exposto, reiteradas as vênias, dou parcial provimento ao agravo de instrumento da e»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CPC, art. 1.015, parágrafo único; Resolução Normativa ANS»
+
+RESULTADO: 0 erro(s), 8 aviso(s). Sem erros bloqueantes; examinar avisos.
