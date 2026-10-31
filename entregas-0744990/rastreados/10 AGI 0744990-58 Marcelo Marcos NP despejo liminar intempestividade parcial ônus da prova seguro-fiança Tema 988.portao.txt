@@ -1,0 +1,9 @@
+Portão checar_voto.py (v6), AGI: 0 erros, 4 avisos justificados (rodapé da ementa em Arial 13, C-40; quatro parágrafos da decisão anexada em marrom nas partes principais, C-45; transcrição do CPC 231/1.003 do original suprimida por corte autorizado, C-17/C-3T).
+hash original: 328734904d0c0487
+Classe AGI | parágrafos (versão aceita) 145 | comentários 28 | alterações rastreadas {'ins': 46, 'del': 102, 'pPrChange': 0, 'rPrChange': 25}
+[AVISO] EMENTA §18: corpo 13.0 pt (texto editorial = 14) → «Dispositivos relevantes citados: CPC, arts. 231, II, e 373, II.»
+[AVISO] EMENTA §19: corpo 13.0 pt (texto editorial = 14) → «Jurisprudência relevante citada: STJ, REsp nº 1.696.396/MT (Tema Repetitivo 988), Rel. Min»
+[AVISO] ANEXO §0: 4 parágrafo(s) da decisão anexada fora da cor verde 00B050 (C-45)
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «“Art. 231. Salvo disposição em sentido diverso, considera-se dia do começo do prazo: (...)»
+
+RESULTADO: 0 erro(s), 4 aviso(s). Sem erros bloqueantes; examinar avisos.
