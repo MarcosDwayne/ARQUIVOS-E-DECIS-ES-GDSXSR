@@ -1,0 +1,9 @@
+hash original: 356b4c5c21004374
+Classe APC | parágrafos (versão aceita) 214 | comentários 14 | alterações rastreadas {'ins': 52, 'del': 64, 'pPrChange': 2, 'rPrChange': 7}
+[AVISO] VOTO §119: 89 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «O d. Juízo de origem determinou a emenda da petição inicial para que o embargante: a) junt»
+[INFO] VOTO §119: 2 períodos/89 palavras: separar período conclusivo autônomo (v4)? → «O d. Juízo de origem determinou a emenda da petição inicial para que o embargante: a) junt»
+[AVISO] VOTO §153: transcrição deve ser Arial 13 em itálico (C-40) → «4. Se preclusa a discussão acerca do excesso de execução, em razão do indeferimento limina»
+[AVISO] ANEXO §0: 2 parágrafo(s) da decisão anexada fora da cor verde 00B050 (C-45)
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CPC, arts. 99, § 3º; 321, parágrafo único; 330, IV; 485, »
+
+RESULTADO: 0 erro(s), 5 aviso(s). Sem erros bloqueantes; examinar avisos.

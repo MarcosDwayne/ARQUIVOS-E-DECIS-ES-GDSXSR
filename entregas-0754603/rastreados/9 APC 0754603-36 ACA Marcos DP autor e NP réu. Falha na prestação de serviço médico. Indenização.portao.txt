@@ -1,0 +1,14 @@
+RESULTADO: 0 erro(s), 7 aviso(s). Sem erros bloqueantes; examinar avisos.
+[AVISO] DISPOSITIVO §245: 77 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Ante o exposto, rejeito as preliminares de ofensa ao princípio da dialeticidade e de cerce»
+[AVISO] RELATÓRIO §112: referência (ID 89325405) no meio do período → «A autora opôs embargos de declaração (ID 89325405), os quais foram parcialmente acolhidos »
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CDC, arts. 6º, VIII, e 14; CPC, arts. 85, § 11, 86, 370, »
+[AVISO] VOTO §156: números da enumeração das alegações em negrito (C-43) → «O réu/apelante suscita preliminar de nulidade da sentença por cerceamento de defesa. Alega»
+[AVISO] VOTO §180: números da enumeração das alegações em negrito (C-43) → «O réu/apelante, Complexo Hospitalar Uberlândia S.A., alega que: 1) a cirurgia transcorreu »
+[AVISO] VOTO §208: números da enumeração das alegações em negrito (C-43) → «O réu/apelante alega que: 1) a indenização de R$ 8.000,00 é excessiva, pois os fatos têm r»
+
+Justificativas dos avisos:
+- Enumeração em negrito (§156, §180, §208): os números estão em negrito no DOCX; o portão não enxerga as runs inseridas dentro de w:ins (dígito inserido + ")" original).
+- Dispositivo com 77 palavras: dois comandos no mesmo parágrafo, como na minuta (C-3X permite passar de quatro linhas).
+- Relatório §112: fórmula fixa "embargos de declaração (ID …), os quais …" (C-20).
+- Transcrição §0: rodapé "Dispositivos relevantes citados" reduzido ao que o voto cita (C-33), não é transcrição.
+Enxugamento: ementa 728 -> 549 palavras (-25%); fundamentação 1.940 -> 1.166 (-40%).
