@@ -1,0 +1,20 @@
+hash original: 0741fcff130173fa
+Classe AGI | parágrafos (versão aceita) 175 | comentários 28 | alterações rastreadas {'ins': 62, 'del': 9, 'pPrChange': 20, 'rPrChange': 0}
+[AVISO] EMENTA §17: corpo 13.0 pt (texto editorial = 14) → «Dispositivos relevantes citados: CPC, arts. 231, II, e 373, II.»
+[AVISO] EMENTA §18: corpo 13.0 pt (texto editorial = 14) → «Jurisprudência relevante citada: STJ, REsp nº 1.696.396/MT (Tema Repetitivo 988), Rel. Min»
+[AVISO] VOTO §85: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘Art. 231. Salvo disposição em sentido diverso, considera-se dia do começo do prazo:»
+[AVISO] VOTO §86: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «(...)»
+[AVISO] VOTO §87: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «II - a data de juntada aos autos do mandado cumprido, quando a citação ou a intimação for »
+[AVISO] VOTO §97: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘A parte requerida pleiteia que a autora apresente os documentos relativos ao procedimento»
+[AVISO] VOTO §98: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Quanto ao ônus probatório, registro que o negócio jurídico que vincula as partes não está »
+[AVISO] VOTO §99: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Nota-se ainda que o presente feito trata-se de ação de despejo, não se aplicando a regra d»
+[AVISO] VOTO §100: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Portanto, incumbe à requerida o ônus da prova quanto à existência de fato impeditivo, modi»
+[AVISO] VOTO §101: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Considerando que consta da inicial que a requerida é a contratante do Seguro Fiança, os do»
+[AVISO] VOTO §102: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «A atuação do Juízo na produção probatória possui caráter subsidiário, não se justificando »
+[AVISO] VOTO §103: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Faculto à requerida a juntada dos documentos que obtiver diretamente junto à seguradora, o»
+[AVISO] VOTO §104: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Quanto à apuração do débito, aplicável o mesmo dispositivo legal já citado.»
+[AVISO] VOTO §105: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Assim, indefiro os pedidos formulados pela requerida na petição de id. 285946067, e facult»
+[AVISO] ANEXO §0: 4 parágrafo(s) da decisão anexada fora da cor verde 00B050 (C-45)
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «“(...) vejo que a agravante/autora (sic) foi citada e intimada por hora certa em 27/05/202»
+
+RESULTADO: 0 erro(s), 16 aviso(s). Sem erros bloqueantes; examinar avisos.
