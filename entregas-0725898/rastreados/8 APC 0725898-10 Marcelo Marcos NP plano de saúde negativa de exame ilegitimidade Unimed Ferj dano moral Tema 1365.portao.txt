@@ -1,0 +1,5 @@
+hash original: 5b1464c861c557b7
+Classe APC | parágrafos (versão aceita) 254 | comentários 40 | alterações rastreadas {'ins': 55, 'del': 47, 'pPrChange': 3, 'rPrChange': 1}
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CPC, arts. 109 e 373, II; CDC, arts. 6º, VIII, e 7º, pará»
+
+RESULTADO: 0 erro(s), 1 aviso(s). Sem erros bloqueantes; examinar avisos.
