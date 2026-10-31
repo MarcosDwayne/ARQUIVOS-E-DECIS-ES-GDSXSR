@@ -31,7 +31,7 @@ A revisão em si não se economiza: toda regra, a conferência jurídica, o port
 - [ ] Etapa 2 — leis, súmulas, temas e acórdãos conferidos nas fontes
 - [ ] Etapa 3 — texto revisado (concisão, parágrafos, IDs, voz)
 - [ ] Etapa 4 — edição técnica com controle de alterações
-- [ ] Etapa 5 — portão sem erros (se falhar, corrigir e rodar de novo)
+- [ ] Etapa 5 — realce amarelo conferido (subtítulos, frases decisórias, mini-dispositivos) e portão sem erros (se falhar, corrigir e rodar de novo)
 - [ ] Etapa 6 — entrega e relatório curto
 ```
 
@@ -97,6 +97,8 @@ doc.save(revisado)
 - Gere a versão aceita (`aceitar_tudo(revisado, "aceito.docx")`), converta com `soffice --headless --convert-to pdf` e inspecione **todas** as páginas (RELATÓRIO no topo, recuos, itálicos, cores, quebras, nada cortado) em folhas de contato: `pdftoppm -r 60 -png` e `montage -tile 3x2 -geometry +4+4`, 6 páginas por imagem; abra em resolução maior só a página em que algo parecer errado. Parágrafo com mais de 4 linhas no PDF é cindido. Entregue o arquivo **com as alterações do revisor já aceitas** (`aceitar_autor.py`; o texto novo permanece cinza; C-47) e guarde a cópia rastreada em `entregas/rastreados/`, junto do `.portao.txt`.
 
 ## Etapa 5 — Portão de entrega
+
+**Antes de rodar o portão, confira o realce amarelo (obrigatório; o lapso se repetiu em várias minutas ACA, como 0711376-49, 0714249-32 e 0711122-66, sobretudo depois de cortes fortes).** Abra o DOCX revisado e verifique, um a um, que têm realce amarelo: (a) o subtítulo de cada capítulo de mérito, que fica sem negrito (C-42); (b) a frase decisória isolada ("Sem razão a apelante.", "Com razão o apelante." e similares; C-42); (c) o mini-dispositivo de cada capítulo, exceto o último, que além do amarelo vai sublinhado (C-3A). No último capítulo não há mini-dispositivo, então não o crie para realçar. Se faltar realce, aplique com `formatar_trecho(..., realce="YELLOW")` antes do portão. O `checar_voto.py` não prova que o amarelo está certo: esta conferência é manual e vem primeiro. Cite no relatório, em meia linha, que o realce foi conferido.
 
 Rode `python3 checar_voto.py REVISADO.docx ORIGINAL.docx --classe=APC > portao.txt` (v6, com `revisao_tracked.py` na mesma pasta) e leia só erros e avisos (`grep -E "ERRO|AVISO" portao.txt`). Erros bloqueiam: inserção fora do cinza (exceto resumo), vermelho fora do resumo, comentário que deixa a decisão ao assessor, comentários perdidos, estrutura ausente, texto alterado fora do controle. Cada aviso (recuo ≠ 4 cm, transcrição sem itálico/13/recuo 4, enumeração sem negrito, "IDs", tese de julgamento, item de ementa sem número, mini-dispositivo no último capítulo ou sem sublinhado, "Condeno" sem negrito, resumo ausente, sentença fora do verde) deve ser corrigido ou justificado. Depois confira manualmente:
 - [ ] coerência ementa–resumo–relatório–capítulos–dispositivo (recursos, pedidos, resultado, honorários)
