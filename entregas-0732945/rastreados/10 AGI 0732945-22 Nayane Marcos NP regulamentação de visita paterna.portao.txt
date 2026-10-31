@@ -1,0 +1,10 @@
+hash original: dc67c31a124a2b2f
+Classe AGI | parágrafos (versão aceita) 116 | comentários 15 | alterações rastreadas {'ins': 54, 'del': 71, 'pPrChange': 1, 'rPrChange': 35}
+[AVISO] VOTO §72: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «‘(...) No caso concreto, os elementos atualmente constantes dos autos não permitem a forma»
+[AVISO] VOTO §73: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Também não se evidencia, por ora, perigo de dano apto a justificar a medida pleiteada, uma»
+[AVISO] VOTO §74: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Todavia, considerando o princípio do melhor interesse da criança e visando assegurar a man»
+[AVISO] VOTO §75: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «Diante do exposto, INDEFIRO o pedido de tutela de urgência formulado pela parte autora.»
+[AVISO] VOTO §76: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «MANTENHO, por ora, o regime de convivência anteriormente acordado entre as partes, devendo»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «MANTENHO, por ora, o regime de convivência anteriormente acordado entre as partes, devendo»
+
+RESULTADO: 0 erro(s), 6 aviso(s). Sem erros bloqueantes; examinar avisos.
