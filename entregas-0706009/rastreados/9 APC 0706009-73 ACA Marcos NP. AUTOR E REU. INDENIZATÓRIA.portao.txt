@@ -1,0 +1,10 @@
+hash original: 16156c093b9622b7
+Classe APC | parágrafos (versão aceita) 264 | comentários 17 | alterações rastreadas {'ins': 207, 'del': 298, 'pPrChange': 6, 'rPrChange': 76}
+[AVISO] RELATÓRIO §96: referência (ID 88784163) no meio do período → «O réu opôs embargos de declaração (ID 88784163), os quais foram rejeitados (ID 88784165).»
+[AVISO] RELATÓRIO §98: números da enumeração das alegações em negrito (C-43) → «Apelo do autor, Davi Mikaell Caldas de Queiroz (ID 88784164), em que alega, em síntese, qu»
+[AVISO] VOTO §150: números da enumeração das alegações em negrito (C-43) → «O réu/apelante alega que: 1) não difamou o autor perante terceiros ou a sociedade; 2) as m»
+[AVISO] VOTO §189: números da enumeração das alegações em negrito (C-43) → «O autor/apelante alega que: 1) a sentença errou ao concluir pela ausência de prova da divu»
+[INFO] VOTO §189: 2 períodos/59 palavras: separar período conclusivo autônomo (v4)? → «O autor/apelante alega que: 1) a sentença errou ao concluir pela ausência de prova da divu»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CC, arts. 186, 927 e 944.»
+
+RESULTADO: 0 erro(s), 6 aviso(s). Sem erros bloqueantes; examinar avisos.
