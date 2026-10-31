@@ -1,0 +1,7 @@
+hash original: a1f621e0eb605b2e
+Classe APC | parágrafos (versão aceita) 213 | comentários 23 | alterações rastreadas {'ins': 23, 'del': 12, 'pPrChange': 0, 'rPrChange': 17}
+[AVISO] VOTO §110: subtítulo do voto não centralizado → «DA COMPROVAÇÃO DA ABUSIVIDADE DA TAXA DOS JUROS REMUNERATÓRIOS E DA RESTITUIÇÃO SIMPLES»
+[AVISO] VOTO §112: números da enumeração das alegações em negrito (C-43) → «O autor/apelante alega que: 1) a taxa de juros remuneratórios de 22% ao mês (987,22% ao an»
+[AVISO] VOTO §152: subtítulo do voto não centralizado → «DA NÃO CONFIGURAÇÃO DOS DANOS MORAIS»
+
+RESULTADO: 0 erro(s), 3 aviso(s). Sem erros bloqueantes; examinar avisos.
