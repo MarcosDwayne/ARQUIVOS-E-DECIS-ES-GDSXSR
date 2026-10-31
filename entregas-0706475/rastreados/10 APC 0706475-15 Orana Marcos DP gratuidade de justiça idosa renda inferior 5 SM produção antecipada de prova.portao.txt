@@ -1,0 +1,10 @@
+hash original: 69098141c126e72e
+Classe APC | parágrafos (versão aceita) 234 | comentários 34 | alterações rastreadas {'ins': 63, 'del': 74, 'pPrChange': 1, 'rPrChange': 16}
+[INFO] VOTO §105: 2 períodos/47 palavras: separar período conclusivo autônomo (v4)? → «A falta dos extratos bancários e da declaração de imposto de renda não autoriza, com a máx»
+[AVISO] ANEXO §0: 2 parágrafo(s) da decisão anexada fora da cor verde 00B050 (C-45)
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CPC, arts. 85, § 11, 98, § 3º, 99, §§ 2º, 3º e 4º, e 101,»
+
+RESULTADO: 0 erro(s), 3 aviso(s). Sem erros bloqueantes; examinar avisos.
+
+Original (cópia preservada, SHA-256): 69098141c126e72e815816c601fc4ec660a515345dbc95a7f466ae60af33ab31
+Avisos justificados: (1) bloco violeta "PRECEDENTES CONTRÁRIOS AO VOTO" (C-46) não é decisão recorrida em verde; (2) transcrição alterada = lista "Dispositivos relevantes citados" da ementa (forma compacta, C-20).
