@@ -1,0 +1,14 @@
+RESULTADO: 0 erro(s), 13 aviso(s). Sem erros bloqueantes; examinar avisos.
+[AVISO] ANEXO §0: 15 parágrafo(s) da decisão anexada fora da cor verde 00B050 (C-45)
+[AVISO] EMENTA §21: corpo 13.0 pt (texto editorial = 14) → «Dispositivos relevantes citados: CPC, arts. 85, § 11; 86; 355, I; 370; 373, II; e 537, § 1»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Jurisprudência relevante citada: STF, ADI 7.265, Rel. Min. Luís Roberto Barroso, Tribunal »
+[AVISO] VOTO §116: referência (ID 91188016, 91188017 e 91188018) no meio do período → «Na hipótese, a necessidade do home care consta de três prescrições do médico assistente (I»
+[AVISO] VOTO §118: referência (ID 91188080, 91188081 e 91188090) no meio do período → «Além disso, foi informado nos autos que a paciente seguia hospitalizada em 10/03/2026 e em»
+[AVISO] VOTO §134: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «'(...) 1. Nos termos da jurisprudência desta Corte, 'é abusiva a cláusula contratual que v»
+[AVISO] VOTO §158: referência (ID 91188051 e 91188114) no meio do período → «Dessa forma, o rol da ANS não afasta a obrigação, e a tese firmada na ADI 7.265, invocada »
+[AVISO] VOTO §160: referência (ID 91188020, 91188080, 91188081 e 91188090) no meio do período → «No caso, a paciente seguia hospitalizada em 10/03/2026 e em 01/06/2026, após a tutela de 2»
+[AVISO] VOTO §162: referência (CPC 373 II) no meio do período → «Assim, cabia à ré provar que o atendimento ofertado equivalia ao prescrito (CPC 373 II), e»
+[AVISO] VOTO §168: referência (CPC 86) no meio do período → «Por fim, quanto à sucumbência, a distribuição proporcional pressupõe que cada litigante se»
+[AVISO] VOTO §206: referência (CC 944 parágrafo único) no meio do período → «Portanto, não há excessiva desproporção entre a gravidade da conduta e o dano (CC 944 pará»
+[AVISO] VOTO §216: referência (ID 91188020) no meio do período → «Quanto às astreintes, a tutela de urgência fixou multa de R$ 2.000,00 por dia, limitada a »
+[AVISO] VOTO §216: referência (ID 91188058) no meio do período → «Quanto às astreintes, a tutela de urgência fixou multa de R$ 2.000,00 por dia, limitada a »
