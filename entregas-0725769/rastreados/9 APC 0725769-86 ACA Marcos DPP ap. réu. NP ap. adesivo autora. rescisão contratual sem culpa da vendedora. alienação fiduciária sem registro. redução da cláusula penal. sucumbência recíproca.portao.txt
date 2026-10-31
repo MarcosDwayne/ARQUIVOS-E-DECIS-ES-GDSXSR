@@ -1,0 +1,17 @@
+hash original: aefbc1ab49453faa
+Classe APC | parágrafos (versão aceita) 390 | comentários 26 | alterações rastreadas {'ins': 363, 'del': 451, 'pPrChange': 1, 'rPrChange': 0}
+[AVISO] RELATÓRIO §127: referência (ID 89808529) no meio do período → «A ré, FGR Urbanismo Centro-Sul S.A., opôs embargos de declaração (ID 89808529), os quais f»
+[AVISO] RELATÓRIO §133: números da enumeração das alegações em negrito (C-43) → «Contrarrazões da autora ao apelo da ré (ID 89808543) em que alega que: 1) a garantia fiduc»
+[AVISO] RELATÓRIO §139: números da enumeração das alegações em negrito (C-43) → «Contrarrazões da ré ao apelo adesivo da autora (ID 89808549), em que alega que: 1) inexist»
+[AVISO] VOTO §171: números da enumeração das alegações em negrito (C-43) → «Sem inadimplemento e consequente consolidação da propriedade fiduciária, a excussão da gar»
+[AVISO] DISPOSITIVO §265: 'Condeno' em negrito no dispositivo (estrutura pronta, C-43) → «Condeno a autora/apelante ao pagamento de honorários recursais que fixo em 2% sobre o valo»
+[ERRO] DISPOSITIVO §360: título DISPOSITIVO sem negrito
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CPC, arts. 85, § 2º, 86, caput, e 487, I; CC, art. 413; L»
+
+RESULTADO: 1 erro(s), 6 aviso(s). REPROVADO
+
+JUSTIFICATIVA DOS AVISOS/ERRO RESTANTES (revisor):
+- ERRO "DISPOSITIVO sem negrito" (§360): falso positivo; o checador lê o título "IV. DISPOSITIVO E TESE" da ementa do acórdão transcrito dentro da sentença anexa (já existia no original, §371). O DISPOSITIVO do voto está em negrito.
+- AVISO §171: "26 e 27)" da citação "(Lei 9.514/97 26 e 27)" confundido com enumeração; não há enumeração no parágrafo.
+- AVISOS do relatório (§127, §133, §139) e "Condeno" em negrito (divisão de runs do original): trechos originais, fora do escopo do enxugamento; negrito de "Condeno" mantido.
+- AVISO transcrição §0: rodapé "Dispositivos relevantes citados" reescrito de propósito (C-33, C-62).
