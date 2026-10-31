@@ -1,0 +1,9 @@
+hash original: 414e18d96b96cb18
+Classe APC | parágrafos (versão aceita) 223 | comentários 29 | alterações rastreadas {'ins': 53, 'del': 52, 'pPrChange': 1, 'rPrChange': 2}
+[AVISO] VOTO §102: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «'(...) 3. O Superior Tribunal de Justiça firmou o entendimento de que a responsabilidade a»
+[AVISO] VOTO §104: transcrição com recuo esquerdo 6.0 cm (padrão 4 cm, C-41) → «'(...) 1. Segundo o acórdão recorrido, 'a responsabilidade administrativa ambiental é fund»
+[AVISO] VOTO §121: referência (ID 90826048) no meio do período → «Na hipótese, o relatório operacional não registra flagrante, veículo, preposto ou testemun»
+[AVISO] ANEXO §0: 17 parágrafo(s) da decisão anexada fora da cor verde 00B050 (C-45)
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: Lei nº 6.938/1981, art. 14, § 1º; CPC, art. 85, §§ 3º, I,»
+
+RESULTADO: 0 erro(s), 5 aviso(s). Sem erros bloqueantes; examinar avisos.
