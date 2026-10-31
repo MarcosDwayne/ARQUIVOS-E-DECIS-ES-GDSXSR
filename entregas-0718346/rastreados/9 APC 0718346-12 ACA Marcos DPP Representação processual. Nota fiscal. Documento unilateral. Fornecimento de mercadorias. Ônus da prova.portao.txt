@@ -1,0 +1,6 @@
+hash original: 15174f951f11c62a
+Classe APC | parágrafos (versão aceita) 219 | comentários 14 | alterações rastreadas {'ins': 276, 'del': 333, 'pPrChange': 1, 'rPrChange': 129}
+[AVISO] RELATÓRIO §77: referência (ID 89272423) no meio do período → «A ré opôs embargos de declaração (ID 89272423), os quais foram rejeitados (ID 89272427).»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Jurisprudência relevante citada: TJDFT, Acórdão 2129639, RI 0734144-02.2024.8.07.0016, Rel»
+
+RESULTADO: 0 erro(s), 2 aviso(s). Sem erros bloqueantes; examinar avisos.
