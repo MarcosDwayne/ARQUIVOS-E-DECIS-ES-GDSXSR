@@ -1,0 +1,6 @@
+[AVISO] RELATÓRIO §113: referência (ID 89043171) no meio do período → «Os réus opuseram embargos de declaração (ID 89043171), os quais foram rejeitados (ID 89043»
+[AVISO] DISPOSITIVO §235: referência (ID 89043070 e 89043071) no meio do período → «Ante o exposto, dou parcial provimento ao apelo das rés, José Celso Gontijo Engenharia S/A»
+[AVISO] DISPOSITIVO §235: 92 palavras: provável >4 linhas renderizadas; cindir no ponto lógico → «Ante o exposto, dou parcial provimento ao apelo das rés, José Celso Gontijo Engenharia S/A»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Jurisprudência relevante citada: TJDFT, Acórdão 1970935, RI 0773294-87.2024.8.07.0016, Rel»
+RESULTADO: 0 erro(s), 4 aviso(s). Sem erros bloqueantes; examinar avisos.
+Justificativa dos avisos: dispositivo de 92 palavras segue C-3X (pode passar de 4 linhas); ID no meio do período em §119 é do relatório original; ID do dispositivo em parêntese por C-25; aviso de transcrição §0 refere-se à linha de jurisprudência da ementa (retirada do Acórdão 1970935, C-65). Ementa 550→403 palavras (−26,7%); fundamentação 2517→1480 (−41,2%).

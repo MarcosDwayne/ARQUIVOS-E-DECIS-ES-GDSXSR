@@ -1,0 +1,6 @@
+hash original: 023afbd37e43233f
+Classe APC | parágrafos (versão aceita) 226 | comentários 11 | alterações rastreadas {'ins': 82, 'del': 417, 'pPrChange': 0, 'rPrChange': 60}
+[AVISO] RELATÓRIO §88: referência (ID 88628041) no meio do período → «A ré opôs embargos de declaração (ID 88628041), os quais foram rejeitados (ID 88628045).»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «8. A defesa apresentada pela Curadoria Especial concentrou-se em impugnações genéricas à c»
+
+RESULTADO: 0 erro(s), 2 aviso(s). Sem erros bloqueantes; examinar avisos.
