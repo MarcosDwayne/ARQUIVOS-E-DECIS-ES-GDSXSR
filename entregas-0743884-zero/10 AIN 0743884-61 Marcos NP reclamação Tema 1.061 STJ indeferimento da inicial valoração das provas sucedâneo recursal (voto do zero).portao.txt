@@ -1,0 +1,4 @@
+Classe AGI | parágrafos (versão aceita) 185 | comentários 6 | alterações rastreadas {'ins': 0, 'del': 0, 'pPrChange': 0, 'rPrChange': 0}
+[INFO] VOTO §70: 2 períodos/47 palavras: separar período conclusivo autônomo (v4)? → «Requer o juízo de retratação, para tornar sem efeito as decisões de ID 89828706 e 90491338»
+
+RESULTADO: 0 erro(s), 1 aviso(s). Sem erros bloqueantes; examinar avisos.
