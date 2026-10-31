@@ -1,0 +1,9 @@
+hash original: 9cd4356af35d4b32
+Classe APC | parágrafos (versão aceita) 393 | comentários 71 | alterações rastreadas {'ins': 113, 'del': 90, 'pPrChange': 1, 'rPrChange': 17}
+[AVISO] ANEXO §0: 53 parágrafo(s) da decisão anexada fora da cor verde 00B050 (C-45)
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CF/88, arts. 5º, XXXV, e 227; CDC, art. 51, IV; CPC, arts»
+
+RESULTADO: 0 erro(s), 2 aviso(s). Sem erros bloqueantes; examinar avisos.
+
+Justificativa dos avisos: (1) ANEXO verde: 53 parágrafos já estavam fora do verde na minuta original (conferido ao rodar o portão no original), sem alteração minha. (2) TRANSCRIÇÃO do rodapé da ementa: supressão deliberada de "CDC, art. 51, IV" porque o voto não cita o CDC (C-33).
+Pendências: número e DJe do acórdão 0710416-69.2023.8.07.0014 (JurisDF); Resolução CONSU 13/1998 só em fonte não oficial; ID 90392036; sem autos (C-24).
