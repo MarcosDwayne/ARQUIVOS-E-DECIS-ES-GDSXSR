@@ -1,0 +1,7 @@
+hash original: 275d6de54b1ae887
+Classe APC | parágrafos (versão aceita) 209 | comentários 21 | alterações rastreadas {'ins': 270, 'del': 330, 'pPrChange': 4, 'rPrChange': 201}
+[AVISO] VOTO §136: corpo 13.0 pt (texto editorial = 14) → «A tabela informada pelo autor, cujo valor a ré não impugnou, indica que a taxa média de me»
+[AVISO] DISPOSITIVO §164: números da enumeração das alegações em negrito (C-43) → «Ante o exposto, rejeito a preliminar de ausência de dialeticidade recursal e, no mérito, r»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Jurisprudência relevante citada: STJ, REsp 1.061.530/RS, Rel. Min. Nancy Andrighi, Segunda»
+
+RESULTADO: 0 erro(s), 3 aviso(s). Sem erros bloqueantes; examinar avisos.
