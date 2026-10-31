@@ -1,0 +1,6 @@
+hash original: b4227ab78c352e37
+Classe APC | parágrafos (versão aceita) 285 | comentários 10 | alterações rastreadas {'ins': 372, 'del': 552, 'pPrChange': 1, 'rPrChange': 58}
+[AVISO] RELATÓRIO §89: referência (ID 88628041) no meio do período → «A ré opôs embargos de declaração (ID 88628041), os quais foram rejeitados (ID 88628045).»
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CPC, arts. 85, § 11; 373, I e II.»
+
+RESULTADO: 0 erro(s), 2 aviso(s). Sem erros bloqueantes; examinar avisos.
