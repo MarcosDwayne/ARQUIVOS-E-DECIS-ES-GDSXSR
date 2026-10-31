@@ -1,0 +1,13 @@
+hash original: e6b23f816239379c
+Classe APC | parágrafos (versão aceita) 198 | comentários 66 | alterações rastreadas {'ins': 82, 'del': 76, 'pPrChange': 1, 'rPrChange': 0}
+[AVISO] RELATÓRIO §65: referência (ID 89748013) no meio do período → «O autor opôs embargos de declaração (ID 89748013), os quais foram rejeitados (ID 89748014)»
+[AVISO] VOTO §109: transcrição deve ser Arial 13 em itálico (C-40) → «§ 1º Nas hipóteses descritas nos incisos II e III, a parte será intimada pessoalmente para»
+[INFO] VOTO §111: 3 períodos/53 palavras: separar período conclusivo autônomo (v4)? → «No caso dos autos, a liminar foi deferida em abril de 2025 e, ao longo de mais de um ano, »
+[AVISO] VOTO §129: transcrição deve ser Arial 13 em itálico (C-40) → «“Art. 4º Se o bem alienado fiduciariamente não for encontrado ou não se achar na posse do »
+[AVISO] VOTO §140: transcrição deve ser Arial 13 em itálico (C-40) → «(Acórdão 2074929, 0714039-94.2025.8.07.0007, Relator(a): JOSE FIRMO REIS SOUB, 8ª TURMA CÍ»
+[AVISO] ANEXO §0: 4 parágrafo(s) da decisão anexada fora da cor verde 00B050 (C-45)
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CPC, arts. 4º, 6º, 319, II, 485, IV, VI e § 1º, e 488; De»
+
+RESULTADO: 0 erro(s), 7 aviso(s). Sem erros bloqueantes; examinar avisos.
+
+JUSTIFICATIVA DOS AVISOS (revisor): §65 e ID no meio do período no relatório = fórmula fixa do relatório e texto original; "– Grifei" sem itálico nos três blocos (art. 485, art. 4º DL 911, Acórdão 2074929) = forma já usada na minuta (Grifei fora do itálico); anexo "fora do verde" = parágrafos vazios/cabeçalho da sentença, sem alteração do revisor; "transcrição alterada" = rodapé "Dispositivos relevantes citados" reescrito em forma compacta (C-20).
