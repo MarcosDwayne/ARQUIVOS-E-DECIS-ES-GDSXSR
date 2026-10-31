@@ -1,0 +1,5 @@
+hash original: aaf5c26ef1894286
+Classe APC | parágrafos (versão aceita) 217 | comentários 16 | alterações rastreadas {'ins': 250, 'del': 339, 'pPrChange': 1, 'rPrChange': 88}
+[AVISO] TRANSCRIÇÃO §0: transcrição do original alterada; conferir se foi só supressão autorizada (cabeçalho de ementa) → «Dispositivos relevantes citados: CDC, art. 42, parágrafo único; CPC, art. 85, § 2º.»
+
+RESULTADO: 0 erro(s), 1 aviso(s). Sem erros bloqueantes; examinar avisos.
